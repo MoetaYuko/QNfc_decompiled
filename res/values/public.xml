@@ -115,7 +115,6 @@
     <public type="string" name="routing_table_full" id="0x7f080053" />
     <public type="string" name="nfc_enabled_dialog" id="0x7f080054" />
     <public type="string" name="nfc_enabled_tittle" id="0x7f080055" />
-    <public type="string" name="huawei_beam" id="0x7f080056" />
     <public type="string" name="nfc_not_enabled_user_restriction" id="0x7f080057" />
     <public type="string" name="no_transfers_new" id="0x7f080058" />
     <public type="string" name="transfer_clear_dlg_msg_new" id="0x7f080059" />

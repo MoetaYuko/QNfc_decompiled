@@ -79,8 +79,6 @@
 
 .field public static final from_target_device:I = 0x7f080038
 
-.field public static final huawei_beam:I = 0x7f080056
-
 .field public static final nfcUserLabel:I = 0x7f080001
 
 .field public static final nfc_confirm_pairing:I = 0x7f080034

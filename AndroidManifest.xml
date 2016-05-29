@@ -49,7 +49,6 @@
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
     <uses-permission android:name="com.android.nfc.permission.ACCESS_INTERFACE"/>
     <uses-permission android:name="com.android.nfc.permission.ACCESS_RECEIVE_HISTORY"/>
-    <uses-permission android:name="com.android.dreams.phototable.permission.HUAWEI_PHOTOTABLE_ACCESS"/>
     <uses-permission android:name="android.permission.ACCESS_AP_INFORMATION"/>
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
     <application android:backupAgent="com.android.nfc.NfcBackupAgent" android:icon="@drawable/icon" android:killAfterRestore="false" android:label="@string/app_name" android:name=".NfcApplication" android:persistent="true" android:supportsRtl="true" android:theme="@android:style/Theme.Material.Light" android:usesCleartextTraffic="false">
@@ -73,7 +72,7 @@
         <activity android:excludeFromRecents="true" android:name=".handover.HandoverTransferDialog">
             <meta-data android:name="hwc-theme" android:value="androidhwext:style/Theme.Emui.Dialog.Alert"/>
         </activity>
-        <activity android:excludeFromRecents="true" android:finishOnCloseSystemDialogs="true" android:label="@string/huawei_beam" android:name=".BeamShareActivity" android:noHistory="true" android:theme="@style/BeamShareActivityDialog">
+        <activity android:excludeFromRecents="true" android:finishOnCloseSystemDialogs="true" android:label="@string/android_beam" android:name=".BeamShareActivity" android:noHistory="true" android:theme="@style/BeamShareActivityDialog">
             <intent-filter>
                 <action android:name="android.intent.action.SEND"/>
                 <category android:name="android.intent.category.DEFAULT"/>

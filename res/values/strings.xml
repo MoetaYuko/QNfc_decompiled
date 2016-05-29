@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Connected</string>
     <string name="title_connect_to_network">Connect to network</string>
     <string name="prompt_connect_to_network">Connect to network %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam requires NFC to be enabled. Enable it now?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam requires NFC to be enabled. Enable it now?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC received</string>
     <string name="unknown_file">Unknown file</string>
@@ -86,7 +86,6 @@
     <string name="routing_table_full">Routing table is full. Please uninstall some payment apps.</string>
     <string name="nfc_enabled_dialog">NFC must be enabled. Enable it?</string>
     <string name="nfc_enabled_tittle">Note</string>
-    <string name="huawei_beam">Huawei Beam</string>
     <string name="nfc_not_enabled_user_restriction">This user is not allowed to enable the NFC service.</string>
     <string name="no_transfers_new">No received history.</string>
     <string name="transfer_clear_dlg_msg_new">All received history will be deleted.</string>
