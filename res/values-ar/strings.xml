@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">تم الاتصال</string>
     <string name="title_connect_to_network">الاتصال بالشبكة</string>
     <string name="prompt_connect_to_network">هل تريد الاتصال بالشبكة %1$s؟</string>
-    <string name="beam_requires_nfc_enabled">يحتاج تطبيق \"Huawei Beam\" إلى تمكين NFC. هل تريد تمكينه الآن؟</string>
+    <string name="beam_requires_nfc_enabled">يحتاج تطبيق \"Android Beam\" إلى تمكين NFC. هل تريد تمكينه الآن؟</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">الملفات المستلمة عبر NFC</string>
     <string name="unknown_file">ملف غير معروف</string>

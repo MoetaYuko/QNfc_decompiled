@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">已连接</string>
     <string name="title_connect_to_network">连接到网络</string>
     <string name="prompt_connect_to_network">是否连接到网络 %1$s？</string>
-    <string name="beam_requires_nfc_enabled">开启 NFC 后才能使用 Huawei Beam，是否开启？</string>
+    <string name="beam_requires_nfc_enabled">开启 NFC 后才能使用 Android Beam，是否开启？</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">通过 NFC 接收的文件</string>
     <string name="unknown_file">未知文件</string>

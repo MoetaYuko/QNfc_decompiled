@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">जडान भएको</string>
     <string name="title_connect_to_network">सञ्जालमा जडान गर्नुहोस्</string>
     <string name="prompt_connect_to_network">%1$s सञ्जालमा जडान गर्ने?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam लाई NFC रद्द गर्न आवश्यक हुन्छ। यसलाई अहिले सक्षम गर्ने?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam लाई NFC रद्द गर्न आवश्यक हुन्छ। यसलाई अहिले सक्षम गर्ने?</string>
     <string name="android_beam">एन्ड्रोइड बीम</string>
     <string name="nfc_live_folder">NFC प्राप्त गरियो</string>
     <string name="unknown_file">अज्ञात फाइल</string>

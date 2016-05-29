@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Tersambung</string>
     <string name="title_connect_to_network">Sambungkan ke jaringan</string>
     <string name="prompt_connect_to_network">Sambungkan ke jaringan %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam memerlukan pengaktifan NFC. Aktifkan sekarang?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam memerlukan pengaktifan NFC. Aktifkan sekarang?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC diterima</string>
     <string name="unknown_file">File tidak diketahui</string>

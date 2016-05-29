@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Connexió correcta</string>
     <string name="title_connect_to_network">Connexió a la xarxa</string>
     <string name="prompt_connect_to_network">Vols connectar-te a la xarxa %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam necessita que NFC estigui habilitat. El voleu habilitar ara?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam necessita que NFC estigui habilitat. El voleu habilitar ara?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC rebuda</string>
     <string name="unknown_file">Fitxer desconegut</string>

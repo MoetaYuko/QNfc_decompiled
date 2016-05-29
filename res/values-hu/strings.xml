@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Csatlakozva</string>
     <string name="title_connect_to_network">Csatlakozás hálózathoz</string>
     <string name="prompt_connect_to_network">Csatlakozik a következő hálózathoz: %1$s?</string>
-    <string name="beam_requires_nfc_enabled">A Huawei Beamhez szükség van az NFC engedélyezésére. Engedélyezi most?</string>
+    <string name="beam_requires_nfc_enabled">A Android Beamhez szükség van az NFC engedélyezésére. Engedélyezi most?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC fogadott</string>
     <string name="unknown_file">Ismeretlen fájl</string>

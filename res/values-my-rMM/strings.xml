@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">ချိတ်ဆက်ထား</string>
     <string name="title_connect_to_network">ကွန်ရက်ကို ဆက်သွယ်ရန်</string>
     <string name="prompt_connect_to_network">ကွန်ရက် %1$sကို ချိတ်ဆက်ရမလား?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam သည် NFC ကိုဖွင့်ပေးရန် လိုအပ်သည်။ ၄င်းကို ယခု ဖွင့်မည်လား?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam သည် NFC ကိုဖွင့်ပေးရန် လိုအပ်သည်။ ၄င်းကို ယခု ဖွင့်မည်လား?</string>
     <string name="android_beam">အနျဒရှိုကျ အလငျးတနျး</string>
     <string name="nfc_live_folder">NFC လက်ခံရရှိခဲ့သည်</string>
     <string name="unknown_file">မသိသောဖိုင်</string>

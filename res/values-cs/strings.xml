@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Připojeno</string>
     <string name="title_connect_to_network">Připojit k síti</string>
     <string name="prompt_connect_to_network">Připojit k síti %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam vyžaduje povolení NFC. Povolit nyní?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam vyžaduje povolení NFC. Povolit nyní?</string>
     <string name="android_beam">Teleport Android</string>
     <string name="nfc_live_folder">Příjem pomocí NFC</string>
     <string name="unknown_file">Neznámý soubor</string>

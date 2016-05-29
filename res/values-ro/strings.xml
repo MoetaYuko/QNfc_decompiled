@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Conectată</string>
     <string name="title_connect_to_network">Conectați-vă la rețea</string>
     <string name="prompt_connect_to_network">Doriți să vă conectați la rețeaua %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam solicită activarea NFC. Activaţi acum?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam solicită activarea NFC. Activaţi acum?</string>
     <string name="android_beam">Transmitere Android</string>
     <string name="nfc_live_folder">NFC primit</string>
     <string name="unknown_file">Fișier necunoscut</string>

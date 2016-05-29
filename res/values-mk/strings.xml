@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Поврзано</string>
     <string name="title_connect_to_network">Поврзи се на мрежа</string>
     <string name="prompt_connect_to_network">Да се поврзе на мрежата %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam бара да се овозможи NFC. Да се овозможи сега?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam бара да се овозможи NFC. Да се овозможи сега?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">Добиени преку NFC</string>
     <string name="unknown_file">Непозната датотека</string>

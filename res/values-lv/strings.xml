@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Savienojums ir izveidots.</string>
     <string name="title_connect_to_network">Savienojuma izveide ar tīklu</string>
     <string name="prompt_connect_to_network">Vai izveidot savienojumu ar tīklu %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Lai lietotu Huawei Beam, ir jābūt iespējotiem NFC. Vai iespējot tūlīt?</string>
+    <string name="beam_requires_nfc_enabled">Lai lietotu Android Beam, ir jābūt iespējotiem NFC. Vai iespējot tūlīt?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC saņemts</string>
     <string name="unknown_file">Nezināms fails</string>

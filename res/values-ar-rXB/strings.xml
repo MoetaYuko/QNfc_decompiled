@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">‏‮Connected‬‏</string>
     <string name="title_connect_to_network">‏‮Connect‬‏ ‏‮to‬‏ ‏‮network‬‏</string>
     <string name="prompt_connect_to_network">‏‮Connect‬‏ ‏‮to‬‏ ‏‮network‬‏ %1$s‏‮?‬‏</string>
-    <string name="beam_requires_nfc_enabled">‏‮Huawei‬‏ ‏‮Beam‬‏ ‏‮requires‬‏ ‏‮NFC‬‏ ‏‮to‬‏ ‏‮be‬‏ ‏‮enabled.‬‏ ‏‮Enable‬‏ ‏‮it‬‏ ‏‮now?‬‏</string>
+    <string name="beam_requires_nfc_enabled">‏‮Android‬‏ ‏‮Beam‬‏ ‏‮requires‬‏ ‏‮NFC‬‏ ‏‮to‬‏ ‏‮be‬‏ ‏‮enabled.‬‏ ‏‮Enable‬‏ ‏‮it‬‏ ‏‮now?‬‏</string>
     <string name="android_beam">‏‮Android‬‏ ‏‮Beam‬‏</string>
     <string name="nfc_live_folder">‏‮NFC‬‏ ‏‮received‬‏</string>
     <string name="unknown_file">‏‮Unknown‬‏ ‏‮file‬‏</string>

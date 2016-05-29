@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">সংযুক্ত</string>
     <string name="title_connect_to_network">নেটওয়ার্কে সংযোগ করুন</string>
     <string name="prompt_connect_to_network">%1$sনেটওয়ার্কের সাথে সংযোগ করবেন?</string>
-    <string name="beam_requires_nfc_enabled">Huawei বিমের NFC সক্ষম হওয়া প্রয়োজন। এটিকে এখন সক্ষম করবেন?</string>
+    <string name="beam_requires_nfc_enabled">Android বিমের NFC সক্ষম হওয়া প্রয়োজন। এটিকে এখন সক্ষম করবেন?</string>
     <string name="android_beam">Android বিম</string>
     <string name="nfc_live_folder">NFC প্রাপ্ত</string>
     <string name="unknown_file">অজানা ফাইল</string>

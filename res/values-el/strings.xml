@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Συνδέθηκε</string>
     <string name="title_connect_to_network">Σύνδεση στο δίκτυο</string>
     <string name="prompt_connect_to_network">Σύνδεση στο δίκτυο %1$s;</string>
-    <string name="beam_requires_nfc_enabled">Το Huawei Beam απαιτεί NFC, για να ενεργοποιηθεί. Να γίνει ενεργοποίηση τώρα;</string>
+    <string name="beam_requires_nfc_enabled">Το Android Beam απαιτεί NFC, για να ενεργοποιηθεί. Να γίνει ενεργοποίηση τώρα;</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">Παραλήφθηκε ειδοπ.</string>
     <string name="unknown_file">Άγνωστο αρχείο</string>

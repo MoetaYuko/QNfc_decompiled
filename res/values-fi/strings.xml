@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Yhdistetty</string>
     <string name="title_connect_to_network">Yhdistä verkkoon</string>
     <string name="prompt_connect_to_network">Yhdistetäänkö verkkoon %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam vaatii, että NFC on käytössä. Otetaanko se käyttöön nyt?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam vaatii, että NFC on käytössä. Otetaanko se käyttöön nyt?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">Lähiviestintä (NFC) vastaanotettu</string>
     <string name="unknown_file">Tuntematon tiedosto</string>

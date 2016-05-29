@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Prisijungta</string>
     <string name="title_connect_to_network">Prisijungti prie tinklo</string>
     <string name="prompt_connect_to_network">Prisijungti prie tinklo „%1$s“?</string>
-    <string name="beam_requires_nfc_enabled">„Huawei Beam“ reikia, kad būtų įjungtas NFC. Ar įjungti jį dabar?</string>
+    <string name="beam_requires_nfc_enabled">„Android Beam“ reikia, kad būtų įjungtas NFC. Ar įjungti jį dabar?</string>
     <string name="android_beam">„Android“ perdavimas</string>
     <string name="nfc_live_folder">Gauta per NFC</string>
     <string name="unknown_file">Nežinomas failas</string>

@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">接続済み</string>
     <string name="title_connect_to_network">ネットワークに接続</string>
     <string name="prompt_connect_to_network">ネットワーク%1$sに接続しますか？</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beamでは、NFCを有効にする必要があります。今すぐ有効にしますか？</string>
+    <string name="beam_requires_nfc_enabled">Android Beamでは、NFCを有効にする必要があります。今すぐ有効にしますか？</string>
     <string name="android_beam">Androidビーム</string>
     <string name="nfc_live_folder">NFC受信</string>
     <string name="unknown_file">不明なファイル</string>

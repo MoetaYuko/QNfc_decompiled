@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Povezava je vzpostavljena</string>
     <string name="title_connect_to_network">Vzpostavitev povezave z omrežjem</string>
     <string name="prompt_connect_to_network">Želite vzpostaviti povezavo z omrežjem %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Za program Huawei Beam je treba omogočiti funkcijo NFC. Jo želite omogočiti zdaj?</string>
+    <string name="beam_requires_nfc_enabled">Za program Android Beam je treba omogočiti funkcijo NFC. Jo želite omogočiti zdaj?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">Prejeti NFC</string>
     <string name="unknown_file">Neznana datoteka</string>

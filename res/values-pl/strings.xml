@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Połączono</string>
     <string name="title_connect_to_network">Połącz z siecią</string>
     <string name="prompt_connect_to_network">Połączyć z siecią %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Funkcja Huawei Beam wymaga włączonej funkcji NFC. Włączyć teraz?</string>
+    <string name="beam_requires_nfc_enabled">Funkcja Android Beam wymaga włączonej funkcji NFC. Włączyć teraz?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">Odebrano komunikację NFC</string>
     <string name="unknown_file">Nieznany plik</string>

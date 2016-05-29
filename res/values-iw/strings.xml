@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">מחובר</string>
     <string name="title_connect_to_network">התחבר לרשת</string>
     <string name="prompt_connect_to_network">להתחבר לרשת %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam צריך ש-NFC יופעל. להפעיל עכשיו?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam צריך ש-NFC יופעל. להפעיל עכשיו?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC התקבל</string>
     <string name="unknown_file">קובץ לא ידוע</string>

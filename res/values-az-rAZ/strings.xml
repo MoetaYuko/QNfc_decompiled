@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Qoşuldu</string>
     <string name="title_connect_to_network">Şəbəkə ilə qoşul</string>
     <string name="prompt_connect_to_network">%1$s şəbəkəsi ilə qoşulsun?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam NFC-nin aktiv edilməsini tələb edir. İndi aktiv edilsin?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam NFC-nin aktiv edilməsini tələb edir. İndi aktiv edilsin?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC qəbul edildi</string>
     <string name="unknown_file">Naməlum fayl</string>

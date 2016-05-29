@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Konektatuta</string>
     <string name="title_connect_to_network">Konektatu sarera</string>
     <string name="prompt_connect_to_network">%1$s sarera konektatu nahi duzu?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam erabili ahal izateko, NFCk gaituta izan behar du. Orain gaitu?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam erabili ahal izateko, NFCk gaituta izan behar du. Orain gaitu?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">Jasotako NFCak</string>
     <string name="unknown_file">Fitxategi ezezaguna</string>

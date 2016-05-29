@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Povezano</string>
     <string name="title_connect_to_network">Poveži se s mrežom</string>
     <string name="prompt_connect_to_network">Poveži se s mrežom %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Za korištenje funkcionalnosti Huawei Beam potrebno je omogućiti NFC. Omogućiti sada?</string>
+    <string name="beam_requires_nfc_enabled">Za korištenje funkcionalnosti Android Beam potrebno je omogućiti NFC. Omogućiti sada?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC je primljen</string>
     <string name="unknown_file">Nepoznata datoteka</string>

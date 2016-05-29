@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Tilkoblet</string>
     <string name="title_connect_to_network">Koble til nettverket</string>
     <string name="prompt_connect_to_network">Vil du koble til nettverket «%1$s»?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam krever at NFC er aktivert. Vil du aktivere nå?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam krever at NFC er aktivert. Vil du aktivere nå?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC mottatt</string>
     <string name="unknown_file">Ukjent fil</string>

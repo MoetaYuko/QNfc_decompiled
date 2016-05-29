@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">සම්බන්ධ විය</string>
     <string name="title_connect_to_network">ජාලයකට සම්බන්ධ කරන්න</string>
     <string name="prompt_connect_to_network">%1$s ජාලයට සම්බන්ධ කරන්නේද?</string>
-    <string name="beam_requires_nfc_enabled">Huawei කදම්භය සඳහා NFC සක්‍රිය කළ යුතුයි. එය දැන් සක්‍රීය කරන්නේද?</string>
+    <string name="beam_requires_nfc_enabled">Android කදම්භය සඳහා NFC සක්‍රිය කළ යුතුයි. එය දැන් සක්‍රීය කරන්නේද?</string>
     <string name="android_beam">ඇන්ඩ්‍රොයිඩ් කදම්භය</string>
     <string name="nfc_live_folder">NFC ලැබිණි</string>
     <string name="unknown_file">නොදන්නා ගොනුව</string>

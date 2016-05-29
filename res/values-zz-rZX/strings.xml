@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">[PD_127569]_Connected</string>
     <string name="title_connect_to_network">[PD_127562]_Connect to network</string>
     <string name="prompt_connect_to_network">[PD_127567]_Connect to network %1$s?</string>
-    <string name="beam_requires_nfc_enabled">[PD_127573]_Huawei Beam requires NFC to be enabled. Enable it now?</string>
+    <string name="beam_requires_nfc_enabled">[PD_127573]_Android Beam requires NFC to be enabled. Enable it now?</string>
     <string name="android_beam">[PD_127570]_Android Beam</string>
     <string name="nfc_live_folder">[PL_32226]_NFC received</string>
     <string name="unknown_file">[PL_32227]_Unknown file</string>

@@ -38,7 +38,7 @@
     <string name="status_wifi_connected">Ulandi</string>
     <string name="title_connect_to_network">Tarmoqqa ulash</string>
     <string name="prompt_connect_to_network">%1$s tarmoqqa ulansinmi?</string>
-    <string name="beam_requires_nfc_enabled">Huawei Beam ishlashi uchun NFC zarur. Hozir yoqilsinmi?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam ishlashi uchun NFC zarur. Hozir yoqilsinmi?</string>
     <string name="android_beam">Android Beam</string>
     <string name="nfc_live_folder">NFC olindi</string>
     <string name="unknown_file">"Noma'lum fayl"</string>
