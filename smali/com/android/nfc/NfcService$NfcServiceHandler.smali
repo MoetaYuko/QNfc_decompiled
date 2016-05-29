@@ -1506,15 +1506,6 @@
 
     invoke-static/range {v26 .. v27}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
-    .line 2974
-    move-object/from16 v0, p0
-
-    iget-object v0, v0, Lcom/android/nfc/NfcService$NfcServiceHandler;->this$0:Lcom/android/nfc/NfcService;
-
-    move-object/from16 v26, v0
-
-    invoke-virtual/range {v26 .. v26}, Lcom/android/nfc/NfcService;->sendDiscoverdBoardcast()V
-
     .line 2976
     move-object/from16 v0, p1
 

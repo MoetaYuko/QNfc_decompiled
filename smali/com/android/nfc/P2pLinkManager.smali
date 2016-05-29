@@ -674,14 +674,6 @@
 
     move-result v3
 
-    if-ltz v3, :cond_0
-
-    .line 1421
-    :try_start_0
-    invoke-static {v2}, Lcom/huawei/android/net/wifi/NfcWifiManagerEx;->getWpaSuppConfig(Landroid/net/wifi/WifiManager;)Ljava/lang/String;
-    :try_end_0
-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
-
     .line 1422
     const/4 v3, 0x1
 
@@ -692,8 +684,6 @@
 
     .line 1423
     .restart local v1    # "wi":Landroid/net/wifi/WifiInfo;
-    :catch_0
-    move-exception v0
 
     .line 1424
     .local v0, "e":Ljava/lang/Exception;

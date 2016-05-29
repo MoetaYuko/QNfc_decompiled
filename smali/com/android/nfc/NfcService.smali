@@ -32,8 +32,6 @@
 
 .field public static final ACTION_LLCP_UP:Ljava/lang/String; = "com.android.nfc.action.LLCP_UP"
 
-.field public static final ACTION_NEDF_DISCOVERED:Ljava/lang/String; = "com.huawei.nfc.action.NDEF_DISCOVERED"
-
 .field public static final ACTION_RF_FIELD_OFF_DETECTED:Ljava/lang/String; = "com.android.nfc_extras.action.RF_FIELD_OFF_DETECTED"
 
 .field public static final ACTION_RF_FIELD_ON_DETECTED:Ljava/lang/String; = "com.android.nfc_extras.action.RF_FIELD_ON_DETECTED"
@@ -129,8 +127,6 @@
 .field static final NFC_POLL_ISO15693:I = 0x8
 
 .field static final NFC_POLL_KOVIO:I = 0x20
-
-.field public static final PERMISSION_RECEIVE_NEDF_DISCOVERED:Ljava/lang/String; = "com.android.dreams.phototable.permission.HUAWEI_PHOTOTABLE_ACCESS"
 
 .field public static final PREF:Ljava/lang/String; = "NfcServicePrefs"
 
@@ -4899,29 +4895,6 @@
     move-result v0
 
     return v0
-.end method
-
-.method public sendDiscoverdBoardcast()V
-    .locals 3
-
-    .prologue
-    .line 949
-    new-instance v0, Landroid/content/Intent;
-
-    const-string v1, "com.huawei.nfc.action.NDEF_DISCOVERED"
-
-    invoke-direct {v0, v1}, Landroid/content/Intent;-><init>(Ljava/lang/String;)V
-
-    .line 950
-    .local v0, "intent":Landroid/content/Intent;
-    iget-object v1, p0, Lcom/android/nfc/NfcService;->mContext:Landroid/content/Context;
-
-    const-string v2, "com.android.dreams.phototable.permission.HUAWEI_PHOTOTABLE_ACCESS"
-
-    invoke-virtual {v1, v0, v2}, Landroid/content/Context;->sendBroadcast(Landroid/content/Intent;Ljava/lang/String;)V
-
-    .line 951
-    return-void
 .end method
 
 .method sendMessage(ILjava/lang/Object;)V
