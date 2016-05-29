@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"บริการ NFC "</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">แตะเพื่อส่ง</string>
+    <string name="beam_progress">บีมขาเข้า...</string>
+    <string name="beam_outgoing">กำลังบีม...</string>
+    <string name="beam_complete">บีมสำเร็จ</string>
+    <string name="beam_failed">บีมไม่เสร็จสมบูรณ์</string>
+    <string name="beam_canceled">ยกเลิกบีมแล้ว</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="beam_touch_to_view">แตะเพื่อดู</string>
+    <string name="beam_handover_not_supported_Toast">อุปกรณ์ของผู้รับไม่สนับสนุนการถ่ายโอนไฟล์ขนาดใหญ่ผ่านการบีม</string>
+    <string name="beam_try_again">นำอุปกรณ์มารวมกันอีกครั้ง</string>
+    <string name="beam_busy">Beam ไม่ว่างในขณะนี้ ลองอีกครั้งเมื่อการโอนก่อนหน้าเสร็จสมบูรณ์แล้ว</string>
+    <string name="device">อุปกรณ์</string>
+    <string name="connecting_peripheral">กำลังเชื่อมต่อไปยัง <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">เชื่อมต่อไปยัง <subnode ref="en" index="1">%1$s</subnode>แล้ว</string>
+    <string name="connect_peripheral_failed">ไม่สามารถเชื่อมต่อไปยัง <subnode ref="en" index="1">%1$s</subnode></string>
+    <string name="disconnecting_peripheral">กำลังตัดการเชื่อมต่อจาก <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">ตัดการเชื่อมต่อจาก <subnode ref="en" index="1">%1$s</subnode>แล้ว</string>
+    <string name="pairing_peripheral">กำลังจับคู่กับ <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">ไม่สามารถจับคู่กับ <subnode ref="en" index="1">%1$s</subnode></string>
+    <string name="failed_to_enable_bt">ไม่สามารถเปิดใช้งานบลูทูธได้</string>
+    <string name="confirm_pairing">คุณแน่ใจหรือไม่ว่าต้องการจับคู่อุปกรณ์บลูทูธ %1$s นี้</string>
+    <string name="pair_yes">ใช่</string>
+    <string name="pair_no">ไม่</string>
+    <string name="tap_again_to_pay">สัมผัสอีกครั้งเพื่อชำระด้วย %1$s</string>
+    <string name="tap_again_to_complete">สัมผัสอีกครั้งเพื่อดำเนินธุรกรรมให้เสร็จสิ้นด้วย %1$s</string>
+    <string name="transaction_failure">ไม่สามารถดำเนินการธุรกรรมนี้ให้เสร็จสมบูรณ์ด้วย %1$s</string>
+    <string name="could_not_use_app">ไม่สามารถใช้ %1$s</string>
+    <string name="pay_with">ชำระเงินด้วย</string>
+    <string name="complete_with">ดำเนินการให้เสร็จสมบูรณ์ด้วย</string>
+    <string name="default_pay_app_removed">บริการโปรดของคุณสำหรับ สัมผัสและชำระ ถูกลบไปแล้ว เลือกรายการอื่นหรือไม่?</string>
+    <string name="ask_nfc_tap">แตะอุปกรณ์อื่นเพื่อเสร็จสิ้น</string>
+    <string name="wifi_connect">เชื่อมต่อ</string>
+    <string name="status_unable_to_connect">ไม่สามารถเชื่อมต่อกับเครือข่าย</string>
+    <string name="status_wifi_connected">เชื่อมต่อแล้ว</string>
+    <string name="title_connect_to_network">เชื่อมต่อกับเครือข่าย</string>
+    <string name="prompt_connect_to_network">เชื่อมต่อกับเครือข่าย %1$s ไหม</string>
+    <string name="beam_requires_nfc_enabled">ต้องใช้ NFC เพื่อเปิดการใช้งาน Huawei Beam เปิดใช้งานตอนนี้หรือไม่</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">รับ NFC แล้ว</string>
+    <string name="unknown_file">ไฟล์ที่ไม่รู้จัก</string>
+    <string name="unknown_device">อุปกรณ์ที่ไม่รู้จัก</string>
+    <string name="status_unknown_error">เกิดข้อผิดพลาดที่ไม่ทราบสาเหตุ</string>
+    <string name="transfer_menu_open">เปิด</string>
+    <string name="no_transfers">ไม่มีไฟล์</string>
+    <string name="transfer_menu_clear_all">ล้างรายการ</string>
+    <string name="transfer_clear_dlg_title">ล้าง</string>
+    <string name="transfer_clear_dlg_msg">ไฟล์ที่ได้รับทั้งหมดจะถูกลบออกไป</string>
+    <string name="transfer_failed_network">เกิดข้อผิดพลาดของเครือข่าย ถ่ายโอนไม่สำเร็จ</string>
+    <string name="transfer_failed_cancel">การถ่ายโอนถูกยกเลิก</string>
+    <string name="storage_space_not_enough_Toast">พื้นที่เก็บข้อมูลไม่เพียงพอ ไม่สามารถจัดเก็บไฟล์ได้</string>
+    <string name="nfc_confirm_pairing">จับคู่กับอุปกรณ์บลูทูธ %1$s?</string>
+    <string name="nfc_pairing_request">คำขอจับคู่ผ่าน NFC</string>
+    <string name="nfc_pairing_accept">จับคู่</string>
+    <string name="nfc_pairing_decline">ยกเลิก</string>
+    <string name="from_target_device">จาก: %1$s</string>
+    <string name="file_name">ชื่อไฟล์: %1$s</string>
+    <string name="file_size">ขนาดไฟล์: %1$s</string>
+    <string name="transfer_dlg_title">การถ่ายโอนไฟล์</string>
+    <string name="transfer_dlg_stop">หยุด</string>
+    <string name="transfer_dlg_hide">ย่อเล็กสุด</string>
+    <string name="download_success">ได้รับแล้ว %1$s</string>
+    <string name="not_exist_file_desc_Toast">ไม่มีไฟล์นี้อยู่</string>
+    <string name="start_send_Toast">การรับส่งข้อมูลจะเริ่มต้นขึ้น</string>
+    <string name="touch_pair">แตะเพื่อจับคู่</string>
+    <string name="touch_share_ap">แตะเพื่อเชื่อมต่อ</string>
+    <string name="touch_share_wlan">แตะเพื่อแบ่งปันการเชื่อมต่อเครือข่ายของคุณ</string>
+    <string name="touch_cannot_share_wlan">ไม่มีเครือข่ายที่จะแบ่งปัน</string>
+    <string name="bluetooth_pair_success">จับคู่สำเร็จแล้ว</string>
+    <string name="wifidirect_pair_success">จับคู่สำเร็จแล้ว</string>
+    <string name="pair_failed">จับคู่ไม่สำเร็จ</string>
+    <string name="softap_share_success">แบ่งปันฮอตสปอตแล้ว อุปกรณ์ที่คุณกำลังจับคู่ได้เชื่อมต่อกับอุปกรณ์ของคุณแล้วในตอนนี้</string>
+    <string name="softap_share_failed">แบ่งปันการเชื่อมต่อเครือข่ายของคุณไม่สำเร็จ</string>
+    <string name="share_wlan_success">แบ่งปันข้อมูลเครือข่าย Wi-Fi แล้ว</string>
+    <string name="otherside_not_support_pair_Toast">อุปกรณ์ที่คุณกำลังจับคู่เข้ากันไม่ได้ ไม่สามารถจับคู่ได้</string>
+    <string name="nfc_url_title">"คำขอ NFC "</string>
+    <string name="nfc_url_body">"เปิดลิงค์ในแท็ก URL นี้หรือไม่ "</string>
+    <string name="no_longer_nfc_url">ไม่ต้องเตือนฉันอีก</string>
+    <string name="wifi_to_p2p_message">การปิด Wi-Fi Direct จะปิดการใช้งาน Wi-Fi</string>
+    <string name="tether_to_p2p_message">การปิด Wi-Fi Direct จะปิดการใช้งานฮอตสปอต Wi-Fi</string>
+    <string name="beam_failed_wifi_on_nocoex">บีมล้มเหลวเพราะ Wi-Fi เปิดอยู่</string>
+    <string name="beam_failed_tether_on_nocoex">บีมล้มเหลวเพราะฮอตสปอต Wi-Fi เปิดอยู่</string>
+    <string name="routing_table_full">ตารางเส้นทางเต็ม กรุณาถอนการติดตั้งแอปการชำระเงินบางอย่าง</string>
+    <string name="nfc_enabled_dialog">NFC ต้องเปิดใช้งาน เปิดใช้งานหรือไม่</string>
+    <string name="nfc_enabled_tittle">หมายเหตุ</string>
+    <string name="nfc_not_enabled_user_restriction">"ผู้ใช้นี้ไม่ได้รับอนุญาตให้เปิดใช้งานบริการ NFC "</string>
+</resources>

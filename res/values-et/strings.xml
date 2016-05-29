@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC teenus</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Puudutage kiire kasutamiseks</string>
+    <string name="beam_progress">Sissetulev kiir ...</string>
+    <string name="beam_outgoing">Kiirega edastamine ...</string>
+    <string name="beam_complete">Kiir on valmis</string>
+    <string name="beam_failed">Kiir ei lõpetanud toimingut</string>
+    <string name="beam_canceled">Kiir on tühistatud</string>
+    <string name="cancel">Tühista</string>
+    <string name="beam_touch_to_view">"Puudutage  vaatamiseks"</string>
+    <string name="beam_handover_not_supported_Toast">Vastuvõtja seade ei toeta suurte failide edastamist kiire kaudu.</string>
+    <string name="beam_try_again">Ühendage seadmed uuesti</string>
+    <string name="beam_busy">Beam on hõivatud. Proovige uuesti, kui eelmine edastus on lõpetatud.</string>
+    <string name="device">seade</string>
+    <string name="connecting_peripheral">Ühenduse loomine seadmega <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="connected_peripheral">Ühendatud seadmega <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Ei saanud luua ühendust seadmega <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Ühenduse katkestamine seadmega <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="disconnected_peripheral">Ühendus seadmega <subnode ref="en" index="1">%1$s</subnode> katkestatud.</string>
+    <string name="pairing_peripheral">Sidumine seadmega <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="pairing_peripheral_failed">Ei saanud siduda seadmega <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Bluetoothi ei saa lubada</string>
+    <string name="confirm_pairing">Kas soovite kindlasti ühildada Bluetooth-seadme %1$s?</string>
+    <string name="pair_yes">Jah</string>
+    <string name="pair_no">Ei</string>
+    <string name="tap_again_to_pay">Puudutage uuesti, et maksta teenusega %1$s</string>
+    <string name="tap_again_to_complete">Puudutage uuesti, et lõpetada tehing teenusega %1$s</string>
+    <string name="transaction_failure">Seda tehingut ei saanud lõpetada teenusega %1$s.</string>
+    <string name="could_not_use_app">Ei saanud kasutada teenust %1$s.</string>
+    <string name="pay_with">Makske teenusega</string>
+    <string name="complete_with">Lõpetage teenusega</string>
+    <string name="default_pay_app_removed">Teie eelistatud puudutusega maksmise teenus eemaldati. Kas valida mõni teine?</string>
+    <string name="ask_nfc_tap">Puudutage lõpule viimiseks teist seadet</string>
+    <string name="wifi_connect">Ühenda</string>
+    <string name="status_unable_to_connect">Ei saa võrku ühendada</string>
+    <string name="status_wifi_connected">Ühendatud</string>
+    <string name="title_connect_to_network">Ühenda võrku</string>
+    <string name="prompt_connect_to_network">Ühendan võrku %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam nõuab lähiväljaside lubamist. Luban nüüd?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Lähiväljaside vastu võetud</string>
+    <string name="unknown_file">Tundmatu fail</string>
+    <string name="unknown_device">Tundmatu seade</string>
+    <string name="status_unknown_error">Tundmatu viga</string>
+    <string name="transfer_menu_open">Ava</string>
+    <string name="no_transfers">Faile pole</string>
+    <string name="transfer_menu_clear_all">Tühjenda loend</string>
+    <string name="transfer_clear_dlg_title">Kustuta</string>
+    <string name="transfer_clear_dlg_msg">Kõik vastuvõetud failid kustutatakse.</string>
+    <string name="transfer_failed_network">Võrgu viga, edastamine nurjus</string>
+    <string name="transfer_failed_cancel">Edastamine tühistatud</string>
+    <string name="storage_space_not_enough_Toast">Ebapiisav mäluruum. Faili ei saa salvestada.</string>
+    <string name="nfc_confirm_pairing">Kas paaristada Bluetooth-seadmega %1$s?</string>
+    <string name="nfc_pairing_request">Lähiväljaside paaristamistaotlus</string>
+    <string name="nfc_pairing_accept">Ühenda</string>
+    <string name="nfc_pairing_decline">Tühista</string>
+    <string name="from_target_device">Saatja: %1$s</string>
+    <string name="file_name">Faili nimi: %1$s</string>
+    <string name="file_size">Faili suurus: %1$s</string>
+    <string name="transfer_dlg_title">Faili edastamine</string>
+    <string name="transfer_dlg_stop">Peata</string>
+    <string name="transfer_dlg_hide">Minimeeri</string>
+    <string name="download_success">%1$sVastuvõtt lõpule viidud.</string>
+    <string name="not_exist_file_desc_Toast">Faili ei ole olemas.</string>
+    <string name="start_send_Toast">Edastus algab.</string>
+    <string name="touch_pair">Puudutage paaristamiseks</string>
+    <string name="touch_share_ap">Puudutage ühendamiseks</string>
+    <string name="touch_share_wlan">Puudutage oma võrguühenduse jagamiseks</string>
+    <string name="touch_cannot_share_wlan">Võrke jagamiseks ei ole.</string>
+    <string name="bluetooth_pair_success">Edukalt paaristatud.</string>
+    <string name="wifidirect_pair_success">Edukalt paaristatud.</string>
+    <string name="pair_failed">Paaristamine nurjus.</string>
+    <string name="softap_share_success">Kuumkoht jagatud. Partnerseade on nüüd teie seadmega ühendatud.</string>
+    <string name="softap_share_failed">Võrguühenduse jagamine nurjus.</string>
+    <string name="share_wlan_success">Wi-Fi-võrgu teave jagatud.</string>
+    <string name="otherside_not_support_pair_Toast">Partnerseade on ühildumatu. Ei saa ühilduda.</string>
+    <string name="nfc_url_title">Lähiväljaside taotlus</string>
+    <string name="nfc_url_body">"Avan lingi sellel URL-i sildil? "</string>
+    <string name="no_longer_nfc_url">Ära meenuta enam</string>
+    <string name="wifi_to_p2p_message">Wi-Fi-otsevõrgu sisselülitamine keelab Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Wi-Fi-otsevõrgu sisselülitamine keelab Wi-Fi kuumkoha.</string>
+    <string name="beam_failed_wifi_on_nocoex">Saatmine nurjus, sest Wi-Fi on sees</string>
+    <string name="beam_failed_tether_on_nocoex">Saatmine nurjus, sest Wi-Fi kuumkoht on sees</string>
+    <string name="routing_table_full">Marsruutimistabel on täis. Desinstallige mõned maksmiskendused.</string>
+    <string name="nfc_enabled_dialog">Lähiväljaside peab olema sisse lülitatud. Lülitada sisse?</string>
+    <string name="nfc_enabled_tittle">Märkus</string>
+    <string name="nfc_not_enabled_user_restriction">Sellel kasutajal ei ole lubatud lähiväljaside teenust aktiveerida.</string>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC სერვისი</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">შეეხეთ გადაცემისთვის</string>
+    <string name="beam_progress">შემოსული გადაცემა...</string>
+    <string name="beam_outgoing">გადაცემა...</string>
+    <string name="beam_complete">გადაცემა დასრულდა</string>
+    <string name="beam_failed">გადაცემა არ არის დასრულებული</string>
+    <string name="beam_canceled">გადაცემა გაუქმდა</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="beam_touch_to_view">შეეხეთ სანახავად</string>
+    <string name="beam_handover_not_supported_Toast">მიმღების მოწყობილობაში არ არის მხარდაჭერილი დიდი ფაილის სხივური გადაცემა.</string>
+    <string name="beam_try_again">თავი მოუყარეთ მოწყობილობებს</string>
+    <string name="beam_busy">სხივი ამჟამად დაკავებულია. სცადეთ ხელახლა, როდესაც წინა გადაცემა დასრულდება.</string>
+    <string name="device">მოწყობილობა</string>
+    <string name="connecting_peripheral">დაკავშირება <subnode ref="en" index="1">%1$s</subnode>-თან…</string>
+    <string name="connected_peripheral">დაკავშირებულია <subnode ref="en" index="1">%1$s</subnode>-თან.</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>-თან დაკავშირება ვერ მოხერხდა.</string>
+    <string name="disconnecting_peripheral">ითიშება <subnode ref="en" index="1">%1$s</subnode>-დან…</string>
+    <string name="disconnected_peripheral">გათიშულია <subnode ref="en" index="1">%1$s</subnode>-დან.</string>
+    <string name="pairing_peripheral">წყვილდება <subnode ref="en" index="1">%1$s</subnode>-თან…</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>-თან ვერ დაწყვილდა.</string>
+    <string name="failed_to_enable_bt">Bluetooth ვერ ჩაირთო.</string>
+    <string name="confirm_pairing">დარწმუნებული ხართ, რომ გსურთ დააწყვილოთ Bluetooth მოწყობილობა %1$s?</string>
+    <string name="pair_yes">დიახ</string>
+    <string name="pair_no">არა</string>
+    <string name="tap_again_to_pay">ხელახლა შეეხეთ, რათა გადაიხადოთ %1$s-ით</string>
+    <string name="tap_again_to_complete">ხელახლა შეეხეთ, რათა შეასრულოთ ტრანზაქცია %1$s-სთან</string>
+    <string name="transaction_failure">ეს ტრანზაქცია %1$s-ით ვერ შესრულდა.</string>
+    <string name="could_not_use_app">%1$s-ის გამოყენება ვერ მოხერხდა.</string>
+    <string name="pay_with">გადახდის მეთოდი</string>
+    <string name="complete_with">დასრულება</string>
+    <string name="default_pay_app_removed">სასურველი სერვისი შეხებით გადახდისთვის წაიშალა. ავირჩიოთ სხვა?</string>
+    <string name="ask_nfc_tap">შეეხეთ სხვა მოწყობილობას დასასრულებლად</string>
+    <string name="wifi_connect">დაკავშირება</string>
+    <string name="status_unable_to_connect">ვერ უკავშირდება ქსელს</string>
+    <string name="status_wifi_connected">დაკავშირებულია</string>
+    <string name="title_connect_to_network">ქსელთან დაკავშირება</string>
+    <string name="prompt_connect_to_network">დავუკავშირდეთ ქსელს %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam მოითხოვს NFC-ის ჩართვას. ჩავრთოთ ახლა?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC მიღებულია</string>
+    <string name="unknown_file">უცნობი ფაილი</string>
+    <string name="unknown_device">უცნობი მოწყობილობა</string>
+    <string name="status_unknown_error">უცნობი შეცდომა</string>
+    <string name="transfer_menu_open">გახსნა</string>
+    <string name="no_transfers">ფაილები არ არსებობს</string>
+    <string name="transfer_menu_clear_all">სიის გასუფთავება</string>
+    <string name="transfer_clear_dlg_title">გასუფთავება</string>
+    <string name="transfer_clear_dlg_msg">ყველა მიღებული ფაილი წაიშლება.</string>
+    <string name="transfer_failed_network">ქსელის შეცდომა. გადაცემა ვერ შესრულდა.</string>
+    <string name="transfer_failed_cancel">გადაცემა გაუქმდა</string>
+    <string name="storage_space_not_enough_Toast">მეხსიერებაში არასაკმარისი ადგილია. ფაილის შენახვა შეუძლებელია.</string>
+    <string name="nfc_confirm_pairing">დავაწყვილოთ Bluetooth მოწყობილობასთან %1$s?</string>
+    <string name="nfc_pairing_request">NFC დაწყვილების მოთხოვნა</string>
+    <string name="nfc_pairing_accept">დაწყვილება</string>
+    <string name="nfc_pairing_decline">გაუქმება</string>
+    <string name="from_target_device">ვისგან: %1$s</string>
+    <string name="file_name">ფაილის სახელი: %1$s</string>
+    <string name="file_size">ფაილის ზომა: %1$s</string>
+    <string name="transfer_dlg_title">ფაილის გადაცემა</string>
+    <string name="transfer_dlg_stop">შეწყვეტა</string>
+    <string name="transfer_dlg_hide">ჩაკეცვა</string>
+    <string name="download_success">" %1$s მიღებულია."</string>
+    <string name="not_exist_file_desc_Toast">ფაილი არ არსებობს.</string>
+    <string name="start_send_Toast">გადაცემა დაიწყება.</string>
+    <string name="touch_pair">შეეხეთ დასაწყვილებლად</string>
+    <string name="touch_share_ap">შეეხეთ დასაკავშირებლად</string>
+    <string name="touch_share_wlan">შეეხეთ თქვენი ქსელის კავშირის გასაზიარებლად</string>
+    <string name="touch_cannot_share_wlan">გასაზიარებელი ქსელები არ არსებობს</string>
+    <string name="bluetooth_pair_success">წარმატებით დაწყვილდა.</string>
+    <string name="wifidirect_pair_success">წარმატებით დაწყვილდა.</string>
+    <string name="pair_failed">ვერ დაწყვილდა.</string>
+    <string name="softap_share_success">წვდომის წერტილი გაზიარდა. ერთრანგიანი მოწყობილობა ახლა დაკავშირებულია თქვენს მოწყობილობასთან.</string>
+    <string name="softap_share_failed">თქვენი ქსელის კავშირი ვერ გაზიარდა.</string>
+    <string name="share_wlan_success">Wi-Fi ქსელის ინფორმაცია გაზიარდა.</string>
+    <string name="otherside_not_support_pair_Toast">ერთრანგიანი მოწყობილობა არ არის თავსებადი. დაწყვილება შეუძლებელია.</string>
+    <string name="nfc_url_title">NFC მოთხოვნა</string>
+    <string name="nfc_url_body">"გახსნით ბმულს URL ტეგზე? "</string>
+    <string name="no_longer_nfc_url">აღარ შემახსენო</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Direct-ის ჩართვისას Wi-Fi გაითიშება.</string>
+    <string name="tether_to_p2p_message">Wi-Fi Direct-ის ჩართვისას Wi-Fi წვდომის ზონა გაითიშება.</string>
+    <string name="beam_failed_wifi_on_nocoex">გადაცემა ვერ მოხერხდა, რადგან Wi-Fi ჩართულია</string>
+    <string name="beam_failed_tether_on_nocoex">გადაცემა ვერ მოხერხდა, რადგან Wi-Fi წვდომის ზონა ჩართულია</string>
+    <string name="routing_table_full">მარშრუტიზაციის ცხრილი სავსეა. წაშალეთ გადახდის რამდენიმე აპი.</string>
+    <string name="nfc_enabled_dialog">NFC-ის ჩართვა აუცილებელია. გსურთ ჩართვა?</string>
+    <string name="nfc_enabled_tittle">შენიშვნა</string>
+    <string name="nfc_not_enabled_user_restriction">ამ მომხმარებელს არ აქვს NFC სერვისის ჩართვის უფლება.</string>
+</resources>

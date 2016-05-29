@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFCサービス</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">タップしてビーム</string>
+    <string name="beam_progress">ビームを受信しています...</string>
+    <string name="beam_outgoing">ビームしています...</string>
+    <string name="beam_complete">ビーム完了</string>
+    <string name="beam_failed">ビームが完了しませんでした</string>
+    <string name="beam_canceled">ビームを中断しました</string>
+    <string name="cancel">キャンセル</string>
+    <string name="beam_touch_to_view">タップして表示</string>
+    <string name="beam_handover_not_supported_Toast">受信側の端末は、ビーム経由のサイズの大きなファイルの転送をサポートしていません</string>
+    <string name="beam_try_again">端末同士をもう一度近づける</string>
+    <string name="beam_busy">ビームは現在使用中です。前回の転送が完了したら、もう一度お試しください。</string>
+    <string name="device">デバイス</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode>に接続中…</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode>に接続されました</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>に接続できませんでした</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode>"から切断中… "</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1">%1$s</subnode>から切断されました</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode>とペアリング中…</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>とペアリングできませんでした</string>
+    <string name="failed_to_enable_bt">Bluetoothを有効にできません</string>
+    <string name="confirm_pairing">Bluetoothデバイス%1$sをペアに設定してもよろしいですか？</string>
+    <string name="pair_yes">はい</string>
+    <string name="pair_no">いいえ</string>
+    <string name="tap_again_to_pay">再度タップして、%1$sの支払処理を行う</string>
+    <string name="tap_again_to_complete">再度タップして、%1$sの処理を完了する</string>
+    <string name="transaction_failure">この取引は%1$sで完了できませんでした。</string>
+    <string name="could_not_use_app">%1$sを使用できませんでした。</string>
+    <string name="pay_with">お支払い:</string>
+    <string name="complete_with">完了:</string>
+    <string name="default_pay_app_removed">タップアンドペイで設定したサービスが削除されました。別のサービスを選択しますか？</string>
+    <string name="ask_nfc_tap">別のデバイスをタップして完了</string>
+    <string name="wifi_connect">接続</string>
+    <string name="status_unable_to_connect">ネットワークに接続できません</string>
+    <string name="status_wifi_connected">接続済み</string>
+    <string name="title_connect_to_network">ネットワークに接続</string>
+    <string name="prompt_connect_to_network">ネットワーク%1$sに接続しますか？</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beamでは、NFCを有効にする必要があります。今すぐ有効にしますか？</string>
+    <string name="android_beam">Androidビーム</string>
+    <string name="nfc_live_folder">NFC受信</string>
+    <string name="unknown_file">不明なファイル</string>
+    <string name="unknown_device">不明な端末</string>
+    <string name="status_unknown_error">不明なエラー</string>
+    <string name="transfer_menu_open">開く</string>
+    <string name="no_transfers">ファイルなし</string>
+    <string name="transfer_menu_clear_all">リストを消去</string>
+    <string name="transfer_clear_dlg_title">消去</string>
+    <string name="transfer_clear_dlg_msg">全ての受信ファイルが削除されます</string>
+    <string name="transfer_failed_network">ネットワークエラーにより、転送に失敗しました</string>
+    <string name="transfer_failed_cancel">転送が中断されました</string>
+    <string name="storage_space_not_enough_Toast">ストレージの空き容量が不足しているため、ファイルを保存できませんでした</string>
+    <string name="nfc_confirm_pairing">Bluetoothデバイス %1$sとペアリングしますか？</string>
+    <string name="nfc_pairing_request">NFCペアリング要求</string>
+    <string name="nfc_pairing_accept">ペア設定する</string>
+    <string name="nfc_pairing_decline">キャンセル</string>
+    <string name="from_target_device">開始：%1$s</string>
+    <string name="file_name">ファイル名：%1$s</string>
+    <string name="file_size">ファイルサイズ：%1$s</string>
+    <string name="transfer_dlg_title">ファイル転送</string>
+    <string name="transfer_dlg_stop">停止</string>
+    <string name="transfer_dlg_hide">最小化</string>
+    <string name="download_success">%1$sの受信が完了しました</string>
+    <string name="not_exist_file_desc_Toast">このファイルは存在しません</string>
+    <string name="start_send_Toast">送信が開始されます</string>
+    <string name="touch_pair">タップしてペアリングする</string>
+    <string name="touch_share_ap">タップして接続する</string>
+    <string name="touch_share_wlan">タップしてネットワーク接続を共有する</string>
+    <string name="touch_cannot_share_wlan">共有するネットワークがありません</string>
+    <string name="bluetooth_pair_success">正常にペアリングされました</string>
+    <string name="wifidirect_pair_success">正常にペアリングされました</string>
+    <string name="pair_failed">ペアリングに失敗しました</string>
+    <string name="softap_share_success">ホットスポットが共有されました。ピアデバイスは現在ご利用のデバイスに接続されています。</string>
+    <string name="softap_share_failed">ネットワーク接続の共有に失敗しました</string>
+    <string name="share_wlan_success">Wi-Fiネットワーク情報が共有されました</string>
+    <string name="otherside_not_support_pair_Toast">ピアデバイスに互換性がないため、ペアリングできません</string>
+    <string name="nfc_url_title">NFC要求</string>
+    <string name="nfc_url_body">"このURLタグ内のリンクを開きますか？ "</string>
+    <string name="no_longer_nfc_url">以後、確認しない</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Directを有効にすると、Wi-Fiが無効になります</string>
+    <string name="tether_to_p2p_message">Wi-Fi Directを有効にすると、Wi-Fi APが無効になります</string>
+    <string name="beam_failed_wifi_on_nocoex">Wi-Fiが有効になっているため、ビームに失敗しました</string>
+    <string name="beam_failed_tether_on_nocoex">Wi-Fi APが有効になっているため、ビームに失敗しました</string>
+    <string name="routing_table_full">ルーティングテーブルが一杯です。一部の支払いアプリをアンインストールしてください。</string>
+    <string name="nfc_enabled_dialog">NFCを有効にする必要があります。有効にしますか？</string>
+    <string name="nfc_enabled_tittle">注意</string>
+    <string name="nfc_not_enabled_user_restriction">このユーザーは、NFCサービスを有効にできません</string>
+</resources>

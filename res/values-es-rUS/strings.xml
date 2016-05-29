@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Presione para transferir</string>
+    <string name="beam_progress">Transferencia entrante...</string>
+    <string name="beam_outgoing">Transmitiendo...</string>
+    <string name="beam_complete">Transferencia completada</string>
+    <string name="beam_failed">Transferencia no completada</string>
+    <string name="beam_canceled">Transferencia cancelada</string>
+    <string name="cancel">Cancelar</string>
+    <string name="beam_touch_to_view">Presione para ver</string>
+    <string name="beam_handover_not_supported_Toast">El dispositivo del receptor no soporta la transferencia de archivos de gran tamaño.</string>
+    <string name="beam_try_again">Volver a unir los dispositivos</string>
+    <string name="beam_busy">Beam está ocupado en este momento. Vuelve a intentarlo cuando finalice la transferencia anterior.</string>
+    <string name="device">dispositivo</string>
+    <string name="connecting_peripheral">Conectándose con <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Conectado con <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">No se pudo conectar con <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Desconectándose de <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Desconectado de <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Emparejándose con <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">No se pudo emparejar con <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">No se puede habilitar Bluetooth</string>
+    <string name="confirm_pairing">¿Realmente deseas sincronizar el dispositivo Bluetooth %1$s?</string>
+    <string name="pair_yes">Sí</string>
+    <string name="pair_no">No</string>
+    <string name="tap_again_to_pay">Presione aquí nuevamente para pagar con %1$s</string>
+    <string name="tap_again_to_complete">Presione aquí nuevamente para terminar la transacción con %1$s</string>
+    <string name="transaction_failure">No se pudo completar la transacción con %1$s.</string>
+    <string name="could_not_use_app">No se pudo utilizar %1$s.</string>
+    <string name="pay_with">Pagar con</string>
+    <string name="complete_with">Completar con</string>
+    <string name="default_pay_app_removed">Se eliminó su servicio preferido del modo presionar y pagar. ¿Elegir otro?</string>
+    <string name="ask_nfc_tap">Presione otro dispositivo para completar la acción</string>
+    <string name="wifi_connect">Conectar</string>
+    <string name="status_unable_to_connect">No se pudo establecer la conexión con la red.</string>
+    <string name="status_wifi_connected">Conexión establecida</string>
+    <string name="title_connect_to_network">Conectar a la red</string>
+    <string name="prompt_connect_to_network">¿Conectarse a la red %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam requiere la habilitación de NFC. ¿Habilitar ahora?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Archivos recibidos por NFC</string>
+    <string name="unknown_file">Archivo desconocido</string>
+    <string name="unknown_device">Dispositivo desconocido</string>
+    <string name="status_unknown_error">Error desconocido</string>
+    <string name="transfer_menu_open">Abrir</string>
+    <string name="no_transfers">No hay archivos</string>
+    <string name="transfer_menu_clear_all">Borrar lista</string>
+    <string name="transfer_clear_dlg_title">Borrar</string>
+    <string name="transfer_clear_dlg_msg">Se eliminarán todos los archivos recibidos.</string>
+    <string name="transfer_failed_network">Error de red. No se pudo transferir.</string>
+    <string name="transfer_failed_cancel">Transferencia cancelada</string>
+    <string name="storage_space_not_enough_Toast">Espacio insuficiente. No se puede guardar el archivo.</string>
+    <string name="nfc_confirm_pairing">¿Emparejar con el dispositivo Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Solicitud de emparejamiento NFC</string>
+    <string name="nfc_pairing_accept">Emparejar</string>
+    <string name="nfc_pairing_decline">Cancelar</string>
+    <string name="from_target_device">De: %1$s</string>
+    <string name="file_name">Nombre del archivo: %1$s</string>
+    <string name="file_size">Tamaño del archivo: %1$s</string>
+    <string name="transfer_dlg_title">Transferencia de archivos</string>
+    <string name="transfer_dlg_stop">Detener</string>
+    <string name="transfer_dlg_hide">Minimizar</string>
+    <string name="download_success">Se recibieron %1$s.</string>
+    <string name="not_exist_file_desc_Toast">El archivo no existe.</string>
+    <string name="start_send_Toast">La transmisión comenzará.</string>
+    <string name="touch_pair">Presionar para emparejar</string>
+    <string name="touch_share_ap">Presionar para conectar</string>
+    <string name="touch_share_wlan">Presionar para compartir conexión de red</string>
+    <string name="touch_cannot_share_wlan">No hay redes para compartir</string>
+    <string name="bluetooth_pair_success">Se emparejó.</string>
+    <string name="wifidirect_pair_success">Se emparejó.</string>
+    <string name="pair_failed">Error al emparejar.</string>
+    <string name="softap_share_success">Punto de acceso inalámbrico compartido. El otro dispositivo está conectado al suyo.</string>
+    <string name="softap_share_failed">Error al compartir conexión de red.</string>
+    <string name="share_wlan_success">Información de red Wi-Fi compartida.</string>
+    <string name="otherside_not_support_pair_Toast">El dispositivo equivalente es incompatible. No se puede emparejar.</string>
+    <string name="nfc_url_title">Solicitud de NFC</string>
+    <string name="nfc_url_body">"¿Abrir enlace en esta etiqueta URL? "</string>
+    <string name="no_longer_nfc_url">No volver a recordarme</string>
+    <string name="wifi_to_p2p_message">Al activar Wi-Fi Directo, se deshabilitará Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Al activar Wi-Fi Directo, se deshabilitará la zona Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Error de Beam porque la función Wi-Fi está activada</string>
+    <string name="beam_failed_tether_on_nocoex">Error de Beam porque la zona Wi-Fi está activada</string>
+    <string name="routing_table_full">Tabla de enrutamiento llena. Desinstale algunas apps de pago.</string>
+    <string name="nfc_enabled_dialog">Se debe habilitar NFC. ¿Habilitar?</string>
+    <string name="nfc_enabled_tittle">Nota</string>
+    <string name="nfc_not_enabled_user_restriction">Este usuario no está autorizado para habilitar el servicio NFC.</string>
+</resources>

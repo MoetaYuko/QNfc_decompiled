@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Serviciu NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Atingeţi pentru transmitere</string>
+    <string name="beam_progress">Transmitere primită...</string>
+    <string name="beam_outgoing">Se transmite...</string>
+    <string name="beam_complete">Transmitere încheiată</string>
+    <string name="beam_failed">Transmitere nefinalizată</string>
+    <string name="beam_canceled">Transmitere anulată</string>
+    <string name="cancel">Anulare</string>
+    <string name="beam_touch_to_view">Atingeţi pentru a afișa</string>
+    <string name="beam_handover_not_supported_Toast">Dispozitivul destinatarului nu acceptă transfer de fișiere mari prin transmitere.</string>
+    <string name="beam_try_again">Apropiați dispozitivele din nou</string>
+    <string name="beam_busy">Beam este ocupat. Încercați după finalizarea transferului anterior.</string>
+    <string name="device">dispozitivul</string>
+    <string name="connecting_peripheral">Se conectează la <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Conectat la <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Nu s-a putu conecta la <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Se deconectează de la <subnode ref="en" index="1">%1$s </subnode>…</string>
+    <string name="disconnected_peripheral">Deconectat de la <subnode ref="en" index="1">%1$s </subnode>.</string>
+    <string name="pairing_peripheral">Se face asocierea cu <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Nu s-a putu face asocierea cu <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Nu se poate activa Bluetooth</string>
+    <string name="confirm_pairing">Sigur doriţi să împerecheaţi dispozitivul Bluetooth %1$s?</string>
+    <string name="pair_yes">Da</string>
+    <string name="pair_no">Nu</string>
+    <string name="tap_again_to_pay">Atingeţi din nou pentru a plăti cu %1$s</string>
+    <string name="tap_again_to_complete">Atingeţi din nou pentru a finaliza tranzacţia cu %1$s</string>
+    <string name="transaction_failure">Această tranzacție nu a putut fi finalizată cu %1$s.</string>
+    <string name="could_not_use_app">Nu s-a putut utiliza %1$s.</string>
+    <string name="pay_with">Plătiți cu</string>
+    <string name="complete_with">Finalizați cu</string>
+    <string name="default_pay_app_removed">Serviciul preferat pentru atinge şi plăteşte a fost eliminat. Alegeţi altul?</string>
+    <string name="ask_nfc_tap">Atingeţi alt dispozitiv pentru a termina</string>
+    <string name="wifi_connect">Conectați</string>
+    <string name="status_unable_to_connect">Conectarea la rețea nu este posibilă</string>
+    <string name="status_wifi_connected">Conectată</string>
+    <string name="title_connect_to_network">Conectați-vă la rețea</string>
+    <string name="prompt_connect_to_network">Doriți să vă conectați la rețeaua %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam solicită activarea NFC. Activaţi acum?</string>
+    <string name="android_beam">Transmitere Android</string>
+    <string name="nfc_live_folder">NFC primit</string>
+    <string name="unknown_file">Fișier necunoscut</string>
+    <string name="unknown_device">Dispozitiv necunoscut</string>
+    <string name="status_unknown_error">Eroare necunoscută</string>
+    <string name="transfer_menu_open">Deschideţi</string>
+    <string name="no_transfers">Niciun fişier</string>
+    <string name="transfer_menu_clear_all">Ștergeţi lista</string>
+    <string name="transfer_clear_dlg_title">Ștergeţi</string>
+    <string name="transfer_clear_dlg_msg">Toate fişierele primite vor fi şterse.</string>
+    <string name="transfer_failed_network">Eroare de reţea; transfer eşuat</string>
+    <string name="transfer_failed_cancel">Transfer anulat</string>
+    <string name="storage_space_not_enough_Toast">Spaţiu de stocare insuficient. Fişierul nu poate fi salvat.</string>
+    <string name="nfc_confirm_pairing">Asociaţi cu dispozitivul Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Solicitare de asociere NFC</string>
+    <string name="nfc_pairing_accept">Asociaţi</string>
+    <string name="nfc_pairing_decline">Anulare</string>
+    <string name="from_target_device">De la: %1$s</string>
+    <string name="file_name">Nume fişier: %1$s</string>
+    <string name="file_size">Dimensiune fişier: %1$s</string>
+    <string name="transfer_dlg_title">Transfer de fişier</string>
+    <string name="transfer_dlg_stop">Stop</string>
+    <string name="transfer_dlg_hide">Minimizare</string>
+    <string name="download_success">Primire finalizată: %1$s.</string>
+    <string name="not_exist_file_desc_Toast">Fişierul nu există.</string>
+    <string name="start_send_Toast">Transmisiunea va începe.</string>
+    <string name="touch_pair">Ating. pt. asociere</string>
+    <string name="touch_share_ap">Ating. pt. conectare</string>
+    <string name="touch_share_wlan">Atingeţi pentru a partaja conexiunea de reţea</string>
+    <string name="touch_cannot_share_wlan">Nicio reţea de partajat</string>
+    <string name="bluetooth_pair_success">Asociat cu succes.</string>
+    <string name="wifidirect_pair_success">Asociat cu succes.</string>
+    <string name="pair_failed">Asociere eşuată.</string>
+    <string name="softap_share_success">Punct de acces partajat. Dispozitivul pereche este acum conectat la dispozitivul dvs.</string>
+    <string name="softap_share_failed">Partajarea conexiunii de reţea a eşuat.</string>
+    <string name="share_wlan_success">Informaţia de reţea Wi-Fi partajată.</string>
+    <string name="otherside_not_support_pair_Toast">Dispozitivul pereche este incompatibil. Nu se poate împerechea.</string>
+    <string name="nfc_url_title">Solicitare NFC</string>
+    <string name="nfc_url_body">"Deschideţi linkul în această etichetă URL? "</string>
+    <string name="no_longer_nfc_url">Nu reaminti</string>
+    <string name="wifi_to_p2p_message">Activarea funcţiei Wi-Fi Direct va dezactiva Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Activarea funcţiei Wi-Fi Direct va dezactiva punctul de acces Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Beam a eşuat deoarece Wi-Fi este activat</string>
+    <string name="beam_failed_tether_on_nocoex">Beam a eşuat; punctul de acces Wi-Fi este activat</string>
+    <string name="routing_table_full">Tabela de rutare este plină. Dezinstalaţi unele aplicaţii de plată.</string>
+    <string name="nfc_enabled_dialog">NFC trebuie să fie activată. O activați?</string>
+    <string name="nfc_enabled_tittle">Notă</string>
+    <string name="nfc_not_enabled_user_restriction">Acest utilizator nu poate activa serviciul NFC.</string>
+</resources>

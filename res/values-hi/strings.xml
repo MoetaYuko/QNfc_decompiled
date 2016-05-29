@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC सेवा</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">बीम करने के लिए स्पर्श करें</string>
+    <string name="beam_progress">इनकमिंग बीम...</string>
+    <string name="beam_outgoing">बीम हो रहा है...</string>
+    <string name="beam_complete">बीम करना पूर्ण</string>
+    <string name="beam_failed">बीम पूर्ण नहीं हुआ</string>
+    <string name="beam_canceled">बीम रद्द</string>
+    <string name="cancel">"रद्द करें "</string>
+    <string name="beam_touch_to_view">देखने के लिए स्‍पर्श करें</string>
+    <string name="beam_handover_not_supported_Toast">प्राप्तकर्ता की डिवाइस बीम से बड़ी फाइल स्थानांतरण का समर्थन नहीं करती।</string>
+    <string name="beam_try_again">उपकरणों को पुन: एक साथ लाएं</string>
+    <string name="beam_busy">Beam वर्तमान में व्‍यस्‍त है. पिछला ट्रांसफर पूर्ण हो जाने पर पुन: प्रयास करें.</string>
+    <string name="device">डिवाइस</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> से कनेक्ट कर रहा है…</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode> से कनेक्ट किया गया।</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> से कनेक्ट नहीं कर सका।</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> से डिस्कनेक्ट किया जा रहा है…</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1">%1$s</subnode> से डिस्कनेक्ट किया गया।</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode> के साथ जोड़ा बना रहा है…</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> के साथ जोड़ा नहीं बना सका।</string>
+    <string name="failed_to_enable_bt">Bluetooth को सक्षम नहीं किया जा सका</string>
+    <string name="confirm_pairing">क्‍या आप वाकई ब्लूटूथ डिवाइस %1$s को युग्मित करना चाहते हैं?</string>
+    <string name="pair_yes">हां</string>
+    <string name="pair_no">नहीं</string>
+    <string name="tap_again_to_pay">%1$s के साथ भुगतान करने के लिए पुन: टच करें</string>
+    <string name="tap_again_to_complete">%1$s के साथ लेन-देन पूर्ण करने के लिए पुन: टच करें</string>
+    <string name="transaction_failure">यह लेन-देन %1$s के साथ पूर्ण नहीं किया जा सकता.</string>
+    <string name="could_not_use_app">%1$s का उपयोग नहीं किया जा सका.</string>
+    <string name="pay_with">इनके द्वारा भुगतान करें</string>
+    <string name="complete_with">इनके द्वारा पूर्ण करें</string>
+    <string name="default_pay_app_removed">आपकी पसंदीदा टैप और भुगतान करें सेवा को निकाल दिया गया था। कोई अन्य चुनें?</string>
+    <string name="ask_nfc_tap">पूरा करने के लिए किसी अन्य डिवाइस को टच करें</string>
+    <string name="wifi_connect">कनेक्ट करें</string>
+    <string name="status_unable_to_connect">नेटवर्क से कनेक्‍ट करने में असमर्थ</string>
+    <string name="status_wifi_connected">कनेक्ट किया गया</string>
+    <string name="title_connect_to_network">नेटवर्क से कनेक्‍ट करें</string>
+    <string name="prompt_connect_to_network">%1$s नेटवर्क से कनेक्ट करें?</string>
+    <string name="beam_requires_nfc_enabled">हुअवी बीम को NFC सक्षम करने की आवश्यकता है। अब इसे सक्षम करें?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC प्राप्त</string>
+    <string name="unknown_file">अज्ञात फ़ाइल</string>
+    <string name="unknown_device">अज्ञात उपकरण</string>
+    <string name="status_unknown_error">अज्ञात त्रुटि</string>
+    <string name="transfer_menu_open">खोलें</string>
+    <string name="no_transfers">कोई फ़ाइल नहीं</string>
+    <string name="transfer_menu_clear_all">सूची साफ़ करें</string>
+    <string name="transfer_clear_dlg_title">साफ़ करें</string>
+    <string name="transfer_clear_dlg_msg">सभी प्राप्त फ़ाइलें हटा दी जाएँगी।</string>
+    <string name="transfer_failed_network">नेटवर्क त्रुटि, स्थानांतरण विफल</string>
+    <string name="transfer_failed_cancel">स्थानांतरण रद्द</string>
+    <string name="storage_space_not_enough_Toast">अपर्याप्त संग्रहण स्थान। फाइल सहेजी नहीं जा सकती।</string>
+    <string name="nfc_confirm_pairing">ब्लूटूथ डिवाइस के साथ जोड़ी बनाएँ %1$s?</string>
+    <string name="nfc_pairing_request">NFC जोड़ी बनाने का अनुरोध</string>
+    <string name="nfc_pairing_accept">युग्‍म बनाएं</string>
+    <string name="nfc_pairing_decline">रद्द करें</string>
+    <string name="from_target_device">प्रेषक: %1$s</string>
+    <string name="file_name">फ़ाइल नाम: %1$s</string>
+    <string name="file_size">फ़ाइल आकार: %1$s</string>
+    <string name="transfer_dlg_title">फ़ाइल स्थानांतरण</string>
+    <string name="transfer_dlg_stop">बंद करें</string>
+    <string name="transfer_dlg_hide">लघुतम करें</string>
+    <string name="download_success">%1$s प्राप्ति पूर्ण.</string>
+    <string name="not_exist_file_desc_Toast">फ़ाइल मौजूद नहीं है।</string>
+    <string name="start_send_Toast">संचार प्रारंभ हो जाएगा।</string>
+    <string name="touch_pair">पेयर बनाने के लिए टच करें</string>
+    <string name="touch_share_ap">कनेक्ट करने के लिए टच करें</string>
+    <string name="touch_share_wlan">अपना नेटवर्क कनेक्शन साझा करने के लिए टच करें</string>
+    <string name="touch_cannot_share_wlan">साझा करने के लिए कोई नेटवर्क नहीं है</string>
+    <string name="bluetooth_pair_success">सफलतापूर्वक पेयर बनाया गया।</string>
+    <string name="wifidirect_pair_success">सफलतापूर्वक पेयर बनाया गया।</string>
+    <string name="pair_failed">पेयर बनाना विफल।</string>
+    <string name="softap_share_success">हॉटस्पॉट साझा किया गया। साथी डिवाइस अब आपकी डिवाइस से जुड़ी है।</string>
+    <string name="softap_share_failed">आपका नेटवर्क कनेक्शन साझा करना विफल।</string>
+    <string name="share_wlan_success">Wi-Fi नेटवर्क जानकारी साझा की गई।</string>
+    <string name="otherside_not_support_pair_Toast">साथी डिवाइस असंगत है। पेयर नहीं बनाया जा सकता।</string>
+    <string name="nfc_url_title">NFC अनुरोध</string>
+    <string name="nfc_url_body">"क्या इस URL टैग में लिंक खोलना है? "</string>
+    <string name="no_longer_nfc_url">पुनः अनुस्मारक न दें</string>
+    <string name="wifi_to_p2p_message">Wi-Fi डायरेक्ट चालू करने से Wi-Fi अक्षम हो जाएगा।</string>
+    <string name="tether_to_p2p_message">Wi-Fi डायरेक्ट चालू करने से Wi-Fi हॉटस्पॉट अक्षम हो जाएगा।</string>
+    <string name="beam_failed_wifi_on_nocoex">Wi-Fi चालू होने के कारण बीम विफल हो गया है</string>
+    <string name="beam_failed_tether_on_nocoex">Wi-Fi हॉटस्पॉट चालू होने के कारण बीम विफल हो गया है</string>
+    <string name="routing_table_full">रूटिंग तालिका भरी हुई है। कृपया कुछ भुगतान ऐप्स की स्थापना रद्द करें।</string>
+    <string name="nfc_enabled_dialog">NFC सक्षम होना चाहिए। इसे सक्षम करें?</string>
+    <string name="nfc_enabled_tittle">नोट</string>
+    <string name="nfc_not_enabled_user_restriction">इस उपयोगकर्ता को NFC सेवा को सक्षम करने की अनुमति नहीं है।</string>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC-szolgáltatás</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Érintse meg a sugárzáshoz</string>
+    <string name="beam_progress">Bejövő sugár...</string>
+    <string name="beam_outgoing">Sugárzás...</string>
+    <string name="beam_complete">Átvitel befejezve.</string>
+    <string name="beam_failed">A sugárzás nem fejeződött be</string>
+    <string name="beam_canceled">Sugárzás megszakítva</string>
+    <string name="cancel">Mégse</string>
+    <string name="beam_touch_to_view">A megtekintéshez érintse meg.</string>
+    <string name="beam_handover_not_supported_Toast">A fogadó eszköz nem támogatja a nagyméretű fájlok átvitelét adatsugárzás útján.</string>
+    <string name="beam_try_again">Eszközök újbóli összekapcsolása</string>
+    <string name="beam_busy">A Beam jelenleg elfoglalt. Próbálja újra, ha az előző átvitel már befejeződött.</string>
+    <string name="device">ismeretlen eszköz</string>
+    <string name="connecting_peripheral">Csatlakozás: <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Csatlakozva: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Nem lehet csatlakozni: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Lecsatlakozás: <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Lecsatlakozva: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Párosítás: <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="pairing_peripheral_failed">Nem lehet párosítani: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Bluetooth engedélyezése nem lehetséges</string>
+    <string name="confirm_pairing">Biztosan párosítani szeretné a(z) %1$s Bluetooth-eszközt?</string>
+    <string name="pair_yes">Igen</string>
+    <string name="pair_no">Nem</string>
+    <string name="tap_again_to_pay">Érintse meg újra az alábbival történő fizetéshez: %1$s</string>
+    <string name="tap_again_to_complete">Érintse meg újra az alábbival történő tranzakció befejezéséhez: %1$s</string>
+    <string name="transaction_failure">A tranzakciót nem lehetett végrehajtani a(z) %1$s alkalmazással.</string>
+    <string name="could_not_use_app">Nem lehetett használni a(z) %1$s alkalmazást.</string>
+    <string name="pay_with">Fizetőeszköz</string>
+    <string name="complete_with">Befejezés a következővel:</string>
+    <string name="default_pay_app_removed">Az érintéssel fizetés preferált szolgáltatása eltávolítva. Másikat választ?</string>
+    <string name="ask_nfc_tap">Érintsen meg egy másik eszközt a befejezéshez</string>
+    <string name="wifi_connect">Csatlakozás</string>
+    <string name="status_unable_to_connect">Nem lehet csatlakozni a hálózathoz</string>
+    <string name="status_wifi_connected">Csatlakozva</string>
+    <string name="title_connect_to_network">Csatlakozás hálózathoz</string>
+    <string name="prompt_connect_to_network">Csatlakozik a következő hálózathoz: %1$s?</string>
+    <string name="beam_requires_nfc_enabled">A Huawei Beamhez szükség van az NFC engedélyezésére. Engedélyezi most?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC fogadott</string>
+    <string name="unknown_file">Ismeretlen fájl</string>
+    <string name="unknown_device">Ismeretlen eszköz</string>
+    <string name="status_unknown_error">Ismeretlen hiba történt</string>
+    <string name="transfer_menu_open">Megnyitás</string>
+    <string name="no_transfers">Nincs fájl</string>
+    <string name="transfer_menu_clear_all">Lista törlése</string>
+    <string name="transfer_clear_dlg_title">Törlés</string>
+    <string name="transfer_clear_dlg_msg">Az összes beérkezett fájl törlődik.</string>
+    <string name="transfer_failed_network">Hálózati hiba, átvitel sikertelen</string>
+    <string name="transfer_failed_cancel">Átvitel megszakítva</string>
+    <string name="storage_space_not_enough_Toast">Nincs elegendő tárhely. A fájl nem menthető.</string>
+    <string name="nfc_confirm_pairing">Párosítja a(z) %1$s Bluetooth eszközzel?</string>
+    <string name="nfc_pairing_request">NFC párosítás kérelem</string>
+    <string name="nfc_pairing_accept">Párosít</string>
+    <string name="nfc_pairing_decline">Mégse</string>
+    <string name="from_target_device">Feladó: %1$s</string>
+    <string name="file_name">Fájlnév: %1$s</string>
+    <string name="file_size">Fájlméret: %1$s</string>
+    <string name="transfer_dlg_title">Fájlátvitel</string>
+    <string name="transfer_dlg_stop">Leállítás</string>
+    <string name="transfer_dlg_hide">Kis méret</string>
+    <string name="download_success">%1$s A fogadás kész.</string>
+    <string name="not_exist_file_desc_Toast">A fájl nem létezik.</string>
+    <string name="start_send_Toast">Átvitel megkezdése.</string>
+    <string name="touch_pair">Párosítás érintéssel</string>
+    <string name="touch_share_ap">Csatlakozás érintéssel</string>
+    <string name="touch_share_wlan">Hálózati kapcsolat megosztása érintéssel</string>
+    <string name="touch_cannot_share_wlan">Nincsenek megosztható hálózatok</string>
+    <string name="bluetooth_pair_success">Sikeresen párosítva.</string>
+    <string name="wifidirect_pair_success">Sikeresen párosítva.</string>
+    <string name="pair_failed">Párosítás sikertelen.</string>
+    <string name="softap_share_success">Hotspot megosztva. A kapcsolódó készülék csatlakozik az Önéhez.</string>
+    <string name="softap_share_failed">Hálózati kapcsolat megosztása sikertelen.</string>
+    <string name="share_wlan_success">Wi-Fi hálózati adatok megosztva.</string>
+    <string name="otherside_not_support_pair_Toast">A csatlakoztatni kívánt eszköz nem kompatibilis. Párosítás nem lehetséges.</string>
+    <string name="nfc_url_title">NFC kérés</string>
+    <string name="nfc_url_body">"Megnyitja a linket az URL címkében? "</string>
+    <string name="no_longer_nfc_url">Ne emlékeztessen újra</string>
+    <string name="wifi_to_p2p_message">A Wi-Fi Direct bekapcsolása kikapcsolja a Wi-Fi-t.</string>
+    <string name="tether_to_p2p_message">A Wi-Fi Direct bekapcsolása kikapcsolja a Wi-Fi hotspotot.</string>
+    <string name="beam_failed_wifi_on_nocoex">Beam sikertelen, mert a Wi-Fi be van kapcsolva</string>
+    <string name="beam_failed_tether_on_nocoex">Beam sikertelen, mert a Wi-Fi hotspot be van kapcsolva</string>
+    <string name="routing_table_full">Routing tábla tele van. Távolítson el néhány fizető-alkalmazást.</string>
+    <string name="nfc_enabled_dialog">Az NFC engedélyezve kell legyen. Engedélyezi?</string>
+    <string name="nfc_enabled_tittle">Megjegyzés</string>
+    <string name="nfc_not_enabled_user_restriction">Ez a felhasználó nem jogosult az NFC szolgáltatás engedélyezésére.</string>
+</resources>

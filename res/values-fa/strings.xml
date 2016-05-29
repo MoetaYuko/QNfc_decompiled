@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سرويس NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">برای پخش، لمس کنید</string>
+    <string name="beam_progress">درحال دریافت پرتو...</string>
+    <string name="beam_outgoing">پرتو…</string>
+    <string name="beam_complete">پرتو ارسال شد</string>
+    <string name="beam_failed">پرتو کامل نشد</string>
+    <string name="beam_canceled">پرتو لغو شد</string>
+    <string name="cancel">لغو</string>
+    <string name="beam_touch_to_view">برای مشاهده لمس کنید</string>
+    <string name="beam_handover_not_supported_Toast">دستگاه گیرنده انتقال فایل‌های بزرگ از طریق پرتو را پشتیبانی نمی کند.</string>
+    <string name="beam_try_again">مرتبط‌کردن دوباره دستگاه‌ها</string>
+    <string name="beam_busy">«پرتو» در حال حاضر مشغول است. هنگامی که انتقال قبلی کامل شد دوباره امتحان کنید.</string>
+    <string name="device">دستگاه</string>
+    <string name="connecting_peripheral">درحال اتصال به <subnode ref="en" index="1">‪‎%1$s‬</subnode>...</string>
+    <string name="connected_peripheral">متصل به <subnode ref="en" index="1">‪‎%1$s‬</subnode>.</string>
+    <string name="connect_peripheral_failed">امکان اتصال به <subnode ref="en" index="1">‪‎%1$s‬</subnode> وجود نداشت.</string>
+    <string name="disconnecting_peripheral">در حال قطع اتصال از <subnode ref="en" index="1">‪‎%1$s‬ </subnode>...</string>
+    <string name="disconnected_peripheral">اتصال به <subnode ref="en" index="1">‪‎%1$s‬ </subnode> قطع شد.</string>
+    <string name="pairing_peripheral">جفت‌سازی با <subnode ref="en" index="1">‪‎%1$s‬</subnode>…</string>
+    <string name="pairing_peripheral_failed">امکان جفت‌سازی با <subnode ref="en" index="1">‪‎%1$s‬</subnode> وجود نداشت.</string>
+    <string name="failed_to_enable_bt">فعال کردن بلوتوث امکان پذیر نیست</string>
+    <string name="confirm_pairing">آیا مطمئن هستید که می‌خواهید دستگاه بلوتوث %1$s را جفت کنید؟</string>
+    <string name="pair_yes">بله</string>
+    <string name="pair_no">خیر</string>
+    <string name="tap_again_to_pay">برای پرداخت با %1$s مجدداً لمس کنید</string>
+    <string name="tap_again_to_complete">برای تکمیل تعامل با %1$s مجدداً لمس کنید</string>
+    <string name="transaction_failure">این تراکنش با %1$s تکمیل نشد.</string>
+    <string name="could_not_use_app">نتوانست از %1$s استفاده کند.</string>
+    <string name="pay_with">پرداخت با</string>
+    <string name="complete_with">تکمیل با</string>
+    <string name="default_pay_app_removed">خدمات مورد نظر شما برای لمس و پرداخت حذف شد. يکي ديگر را انتخاب می کنید؟</string>
+    <string name="ask_nfc_tap">برای تکمیل کردن، یک دستگاه دیگر را لمس کنید</string>
+    <string name="wifi_connect">اتصال</string>
+    <string name="status_unable_to_connect">اتصال به شبکه ممکن نیست</string>
+    <string name="status_wifi_connected">مرتبط شد</string>
+    <string name="title_connect_to_network">اتصال به شبکه</string>
+    <string name="prompt_connect_to_network">به شبکه %1$s متصل می‌شوید؟</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam نیاز به فعال‌سازی NFC دارد. هم‌اکنون فعال شود؟</string>
+    <string name="android_beam">‏پرتو Android</string>
+    <string name="nfc_live_folder">NFC دریافت شد</string>
+    <string name="unknown_file">فایل ناشناس</string>
+    <string name="unknown_device">دستگاه ناشناس</string>
+    <string name="status_unknown_error">خطای ناشناس</string>
+    <string name="transfer_menu_open">باز کردن</string>
+    <string name="no_transfers">فایلی وجود ندارد</string>
+    <string name="transfer_menu_clear_all">پاک کردن لیست</string>
+    <string name="transfer_clear_dlg_title">پاک کردن</string>
+    <string name="transfer_clear_dlg_msg">همه فایل های دریافت شده حذف می شوند.</string>
+    <string name="transfer_failed_network">خطای شبکه، انتقال ناموفق بود</string>
+    <string name="transfer_failed_cancel">انتقال لغو شد</string>
+    <string name="storage_space_not_enough_Toast">فضای کافی برای ذخیره موجود نیست. ذخیره فایل امکان پذیر نیست.</string>
+    <string name="nfc_confirm_pairing">جفت سازی با دستگاه Bluetooth %1$s؟</string>
+    <string name="nfc_pairing_request">درخواست جفت سازی NFC</string>
+    <string name="nfc_pairing_accept">جفت سازی</string>
+    <string name="nfc_pairing_decline">لغو</string>
+    <string name="from_target_device">از: ‪‎%1$s‬</string>
+    <string name="file_name">نام فایل: ‪‎%1$s‬</string>
+    <string name="file_size">اندازه فایل: ‪‎%1$s‬</string>
+    <string name="transfer_dlg_title">انتقال فايل</string>
+    <string name="transfer_dlg_stop">توقف</string>
+    <string name="transfer_dlg_hide">کوچک‌کردن</string>
+    <string name="download_success">%1$s دریافت کامل شد.</string>
+    <string name="not_exist_file_desc_Toast">فایل موجود نیست.</string>
+    <string name="start_send_Toast">انتقال شروع خواهد شد.</string>
+    <string name="touch_pair">لمس برای جفت ‌سازی</string>
+    <string name="touch_share_ap">لمس برای اتصال</string>
+    <string name="touch_share_wlan">لمس برای اشتراک گذاری اتصال شبکه</string>
+    <string name="touch_cannot_share_wlan">عدم وجود شبکه برای اشتراک گذاری</string>
+    <string name="bluetooth_pair_success">با موفقیت جفت سازی شد.</string>
+    <string name="wifidirect_pair_success">با موفقیت جفت سازی شد.</string>
+    <string name="pair_failed">جفت سازی ناموفق بود.</string>
+    <string name="softap_share_success">نقطه اتصال اشتراک گذاری شد. دستگاه مورد نظر جهت جفت سازی اکنون به دستگاه شما متصل است.</string>
+    <string name="softap_share_failed">اشتراک گذاری اتصال شبکه شما ناموفق بود.</string>
+    <string name="share_wlan_success">اطلاعات شبکه Wi-Fi اشتراک گذاری شد.</string>
+    <string name="otherside_not_support_pair_Toast">دستگاه مورد نظر جهت جفت سازی ناسازگار است. جفت سازی امکان پذیر نیست.</string>
+    <string name="nfc_url_title">درخواست NFC</string>
+    <string name="nfc_url_body">"پیوند در این تگ URL باز شود؟ "</string>
+    <string name="no_longer_nfc_url">مجدداً يادآوري نشود</string>
+    <string name="wifi_to_p2p_message">روشن‌کردن Wi-Fi Direct باعث غیرفعال‌شدن Wi-Fi می‌شود.</string>
+    <string name="tether_to_p2p_message">روشن‌کردن Wi-Fi Direct باعث غیرفعال‌شدن نقطه اتصال Wi-Fi می‌شود.</string>
+    <string name="beam_failed_wifi_on_nocoex">Beam غیرفعال شد زیرا Wi-Fi روشن است</string>
+    <string name="beam_failed_tether_on_nocoex">Beam غیرفعال شد زیرا نقطه دسترسی Wi-Fi روشن است</string>
+    <string name="routing_table_full">جدول مسیریابی پر شده است. لطفا برخی از برنامه های پرداخت را حذف نصب کنید.</string>
+    <string name="nfc_enabled_dialog">NFC باید فعال شود. آنرا فعال می‌کنید؟</string>
+    <string name="nfc_enabled_tittle">توجه</string>
+    <string name="nfc_not_enabled_user_restriction">این کاربر مجاز به فعال کردن خدمات NFC نیست.</string>
+</resources>

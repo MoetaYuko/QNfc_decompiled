@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servei NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Toca per fer brillar</string>
+    <string name="beam_progress">"Transferència d'entrada..."</string>
+    <string name="beam_outgoing">"S'està compartint..."</string>
+    <string name="beam_complete">Sensor completat</string>
+    <string name="beam_failed">"El sensor no s'ha executat"</string>
+    <string name="beam_canceled">"S'ha desactivat el sensor"</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="beam_touch_to_view">Toca per visualitzar</string>
+    <string name="beam_handover_not_supported_Toast">El dispositiu del receptor no és compatible amb la transferència de fitxers grans mitjançant sensors.</string>
+    <string name="beam_try_again">Torna a apropar els dispositius</string>
+    <string name="beam_busy">En aquest moment Beam està ocupat. Prova-ho de nou quan acabi la transferència anterior.</string>
+    <string name="device">el dispositiu</string>
+    <string name="connecting_peripheral">"S'està connectant a "<subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Connectat a <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">"No s'ha pogut connectar a "<subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">"S'està desconnectant de "<subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Desconnectat de <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">"S'està aparellant amb "<subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">"No s'ha pogut aparellar amb "<subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">No es pot habilitar el Bluetooth</string>
+    <string name="confirm_pairing">Estàs segur que vols emparellar el dispositiu Bluetooth %1$s?</string>
+    <string name="pair_yes">Sí</string>
+    <string name="pair_no">No</string>
+    <string name="tap_again_to_pay">Torneu a tocar per pagar amb %1$s</string>
+    <string name="tap_again_to_complete">Torneu a tocar per completar la transacció amb %1$s</string>
+    <string name="transaction_failure">"No s'ha pogut completar aquesta transacció amb %1$s."</string>
+    <string name="could_not_use_app">"No s'ha pogut utilitzar %1$s."</string>
+    <string name="pay_with">Pagament amb</string>
+    <string name="complete_with">Completa amb</string>
+    <string name="default_pay_app_removed">"S'ha suprimit el servei preferit de Tocar i pagar. En voleu tria un altre?"</string>
+    <string name="ask_nfc_tap">Toqueu un altre dispositiu per finalitzar</string>
+    <string name="wifi_connect">Connecta</string>
+    <string name="status_unable_to_connect">No es pot connectar a la xarxa.</string>
+    <string name="status_wifi_connected">Connexió correcta</string>
+    <string name="title_connect_to_network">Connexió a la xarxa</string>
+    <string name="prompt_connect_to_network">Vols connectar-te a la xarxa %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam necessita que NFC estigui habilitat. El voleu habilitar ara?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC rebuda</string>
+    <string name="unknown_file">Fitxer desconegut</string>
+    <string name="unknown_device">Dispositiu desconegut</string>
+    <string name="status_unknown_error">Error desconegut</string>
+    <string name="transfer_menu_open">Obre</string>
+    <string name="no_transfers">Cap fitxer</string>
+    <string name="transfer_menu_clear_all">Buida la llista</string>
+    <string name="transfer_clear_dlg_title">Esborra</string>
+    <string name="transfer_clear_dlg_msg">Tots els fitxers rebuts se suprimiran.</string>
+    <string name="transfer_failed_network">"Error de xarxa. No s'ha pogut transferir"</string>
+    <string name="transfer_failed_cancel">"La transferència s'ha cancel·lat"</string>
+    <string name="storage_space_not_enough_Toast">"Espai d'emmagatzematge insuficient. El fitxer no es pot desar."</string>
+    <string name="nfc_confirm_pairing">Voleu aparellar el dispositiu Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">"Sol·licitud d'aparellament NFC"</string>
+    <string name="nfc_pairing_accept">Emparella</string>
+    <string name="nfc_pairing_decline">Cancel·la</string>
+    <string name="from_target_device">Des de: %1$s</string>
+    <string name="file_name">Nom del fitxer: %1$s</string>
+    <string name="file_size">Mida del fitxer: %1$s</string>
+    <string name="transfer_dlg_title">Transferència de fitxers</string>
+    <string name="transfer_dlg_stop">Aturar</string>
+    <string name="transfer_dlg_hide">Minimitzar</string>
+    <string name="download_success">%1$s: recepció completa.</string>
+    <string name="not_exist_file_desc_Toast">El fitxer no existeix.</string>
+    <string name="start_send_Toast">Començarà la transmissió.</string>
+    <string name="touch_pair">Toqueu per aparellar</string>
+    <string name="touch_share_ap">Toqueu-ho per connectar</string>
+    <string name="touch_share_wlan">Toqueu-ho per compartir la connexió de xarxa</string>
+    <string name="touch_cannot_share_wlan">No hi ha cap xarxa per compartir</string>
+    <string name="bluetooth_pair_success">"S'ha aparellat correctament."</string>
+    <string name="wifidirect_pair_success">"S'ha aparellat correctament."</string>
+    <string name="pair_failed">"No s'ha pogut aparellar."</string>
+    <string name="softap_share_success">"S'ha compartit el punt de connexió. El dispositiu homòleg ara està connectat al vostre dispositiu."</string>
+    <string name="softap_share_failed">"No s'ha pogut compartir la connexió de xarxa."</string>
+    <string name="share_wlan_success">"S'ha compartit la informació de la xarxa Wi-Fi."</string>
+    <string name="otherside_not_support_pair_Toast">El dispositiu homòleg no és compatible. No es pot aparellar.</string>
+    <string name="nfc_url_title">"Sol·licitud d'NFC"</string>
+    <string name="nfc_url_body">"Voleu obrir l'enllaç en aquesta etiqueta URL? "</string>
+    <string name="no_longer_nfc_url">"No m'ho recordis més"</string>
+    <string name="wifi_to_p2p_message">"En activar Wi-Fi Direct, s'inhabilitarà la Wi-Fi."</string>
+    <string name="tether_to_p2p_message">"En activar Wi-Fi Direct, s'inhabilitarà el Punt conn. Wi-Fi."</string>
+    <string name="beam_failed_wifi_on_nocoex">Error del raig Android perquè la Wi-Fi està act.</string>
+    <string name="beam_failed_tether_on_nocoex">Err. de raig Android perquè Punt conn. Wi-Fi està act.</string>
+    <string name="routing_table_full">"La taula d'encaminament està plena. Desinstal·leu algunes aplicacions de pagament."</string>
+    <string name="nfc_enabled_dialog">"NFC ha d'estar habilitat. Ho voleu permetre?"</string>
+    <string name="nfc_enabled_tittle">Nota</string>
+    <string name="nfc_not_enabled_user_restriction">Aquest usuari no està autoritzat a habilitar el servei NFC.</string>
+</resources>

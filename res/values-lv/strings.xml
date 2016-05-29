@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC pakalpojums</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Pieskarties, lai projicētu</string>
+    <string name="beam_progress">Ienākošie vienumi, izmantojot funkciju Beam...</string>
+    <string name="beam_outgoing">Notiek kopīgošana, izmantojot funkciju Beam...</string>
+    <string name="beam_complete">Kopīg., izm. funkc. Beam, ir pab.</string>
+    <string name="beam_failed">Kopīg., izm.funk. Beam, netika pab.</string>
+    <string name="beam_canceled">Kopīg., izm. funkc. Beam, atcelta</string>
+    <string name="cancel">Atcelt</string>
+    <string name="beam_touch_to_view">Pieskarieties, lai skatītu.</string>
+    <string name="beam_handover_not_supported_Toast">Saņēmēja ierīce neatbalsta lielu failu pārsūtīšanu, izmantojot funkciju Beam.</string>
+    <string name="beam_try_again">Vēlreiz novietojiet ierīces blakus.</string>
+    <string name="beam_busy">Funkcija Beam šobrīd ir noslogota. Mēģiniet vēlreiz, tiklīdz ir pabeigta iepriekšējā pārsūtīšana.</string>
+    <string name="device">ierīci</string>
+    <string name="connecting_peripheral">Notiek savienojuma izveide ar <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="connected_peripheral">Izveidots savienojums ar <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Nevarēja izveidot savienojumu ar <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Notiek savienojuma pārtraukšana ar <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Atvienots no <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Notiek savienošana pārī ar <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Nevarēja savienot pārī ar <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Nevar iespējot Bluetooth</string>
+    <string name="confirm_pairing">Vai tiešām vēlaties savienot pārī Bluetooth ierīci %1$s?</string>
+    <string name="pair_yes">Jā</string>
+    <string name="pair_no">Nē</string>
+    <string name="tap_again_to_pay">Pieskarieties vēlreiz, lai samaksātu, izmantojot %1$s</string>
+    <string name="tap_again_to_complete">Pieskarieties vēlreiz, lai pabeigtu transakciju, izmantojot %1$s</string>
+    <string name="transaction_failure">Šo darījumu nevarēja pabeigt, izmantojot lietotni %1$s.</string>
+    <string name="could_not_use_app">Nevarēja izmantot lietotni %1$s.</string>
+    <string name="pay_with">Maksāt, izmantojot:</string>
+    <string name="complete_with">Pabeigt, izmantojot:</string>
+    <string name="default_pay_app_removed">Jūsu vēlamais pieskaršanās un maksāšanas pakalpojums tika noņemts. Vai izvēlēties citu?</string>
+    <string name="ask_nfc_tap">Lai pabeigtu, pieskarieties otrai ierīcei</string>
+    <string name="wifi_connect">Izveidot savienojumu</string>
+    <string name="status_unable_to_connect">Nevar izveidot savienojumu ar tīklu.</string>
+    <string name="status_wifi_connected">Savienojums ir izveidots.</string>
+    <string name="title_connect_to_network">Savienojuma izveide ar tīklu</string>
+    <string name="prompt_connect_to_network">Vai izveidot savienojumu ar tīklu %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Lai lietotu Huawei Beam, ir jābūt iespējotiem NFC. Vai iespējot tūlīt?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC saņemts</string>
+    <string name="unknown_file">Nezināms fails</string>
+    <string name="unknown_device">Nezināma ierīce</string>
+    <string name="status_unknown_error">Nezināma kļūda</string>
+    <string name="transfer_menu_open">Atvērt</string>
+    <string name="no_transfers">Nav failu</string>
+    <string name="transfer_menu_clear_all">Notīrīt sarakstu</string>
+    <string name="transfer_clear_dlg_title">Notīrīšana</string>
+    <string name="transfer_clear_dlg_msg">Visi saņemtie faili tiks dzēsti.</string>
+    <string name="transfer_failed_network">Tīkla kļūda, pārsūtīšana neizdevās</string>
+    <string name="transfer_failed_cancel">Pārsūtīšana atcelta</string>
+    <string name="storage_space_not_enough_Toast">Atmiņā nepietiek vietas. Nevar saglabāt failu.</string>
+    <string name="nfc_confirm_pairing">Vai savienot pārī ar Bluetooth ierīci %1$s?</string>
+    <string name="nfc_pairing_request">NFC pāra izv. piepr.</string>
+    <string name="nfc_pairing_accept">Izveidot pāri</string>
+    <string name="nfc_pairing_decline">Atcelt</string>
+    <string name="from_target_device">No: %1$s</string>
+    <string name="file_name">Faila nosaukums: %1$s</string>
+    <string name="file_size">Faila lielums: %1$s</string>
+    <string name="transfer_dlg_title">Faila pārsūtīšana</string>
+    <string name="transfer_dlg_stop">Apturēt</string>
+    <string name="transfer_dlg_hide">Minimizēt</string>
+    <string name="download_success">Faila %1$s saņemšana pabeigta.</string>
+    <string name="not_exist_file_desc_Toast">Fails nepastāv.</string>
+    <string name="start_send_Toast">Tiks sākta pārsūtīšana.</string>
+    <string name="touch_pair">Pieskarieties, lai savienotu pārī</string>
+    <string name="touch_share_ap">Pieskarieties, lai savienotu</string>
+    <string name="touch_share_wlan">Pieskarieties, lai koplietotu tīkla savienojumu</string>
+    <string name="touch_cannot_share_wlan">Nav koplietojamu tīklu</string>
+    <string name="bluetooth_pair_success">Sekmīgi savienots pārī.</string>
+    <string name="wifidirect_pair_success">Sekmīgi savienots pārī.</string>
+    <string name="pair_failed">Neizdevās savienot pārī.</string>
+    <string name="softap_share_success">Karstvieta ir koplietota. Sapārotā ierīce tagad ir pievienota jūsu ierīcei.</string>
+    <string name="softap_share_failed">Neizdevās koplietot tīkla savienojumu.</string>
+    <string name="share_wlan_success">Wi-Fi tīkla informācija ir koplietota.</string>
+    <string name="otherside_not_support_pair_Toast">Sapārota ierīce nav saderīga. Nevar savienot pārī.</string>
+    <string name="nfc_url_title">NFC pieprasījums</string>
+    <string name="nfc_url_body">"Vai atvērt šajā URL tagā pieejamo saiti? "</string>
+    <string name="no_longer_nfc_url">Vairs neatgādināt</string>
+    <string name="wifi_to_p2p_message">Ieslēdzot Wi-Fi Direct, tiks atspējots Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Ieslēdzot Wi-Fi Direct, tiks atspējota Wi-Fi karstvieta.</string>
+    <string name="beam_failed_wifi_on_nocoex">Funkcija Beam neizdevās, jo ir ieslēgts Wi-Fi</string>
+    <string name="beam_failed_tether_on_nocoex">Beam neizdevās, jo ir ieslēgta Wi-Fi karstvieta</string>
+    <string name="routing_table_full">Maršrutēšanas tabula ir pilna. Lūdzu, atinstalējiet dažas maksājumu lietotnes.</string>
+    <string name="nfc_enabled_dialog">Ir jābūt iespējotiem tuva darbības lauka sakariem (NFC). Vai tos iespējot?</string>
+    <string name="nfc_enabled_tittle">Piezīme</string>
+    <string name="nfc_not_enabled_user_restriction">Šim lietotājam nav atļauts palaist NFC pakalpojumu.</string>
+</resources>

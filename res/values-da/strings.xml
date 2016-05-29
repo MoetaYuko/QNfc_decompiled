@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC-tjeneste</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Tryk for at overføre</string>
+    <string name="beam_progress">Indgående overførsel...</string>
+    <string name="beam_outgoing">Overfører...</string>
+    <string name="beam_complete">Overførsel fuldført</string>
+    <string name="beam_failed">Overførslen blev ikke fuldført</string>
+    <string name="beam_canceled">Overførslen blev annulleret</string>
+    <string name="cancel">Annuller</string>
+    <string name="beam_touch_to_view">Tryk for at se</string>
+    <string name="beam_handover_not_supported_Toast">Modtagerens enhed understøtter ikke overførsel af store filer via Beam.</string>
+    <string name="beam_try_again">Før enhederne sammen igen</string>
+    <string name="beam_busy">Beam er optaget i øjeblikket. Prøv igen, når den forrige overførsel er gennemført.</string>
+    <string name="device">enheden</string>
+    <string name="connecting_peripheral">Opretter forbindelse til <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Tilsluttet <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Kunne ikke oprette forbindelse til <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Afbryder forbindelsen til <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Afbrudt fra <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Danner par med <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Kunne ikke danne par med <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Kan ikke aktivere Bluetooth</string>
+    <string name="confirm_pairing">Er du sikker på du vil parre Bluetooth-enheden %1$s?</string>
+    <string name="pair_yes">Ja</string>
+    <string name="pair_no">Nej</string>
+    <string name="tap_again_to_pay">Tryk igen for at betale med %1$s</string>
+    <string name="tap_again_to_complete">Tryk igen for at fuldende transaktion med %1$s</string>
+    <string name="transaction_failure">Denne transaktion kunne ikke fuldføres med %1$s.</string>
+    <string name="could_not_use_app">Kunne ikke fuldføres med %1$s.</string>
+    <string name="pay_with">Betal med</string>
+    <string name="complete_with">Fuldfør med</string>
+    <string name="default_pay_app_removed">Din foretrukne tjeneste til tryk-og-betal er blevet fjernet. Vælg en anden?</string>
+    <string name="ask_nfc_tap">Tryk på en anden enhed for at fuldføre</string>
+    <string name="wifi_connect">Forbind</string>
+    <string name="status_unable_to_connect">Der kunne ikke oprettes forbindelse til netværket</string>
+    <string name="status_wifi_connected">Der er oprettet forbindelse</string>
+    <string name="title_connect_to_network">Opret forbindelse til netværket</string>
+    <string name="prompt_connect_to_network">Vil du oprette forbindelse til netværket %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam kræver NFC for aktivering. Aktivér nu?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC modtaget</string>
+    <string name="unknown_file">Ukendt fil</string>
+    <string name="unknown_device">Ukendt enhed</string>
+    <string name="status_unknown_error">Ukendt fejl</string>
+    <string name="transfer_menu_open">Åbn</string>
+    <string name="no_transfers">Ingen filer</string>
+    <string name="transfer_menu_clear_all">Ryd liste</string>
+    <string name="transfer_clear_dlg_title">Ryd</string>
+    <string name="transfer_clear_dlg_msg">Alle modtagne filer slettes.</string>
+    <string name="transfer_failed_network">Netværksfejl, overførslen mislykkedes</string>
+    <string name="transfer_failed_cancel">Overførsel annulleret</string>
+    <string name="storage_space_not_enough_Toast">Utilstrækkelig lagerplads. Kan ikke gemme filen.</string>
+    <string name="nfc_confirm_pairing">Par med Bluetooth-enheden %1$s?</string>
+    <string name="nfc_pairing_request">Anmodning om NFC-parring</string>
+    <string name="nfc_pairing_accept">Par</string>
+    <string name="nfc_pairing_decline">Annuller</string>
+    <string name="from_target_device">Fra %1$s</string>
+    <string name="file_name">Filnavn: %1$s</string>
+    <string name="file_size">Størrelse: %1$s</string>
+    <string name="transfer_dlg_title">Filoverførsel</string>
+    <string name="transfer_dlg_stop">Stop</string>
+    <string name="transfer_dlg_hide">Minimer</string>
+    <string name="download_success">%1$s Modtagelse fuldført.</string>
+    <string name="not_exist_file_desc_Toast">Filen findes ikke.</string>
+    <string name="start_send_Toast">Transmission begynder.</string>
+    <string name="touch_pair">Tryk for at parre</string>
+    <string name="touch_share_ap">Tryk for at forbinde</string>
+    <string name="touch_share_wlan">Tryk for at dele din netværksforbindelse</string>
+    <string name="touch_cannot_share_wlan">Ingen netværk at dele</string>
+    <string name="bluetooth_pair_success">Parring lykkedes.</string>
+    <string name="wifidirect_pair_success">Parring lykkedes.</string>
+    <string name="pair_failed">Kunne ikke parre.</string>
+    <string name="softap_share_success">Hotspot delt. Peer-enheden er nu forbundet til din enhed.</string>
+    <string name="softap_share_failed">Kunne ikke dele din netværksforbindelse.</string>
+    <string name="share_wlan_success">Wi-Fi-netværksoplysninger delt.</string>
+    <string name="otherside_not_support_pair_Toast">Peer-enheden er ikke kompatibel. Kan ikke parre.</string>
+    <string name="nfc_url_title">NFC-anmodning</string>
+    <string name="nfc_url_body">"Vil du åbne linket i dette URL-tag? "</string>
+    <string name="no_longer_nfc_url">Påmind ikke igen</string>
+    <string name="wifi_to_p2p_message">Hvis Wi-Fi Direct slås til, deaktiveres Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Hvis Wi-Fi Direct slås til, deaktiveres Wi-Fi-hotspot.</string>
+    <string name="beam_failed_wifi_on_nocoex">Stråle mislykkedes, fordi Wi-Fi er slået til</string>
+    <string name="beam_failed_tether_on_nocoex">Stråle mislykkedes, fordi Wi-Fi-hotspot er til</string>
+    <string name="routing_table_full">Routingtabellen er fuld. Afinstallér nogle betalings-apps.</string>
+    <string name="nfc_enabled_dialog">NFC skal være aktiveret. Aktivér den?</string>
+    <string name="nfc_enabled_tittle">Bemærk</string>
+    <string name="nfc_not_enabled_user_restriction">Denne bruger har ikke tilladelse til at aktivere NFC-tjenesten.</string>
+</resources>

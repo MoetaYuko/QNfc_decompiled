@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC ၀န္ေဆာင္မႈ</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">အလင္းတန္းျဖာရန္ ထိပါ</string>
+    <string name="beam_progress">အ၀င္ အလင္းတန္း…</string>
+    <string name="beam_outgoing">အလင္းတန္းျဖာေနသည္…</string>
+    <string name="beam_complete">အလင္းတန္း ၿပီးစီးၿပီ</string>
+    <string name="beam_failed">အလင္းတန္း မျပည့္စံုခဲ့ပါ</string>
+    <string name="beam_canceled">အလင္းတန္း ပယ္ဖ်က္ခဲ့သည္</string>
+    <string name="cancel">ဖ်က္သိမ္းပါ</string>
+    <string name="beam_touch_to_view">ၾကည့္ရႈရန္ တို႔ထိပါ</string>
+    <string name="beam_handover_not_supported_Toast">လက္ခံသည့္စက္သည္ အလင္းတန္းမွတစ္ဆင့္ ႀကီးမားေသာဖိုင္ လႊဲေျပာင္းမွု မေထာက္ပံ့ပါ။</string>
+    <string name="beam_try_again">စက္မ်ားကို အတူတကြ ထပ္မံ သယ္ေဆာင္လာပါ</string>
+    <string name="beam_busy">Beam ေလာေလာဆယ္ အလုပ္မ်ားေန၏။ ယခင္ ကူးေျပာင္းမႈၿပီးမွ ထပ္မံႀကိဳးစားပါ။</string>
+    <string name="device">စက္ပစၥည္း</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> သို႕ခ်ိတ္ဆက္ေနသည္…</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode> သို႕ခ်ိတ္ဆက္လုိက္သည္။</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> သို႕မခ်ိတ္ဆက္ႏုိင္ပါ။</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode>မွ ခ်ိတ္ဆက္မႈ ျဖတ္ေတာက္ေနသည္…</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1">%1$s</subnode> မွခ်ိတ္ဆက္မႈ ျဖတ္ေတာက္လုိက္သည္။</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode> ျဖင့္ ယွဥ္တြဲေနသည္…</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> ျဖင့္ယွဥ္တြဲျခင္း မျပဳႏုိင္ပါ။</string>
+    <string name="failed_to_enable_bt">ဘလူးတုသ္ မဖြင့္ႏိုင္ပါ</string>
+    <string name="confirm_pairing">ဘလူးတုသ္စက္%1$sႏွင့္ တြဲခ်ိတ္ရန္ က်ိန္းေသပါသလား?</string>
+    <string name="pair_yes">ဟုတ္ပါသည္</string>
+    <string name="pair_no">မဟုတ္ပါ</string>
+    <string name="tap_again_to_pay">%1$s ျဖင့္ ေပးေဆာင္ရန္ ထပ္မံထိပါ</string>
+    <string name="tap_again_to_complete">%1$sျဖင့္ လုပ္ငန္းေဆာင္ရြက္ျခင္း ျပည့္စံုေစရန္ ထပ္မံထိပါ</string>
+    <string name="transaction_failure">ဤလုပ္ငန္း ေဆာင္ရြက္ျခင္းကို %1$s ျဖင့္ မၿပီးေျမာက္ႏိုင္ပါ။</string>
+    <string name="could_not_use_app">%1$s ကို မသုံးႏုိင္ပါ။</string>
+    <string name="pay_with">ျဖင့္ ေပးသည္</string>
+    <string name="complete_with">" ျဖင့္ ၿပီးေျမာက္ေစသည္"</string>
+    <string name="default_pay_app_removed">သင့္ဦးစားေပး ၀န္ေဆာင္မႈျဖစ္သည့္ ထိၿပီးေငြေပးေခ်မႈအား ဖယ္႐ွားလိုက္သည္။ အျခားတစ္ခုကို ေ႐ြးခ်ယ္မည္လား?</string>
+    <string name="ask_nfc_tap">ၿပီးေျမာက္ေအာင္လုပ္ေဆာင္ရန္ အျခားစက္တစ္လံုးကုိ ထိလုိက္ပါ</string>
+    <string name="wifi_connect">ခ်ိတ္ဆက္ရန္</string>
+    <string name="status_unable_to_connect">ကြန္ရက္ကို ခ်ိတ္ဆက္ မရခဲ့</string>
+    <string name="status_wifi_connected">ခ်ိတ္ဆက္ထား</string>
+    <string name="title_connect_to_network">ကြန္ရက္ကို ဆက္သြယ္ရန္</string>
+    <string name="prompt_connect_to_network">ကြန္ရက္ %1$sကို ခ်ိတ္ဆက္ရမလား?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam သည္ NFC ကိုဖြင့္ေပးရန္ လိုအပ္သည္။ ၄င္းကို ယခု ဖြင့္မည္လား?</string>
+    <string name="android_beam">အန်ဒရွိုက် အလင်းတန်း</string>
+    <string name="nfc_live_folder">NFC လက္ခံရရွိခဲ့သည္</string>
+    <string name="unknown_file">မသိေသာဖုိင္</string>
+    <string name="unknown_device">မသိေသာ ကိရိယာ</string>
+    <string name="status_unknown_error">မသိေသာ အမွား</string>
+    <string name="transfer_menu_open">ဖြင့္</string>
+    <string name="no_transfers">ဖိုင္မရွိပါ</string>
+    <string name="transfer_menu_clear_all">စာရင္းကို ရွင္းပါ</string>
+    <string name="transfer_clear_dlg_title">ရွင္းသည္</string>
+    <string name="transfer_clear_dlg_msg">လက္ခံရရွိေသာ ဖုိင္အားလုံးကို ဖ်က္လိမ့္မည္။</string>
+    <string name="transfer_failed_network">ကြန္ယက္ ျပႆနာ၊ လႊဲေျပာင္းျခင္း မေအာင္ျမင္ပါ</string>
+    <string name="transfer_failed_cancel">လႊဲေျပာင္းျခင္း ဖ်က္သိမ္းခဲ့သည္</string>
+    <string name="storage_space_not_enough_Toast">သိုေလွာင္ေနရာမ လံုေလာက္ပါ။ ဖိုင္မသိမ္းဆည္းႏိုင္ပါ။</string>
+    <string name="nfc_confirm_pairing">%1$s ဘလူးတုသ္ကိရိယာျဖင့္ တြဲမလား။</string>
+    <string name="nfc_pairing_request">NFC တြဲျခင္းေတာင္းခံမႈ</string>
+    <string name="nfc_pairing_accept">အတြဲ</string>
+    <string name="nfc_pairing_decline">ပယ္ဖ်က္သည္</string>
+    <string name="from_target_device">မွ %1$s</string>
+    <string name="file_name">ဖိုင္အမည္- %1$s</string>
+    <string name="file_size">ဖိုင္အရြယ္အစား %1$s</string>
+    <string name="transfer_dlg_title">ဖိုင္လႊဲေျပာင္းျခင္း။</string>
+    <string name="transfer_dlg_stop">ရပ္ပါ</string>
+    <string name="transfer_dlg_hide">ခ်ဳံ႕</string>
+    <string name="download_success">" %1$s ကိုလက္ခံရယူခဲ့ၿပီ။"</string>
+    <string name="not_exist_file_desc_Toast">ဖိုင္မရွိပါ</string>
+    <string name="start_send_Toast">တစ္ဆင့္ေပးပို႔ျခင္းမၾကာခင္ စပါလိမ့္မည္</string>
+    <string name="touch_pair">တြဲရန္ ထိပါ</string>
+    <string name="touch_share_ap">ဆက္သြယ္ရန္ ထိပါ</string>
+    <string name="touch_share_wlan">သင့္ကြန္ရက္ ခ်ိတ္ဆက္မႈ ေဝမွ်ရန္ ထိပါ</string>
+    <string name="touch_cannot_share_wlan">မွ်ေဝရန္ ကြန္ရက္မရွိ</string>
+    <string name="bluetooth_pair_success">ေအာင္ျမင္စြာ တြဲၿပီးၿပီ။</string>
+    <string name="wifidirect_pair_success">ေအာင္ျမင္စြာ တြဲၿပီးၿပီ။</string>
+    <string name="pair_failed">တြဲရန္ မေအာင္ျမင္ပါ။</string>
+    <string name="softap_share_success">ေဟာ့စေပါ့ ေဝမွ်ထားသည္။ သင့္ကိရိယာသို႔ အဆင့္တူကိရိယာသည္ ယခုခ်ိတ္ဆက္ၿပီးၿပီ။</string>
+    <string name="softap_share_failed">သင့္ကြန္ရက္ ခ်ိတ္ဆက္မႈ ေဝမွ်ရန္ မေအာင္ျမင္ပါ။</string>
+    <string name="share_wlan_success">Wi-Fi ကြန္ယက္ အခ်က္အလက္ မွ်ေဝခဲ့သည္။</string>
+    <string name="otherside_not_support_pair_Toast">အဆင့္တူကိရိယာမ်ားသည္ သဟဇာတမျဖစ္ပါ။ မတြဲဖက္ႏိုင္ပါ။</string>
+    <string name="nfc_url_title">NFC ေတာင္းဆိုမႈ</string>
+    <string name="nfc_url_body">လင့္ခ္ကို ဤ URL ခ်ိတ္တြဲမႈအတြင္းတြင္ ဖြင့္ျပမည္လား?</string>
+    <string name="no_longer_nfc_url">္ထပ္သတိမေပးပါႏွင့္</string>
+    <string name="wifi_to_p2p_message">Wi-Fi တို္က္႐ုိက္ကုိ ဖြင့္လုိက္ျခင္းျဖင့္ Wi-Fi ပိတ္သြားလိမ့္မည္။</string>
+    <string name="tether_to_p2p_message">Wi-Fi တို္က္႐ုိက္ကုိ ဖြင့္လုိက္ျခင္းျဖင့္ Wi-Fi ေဟာ့စေပါ့ ပိတ္သြားလိမ့္မည္။</string>
+    <string name="beam_failed_wifi_on_nocoex">Wi-Fi ဖြင့္ထားေသာေၾကာင္း Beam မလုပ္ေဆာင္ႏုိင္ပါ။</string>
+    <string name="beam_failed_tether_on_nocoex">Wi-Fi ေဟာ့စေပါ့ဖြင့္ထားေသာေၾကာင္း Beam မလုပ္ေဆာင္ႏုိင္ပါ။</string>
+    <string name="routing_table_full">လမ္းေၾကာင္းျပဇယား ျပည့္ေနသည္။ ေက်းဇူးျပဳ၍ အခ်ိဳ႕ေငြေပးေခ်အက္ပ္မ်ားကို ျပန္ထုတ္ပါ။</string>
+    <string name="nfc_enabled_dialog">NFC ကိုဖြင့္ထားရမည္။ ၄င္းကို ဖြင့္မည္လား?</string>
+    <string name="nfc_enabled_tittle">မွတ္စု</string>
+    <string name="nfc_not_enabled_user_restriction">ဤသံုးစြဲသူက NFC ဝန္ေဆာင္မႈကို ဖြင့္ရန္ ခြင့္မျပဳထားပါ။</string>
+</resources>

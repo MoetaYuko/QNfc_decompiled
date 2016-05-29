@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC-palvelu</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Kosketa palkkia</string>
+    <string name="beam_progress">Saapuva sisällönjakopyyntö...</string>
+    <string name="beam_outgoing">Jaetaan sisältöä…</string>
+    <string name="beam_complete">Sisältö jaettu</string>
+    <string name="beam_failed">Jakoa ei suoritettu valmiiksi</string>
+    <string name="beam_canceled">Jako peruutettu</string>
+    <string name="cancel">Peruuta</string>
+    <string name="beam_touch_to_view">Kosketa ja näytä</string>
+    <string name="beam_handover_not_supported_Toast">Vastaanottajan laite ei tue suurten tiedostojen siirtoa sisällön jakamisen kautta.</string>
+    <string name="beam_try_again">Yhdistä laitteet uudelleen</string>
+    <string name="beam_busy">Beam on tällä hetkellä varattu. Yritä uudelleen, kun edellinen siirto on valmis.</string>
+    <string name="device">laite</string>
+    <string name="connecting_peripheral">Yhdistetään kohteeseen <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Yhdistetty kohteeseen <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Yhteyttä kohteeseen <subnode ref="en" index="1">%1$s</subnode> ei voitu muodostaa.</string>
+    <string name="disconnecting_peripheral">Katkaistaan yhteys kohteeseen <subnode ref="en" index="1">%1$s </subnode>…</string>
+    <string name="disconnected_peripheral">Yhteys katkaistu kohteeseen <subnode ref="en" index="1">%1$s </subnode>.</string>
+    <string name="pairing_peripheral">Muodostetaan laiteparia laitteen <subnode ref="en" index="1">%1$s</subnode> kanssa…</string>
+    <string name="pairing_peripheral_failed">Laiteparia ei voitu muodostaa laitteen <subnode ref="en" index="1">%1$s</subnode> kanssa.</string>
+    <string name="failed_to_enable_bt">Bluetooth-yhteyttä ei voi ottaa käyttöön</string>
+    <string name="confirm_pairing">Oletko varma, että haluat muodostaa laiteparin Bluetooth-laitteeseen %1$s?</string>
+    <string name="pair_yes">Kyllä</string>
+    <string name="pair_no">Ei</string>
+    <string name="tap_again_to_pay">Maksa kohteella %1$s koskettamalla uudelleen</string>
+    <string name="tap_again_to_complete">Viimeistele tapahtuma kohteen %1$s kanssa koskettamalla uudelleen</string>
+    <string name="transaction_failure">Tapahtuman suorittaminen sovelluksella %1$s epäonnistui.</string>
+    <string name="could_not_use_app">Sovelluksen %1$s käyttö epäonnistui.</string>
+    <string name="pay_with">Maksusovellus:</string>
+    <string name="complete_with">Käytettävä sovellus:</string>
+    <string name="default_pay_app_removed">Ensisijainen napauta ja maksa -palvelu poistettiin. Valitaanko toinen?</string>
+    <string name="ask_nfc_tap">Suorita loppuun koskettamalla toista laitetta</string>
+    <string name="wifi_connect">Yhdistä</string>
+    <string name="status_unable_to_connect">Verkkoyhteyttä ei voi muodostaa</string>
+    <string name="status_wifi_connected">Yhdistetty</string>
+    <string name="title_connect_to_network">Yhdistä verkkoon</string>
+    <string name="prompt_connect_to_network">Yhdistetäänkö verkkoon %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam vaatii, että NFC on käytössä. Otetaanko se käyttöön nyt?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Lähiviestintä (NFC) vastaanotettu</string>
+    <string name="unknown_file">Tuntematon tiedosto</string>
+    <string name="unknown_device">Tuntematon laite</string>
+    <string name="status_unknown_error">Tuntematon virhe</string>
+    <string name="transfer_menu_open">Avaa</string>
+    <string name="no_transfers">Ei tiedostoja</string>
+    <string name="transfer_menu_clear_all">Tyhjennä luettelo</string>
+    <string name="transfer_clear_dlg_title">Poista</string>
+    <string name="transfer_clear_dlg_msg">Kaikki vastaanotetut tiedostot poistetaan.</string>
+    <string name="transfer_failed_network">Verkkovirhe, siirto epäonnistui</string>
+    <string name="transfer_failed_cancel">Tiedonsiirto peruutettu</string>
+    <string name="storage_space_not_enough_Toast">Tallennustila ei riitä. Tiedostoa ei voi tallentaa.</string>
+    <string name="nfc_confirm_pairing">Muodostetaanko laitepari Bluetooth-laitteen %1$s kanssa?</string>
+    <string name="nfc_pairing_request">NFC-laiteparin muodostuspyyntö</string>
+    <string name="nfc_pairing_accept">Muodosta laitepari</string>
+    <string name="nfc_pairing_decline">Peruuta</string>
+    <string name="from_target_device">Lähettäjä: %1$s</string>
+    <string name="file_name">Tied.nimi: %1$s</string>
+    <string name="file_size">Tied.koko: %1$s</string>
+    <string name="transfer_dlg_title">Tiedostonsiirto</string>
+    <string name="transfer_dlg_stop">Lopeta</string>
+    <string name="transfer_dlg_hide">Pienennä</string>
+    <string name="download_success">%1$s vastaanotto valmis.</string>
+    <string name="not_exist_file_desc_Toast">Tiedostoa ei ole olemassa.</string>
+    <string name="start_send_Toast">Lähetys alkaa.</string>
+    <string name="touch_pair">Muodosta laitepari koskettamalla</string>
+    <string name="touch_share_ap">Yhdistä koskettamalla</string>
+    <string name="touch_share_wlan">Jaa verkkoyhteys koskettamalla</string>
+    <string name="touch_cannot_share_wlan">Ei jaettavia verkkoja</string>
+    <string name="bluetooth_pair_success">Laitepari muodostettu.</string>
+    <string name="wifidirect_pair_success">Laitepari muodostettu.</string>
+    <string name="pair_failed">Laiteparin muodostaminen epäonnistui.</string>
+    <string name="softap_share_success">Aktiivialue jaettu. Vertaislaite on nyt yhdistetty verkkoosi.</string>
+    <string name="softap_share_failed">Verkkoyhteyden jakaminen epäonnistui.</string>
+    <string name="share_wlan_success">Wi-Fi-verkon tiedot jaettu.</string>
+    <string name="otherside_not_support_pair_Toast">Vertaislaite ei ole yhteensopiva. Laiteparia ei voitu muodostaa.</string>
+    <string name="nfc_url_title">NFC-pyyntö</string>
+    <string name="nfc_url_body">"Avataanko tämän URL-tunnisteen linkki? "</string>
+    <string name="no_longer_nfc_url">Älä muistuta uud.</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Directin kytkeminen päälle poistaa Wi-Fin käytöstä.</string>
+    <string name="tether_to_p2p_message">Wi-Fi Directin kytkeminen päälle poistaa Wi-Fi-hotspotin käytöstä.</string>
+    <string name="beam_failed_wifi_on_nocoex">Lähetys epäonnistui, koska Wi-Fi on päällä</string>
+    <string name="beam_failed_tether_on_nocoex">Lähetys epäonnistui, koska Wi-Fi-hotspot on päällä</string>
+    <string name="routing_table_full">Reititystaulukko on täynnä. Poista joidenkin maksusovellusten asennus.</string>
+    <string name="nfc_enabled_dialog">NFC-ominaisuuden täytyy olla käytössä. Otetaanko se käyttöön?</string>
+    <string name="nfc_enabled_tittle">Huomautus</string>
+    <string name="nfc_not_enabled_user_restriction">Tämä käyttäjä ei saa ottaa NFC-palvelua käyttöön.</string>
+</resources>

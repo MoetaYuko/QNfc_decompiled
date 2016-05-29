@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:paddingTop="14.0dip" android:paddingBottom="14.0dip" android:layout_width="fill_parent" android:layout_height="64.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/right_layout" android:layout_width="82.0dip" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="8.0dip" android:layout_alignParentEnd="true">
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:ellipsize="end" android:id="@id/complete_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_alignParentEnd="true" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:ellipsize="end" android:id="@id/targetdevice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@id/complete_date" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/left_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toStartOf="@id/right_layout" android:layout_alignParentStart="true">
+        <ImageView android:id="@id/transfer_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:contentDescription="@null" android:layout_marginEnd="8.0dip" android:layout_alignParentStart="true" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:ellipsize="end" android:id="@id/transfer_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_toEndOf="@id/transfer_icon" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:ellipsize="end" android:id="@id/complete_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@id/transfer_title" android:layout_toEndOf="@id/transfer_icon" />
+    </RelativeLayout>
+</RelativeLayout>

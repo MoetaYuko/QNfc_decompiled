@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dịch vụ NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Chạm để truyền</string>
+    <string name="beam_progress">Tia đến...</string>
+    <string name="beam_outgoing">Đang chiếu...</string>
+    <string name="beam_complete">Hoàn tất chiếu</string>
+    <string name="beam_failed">Chiếu chưa hoàn tất</string>
+    <string name="beam_canceled">Chiếu bị hủy</string>
+    <string name="cancel">Hủy</string>
+    <string name="beam_touch_to_view">Chạm để xem</string>
+    <string name="beam_handover_not_supported_Toast">Thiết bị của người nhận không hỗ trợ truyền tệp lớn qua quá trình chiếu.</string>
+    <string name="beam_try_again">Nhóm các thiết bị lại với nhau lần nữa</string>
+    <string name="beam_busy">Beam hiện đang bận. Hãy thử lại khi quá trình truyền trước đây hoàn tất.</string>
+    <string name="device">thiết bị</string>
+    <string name="connecting_peripheral">Đang kết nối với <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Đã kết nối với <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Không thể kết nối tới <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Hủy kết nối với <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Hủy kết nối với <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Đang ghép nối với <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Không thể ghép nối với <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Không thể bật Bluetooth</string>
+    <string name="confirm_pairing">Bạn có chắc chắn muốn ghép nối thiết bị Bluetooth %1$s không?</string>
+    <string name="pair_yes">Có</string>
+    <string name="pair_no">Không</string>
+    <string name="tap_again_to_pay">Chạm lần nữa để thanh toán bằng %1$s</string>
+    <string name="tap_again_to_complete">Chạm lần nữa để hoàn tất giao dịch bằng %1$s</string>
+    <string name="transaction_failure">Không thể hoàn tất giao dịch này bằng %1$s.</string>
+    <string name="could_not_use_app">Không thể sử dụng %1$s.</string>
+    <string name="pay_with">Thanh toán bằng</string>
+    <string name="complete_with">Hoàn tất bằng</string>
+    <string name="default_pay_app_removed">Dịch vụ ưa thích của bạn về Chạm gần &amp; thanh toán đã được gỡ bỏ. Chọn dịch vụ khác?</string>
+    <string name="ask_nfc_tap">Chạm vào một thiết bị khác để hoàn tất</string>
+    <string name="wifi_connect">Kết nối</string>
+    <string name="status_unable_to_connect">Không thể kết nối với mạng</string>
+    <string name="status_wifi_connected">Đã kết nối</string>
+    <string name="title_connect_to_network">Kết nối mạng</string>
+    <string name="prompt_connect_to_network">Kết nối với mạng %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam cần NFC được bật. Bật luôn?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Đã nhận NFC</string>
+    <string name="unknown_file">Tệp không xác định</string>
+    <string name="unknown_device">Thiết bị không xác định</string>
+    <string name="status_unknown_error">Lỗi không xác định</string>
+    <string name="transfer_menu_open">Mở</string>
+    <string name="no_transfers">Không có tập tin</string>
+    <string name="transfer_menu_clear_all">Xóa danh sách</string>
+    <string name="transfer_clear_dlg_title">Xóa</string>
+    <string name="transfer_clear_dlg_msg">Tất cả các tập tin nhận được sẽ bị xóa.</string>
+    <string name="transfer_failed_network">Lỗi mạng, truyền thất bại</string>
+    <string name="transfer_failed_cancel">Đã hủy thao tác truyền</string>
+    <string name="storage_space_not_enough_Toast">Không đủ dung lượng trống. Không thể lưu tập tin.</string>
+    <string name="nfc_confirm_pairing">Tạo cặp với thiết bị Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Yêu cầu tạo cặp NFC</string>
+    <string name="nfc_pairing_accept">Ghép nối</string>
+    <string name="nfc_pairing_decline">Hủy</string>
+    <string name="from_target_device">Từ: %1$s</string>
+    <string name="file_name">Tên tập tin: %1$s</string>
+    <string name="file_size">Kích thước tập tin: %1$s</string>
+    <string name="transfer_dlg_title">Truyền gửi tập tin</string>
+    <string name="transfer_dlg_stop">Dừng</string>
+    <string name="transfer_dlg_hide">Thu nhỏ</string>
+    <string name="download_success">Hoàn tất nhận %1$s.</string>
+    <string name="not_exist_file_desc_Toast">Tập tin này không tồn tại.</string>
+    <string name="start_send_Toast">Truyền tải sẽ bắt đầu.</string>
+    <string name="touch_pair">Chạm để ghép nối</string>
+    <string name="touch_share_ap">Chạm để kết nối</string>
+    <string name="touch_share_wlan">Chạm để chia sẻ kết nối mạng của bạn</string>
+    <string name="touch_cannot_share_wlan">Không có mạng để chia sẻ</string>
+    <string name="bluetooth_pair_success">Ghép đôi thành công.</string>
+    <string name="wifidirect_pair_success">Ghép đôi thành công.</string>
+    <string name="pair_failed">Không thể ghép đôi.</string>
+    <string name="softap_share_success">Đã chia sẻ điểm truy cập nhanh. Thiết bị tạo cặp giờ đã được kết nối với thiết bị của bạn.</string>
+    <string name="softap_share_failed">Không thể chia sẻ kết nối mạng của bạn.</string>
+    <string name="share_wlan_success">Đã chia sẻ thông tin mạng Wi-Fi.</string>
+    <string name="otherside_not_support_pair_Toast">Thiết bị ghép đôi không tương thích. Không thể ghép đôi.</string>
+    <string name="nfc_url_title">Yêu cầu NFC</string>
+    <string name="nfc_url_body">"Mở liên kết trong thẻ URL này? "</string>
+    <string name="no_longer_nfc_url">Không nhắc lại</string>
+    <string name="wifi_to_p2p_message">Bật Wi-Fi Direct sẽ vô hiệu hóa Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Bật Wi-Fi Direct sẽ vô hiệu hóa điểm phát sóng Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Không phát sóng được bởi Wi-Fi đang bật</string>
+    <string name="beam_failed_tether_on_nocoex">Không phát sóng được vì điểm phát sóng Wi-Fi đang bật</string>
+    <string name="routing_table_full">Bảng định tuyến đã đầy. Hãy gỡ cài đặt một số ứng dụng thanh toán.</string>
+    <string name="nfc_enabled_dialog">Yêu cầu kích hoạt NFC. Kích hoạt?</string>
+    <string name="nfc_enabled_tittle">Lưu ý</string>
+    <string name="nfc_not_enabled_user_restriction">Người dùng này không đủ quyền bật dịch vụ NFC.</string>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC 服務</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">輕觸即可傳輸</string>
+    <string name="beam_progress">正在接收傳輸...</string>
+    <string name="beam_outgoing">即時傳輸中...</string>
+    <string name="beam_complete">傳輸完成</string>
+    <string name="beam_failed">傳輸未完成</string>
+    <string name="beam_canceled">傳輸已取消</string>
+    <string name="cancel">取消</string>
+    <string name="beam_touch_to_view">輕觸即可查看</string>
+    <string name="beam_handover_not_supported_Toast">接收者的裝置不支援透過 Beam 傳輸大型檔案</string>
+    <string name="beam_try_again">再次將裝置放在一起</string>
+    <string name="beam_busy">Beam 目前忙碌中。請等待先前的傳輸作業完成，然後再試一次。</string>
+    <string name="device">裝置</string>
+    <string name="connecting_peripheral">正在連線至 <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">已連線至 <subnode ref="en" index="1">%1$s</subnode>。</string>
+    <string name="connect_peripheral_failed">無法連線至 <subnode ref="en" index="1">%1$s</subnode>。</string>
+    <string name="disconnecting_peripheral">正在中斷 <subnode ref="en" index="1">%1$s</subnode> 的連線…</string>
+    <string name="disconnected_peripheral">已中斷 <subnode ref="en" index="1">%1$s</subnode> 的連線。</string>
+    <string name="pairing_peripheral">正在與 <subnode ref="en" index="1">%1$s</subnode> 配對…</string>
+    <string name="pairing_peripheral_failed">無法與 <subnode ref="en" index="1">%1$s</subnode> 配對。</string>
+    <string name="failed_to_enable_bt">無法啟用藍牙</string>
+    <string name="confirm_pairing">您確定要與藍牙裝置「%1$s」配對嗎？</string>
+    <string name="pair_yes">是</string>
+    <string name="pair_no">否</string>
+    <string name="tap_again_to_pay">再輕觸一次即可使用 %1$s 付款</string>
+    <string name="tap_again_to_complete">再輕觸一次即可使用 %1$s 完成交易</string>
+    <string name="transaction_failure">無法使用「%1$s」完成這項交易作業。</string>
+    <string name="could_not_use_app">無法使用「%1$s」。</string>
+    <string name="pay_with">使用以下應用程式完成付款：</string>
+    <string name="complete_with">使用以下應用程式完成操作：</string>
+    <string name="default_pay_app_removed">偏好的感應付款服務已經移除。是否選擇其他服務？</string>
+    <string name="ask_nfc_tap">輕觸另一個裝置以完成</string>
+    <string name="wifi_connect">連線</string>
+    <string name="status_unable_to_connect">無法連線至網路</string>
+    <string name="status_wifi_connected">已連線</string>
+    <string name="title_connect_to_network">連線至網路</string>
+    <string name="prompt_connect_to_network">連線至網路 %1$s？</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam 需要啟用 NFC。立即啟用它？</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC 接收檔案</string>
+    <string name="unknown_file">未知的檔案</string>
+    <string name="unknown_device">未知的裝置</string>
+    <string name="status_unknown_error">未知的錯誤</string>
+    <string name="transfer_menu_open">開啟</string>
+    <string name="no_transfers">沒有檔案</string>
+    <string name="transfer_menu_clear_all">清除清單</string>
+    <string name="transfer_clear_dlg_title">清除</string>
+    <string name="transfer_clear_dlg_msg">即將刪除所有收到的檔案。</string>
+    <string name="transfer_failed_network">網路錯誤，傳輸失敗</string>
+    <string name="transfer_failed_cancel">已取消傳輸</string>
+    <string name="storage_space_not_enough_Toast">儲存空間不足。無法儲存檔案</string>
+    <string name="nfc_confirm_pairing">要與藍牙裝置 %1$s 配對嗎？</string>
+    <string name="nfc_pairing_request">NFC 配對要求</string>
+    <string name="nfc_pairing_accept">配對</string>
+    <string name="nfc_pairing_decline">取消</string>
+    <string name="from_target_device">寄件者：%1$s</string>
+    <string name="file_name">檔案名稱：%1$s</string>
+    <string name="file_size">檔案大小：%1$s</string>
+    <string name="transfer_dlg_title">檔案傳輸</string>
+    <string name="transfer_dlg_stop">停止</string>
+    <string name="transfer_dlg_hide">關到最小</string>
+    <string name="download_success">已完成 %1$s 的接收作業。</string>
+    <string name="not_exist_file_desc_Toast">檔案不存在</string>
+    <string name="start_send_Toast">傳輸將會開始</string>
+    <string name="touch_pair">輕觸配對</string>
+    <string name="touch_share_ap">輕觸連線</string>
+    <string name="touch_share_wlan">輕觸分享您的網路連線</string>
+    <string name="touch_cannot_share_wlan">沒有可分享的網路</string>
+    <string name="bluetooth_pair_success">配對成功。</string>
+    <string name="wifidirect_pair_success">配對成功。</string>
+    <string name="pair_failed">配對失敗。</string>
+    <string name="softap_share_success">已分享熱點。對端裝置現在已連線到您的裝置。</string>
+    <string name="softap_share_failed">分享您的網路連線失敗。</string>
+    <string name="share_wlan_success">已分享 Wi-Fi 網路資訊。</string>
+    <string name="otherside_not_support_pair_Toast">對端裝置不相容。無法配對</string>
+    <string name="nfc_url_title">NFC 要求</string>
+    <string name="nfc_url_body">"開啟在此網址標籤中的連結？ "</string>
+    <string name="no_longer_nfc_url">不要再提醒</string>
+    <string name="wifi_to_p2p_message">開啟 Wi-Fi Direct 將停用 Wi-Fi。</string>
+    <string name="tether_to_p2p_message">開啟 Wi-Fi Direct 將停用 Wi-Fi 熱點。</string>
+    <string name="beam_failed_wifi_on_nocoex">由於 Wi-Fi 開啟，因此傳輸失敗</string>
+    <string name="beam_failed_tether_on_nocoex">由於 Wi-Fi 熱點開啟，因此傳輸失敗</string>
+    <string name="routing_table_full">路由表已滿。請解除安裝部分支付應用程式。</string>
+    <string name="nfc_enabled_dialog">必須啟用 NFC。要啟用嗎？</string>
+    <string name="nfc_enabled_tittle">提示</string>
+    <string name="nfc_not_enabled_user_restriction">不允許這位使用者啟用 NFC 服務。</string>
+</resources>

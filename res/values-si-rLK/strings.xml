@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC සේවාව</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">කදම්භ කිරීමට ස්පර්ෂ කරන්න</string>
+    <string name="beam_progress">පැමිණෙන කදම්භය...</string>
+    <string name="beam_outgoing">කදම්භ කරමින්...</string>
+    <string name="beam_complete">කදම්භය සම්පූර්ණයි</string>
+    <string name="beam_failed">කදම්භය සම්පූර්ණ නොවිණි</string>
+    <string name="beam_canceled">කදම්භය අවලංගු කෙරිණි</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="beam_touch_to_view">බැලීමට ස්පර්ශ කරන්න</string>
+    <string name="beam_handover_not_supported_Toast">ලබන්නාගේ උපාංගය කදම්භය හරහා විශාල ගොනු හුවමාරු කිරීමට සහය නොදක්වයි.</string>
+    <string name="beam_try_again">නැවතත් උපාංග එක ළඟට ගෙනෙන්න</string>
+    <string name="beam_busy">Beam දැනට කාර්ය බහුලය. පෙර මාරුව සම්පූර්ණ වන විට නැවත උත්සාහ කරන්න.</string>
+    <string name="device">උපාංගය</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> වෙත සම්බන්ධ වෙමින්…</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode> වෙත සම්බන්ධ විය.</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> වෙත සම්බන්ධ වීමට නොහැකි විය.</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> වෙතින් විසන්ධි වෙමින්…</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1">%1$s</subnode> වෙතින් විසන්ධි විය.</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode> සමග යුගල වෙමින්…</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> සමග යුගල වීමට නොහැකි විය.</string>
+    <string name="failed_to_enable_bt">Bluetooth ඔන් කළ නොහැක.</string>
+    <string name="confirm_pairing">%1$s බ්ලූටූත් උපාංගය යුගල කිරීමට අවශ්‍ය බවට ඔබට විශ්වාසද?</string>
+    <string name="pair_yes">ඔව්</string>
+    <string name="pair_no">නැත</string>
+    <string name="tap_again_to_pay">%1$s සමඟ ගෙවීමට නැවතත් ස්පර්ෂ කරන්න</string>
+    <string name="tap_again_to_complete">%1$s සමඟ ගනුදෙනුව සම්පූර්ණ කිරීමට නැවතත් ස්පර්ෂ කරන්න</string>
+    <string name="transaction_failure">මෙම ගනුදෙණුව %1$s සමඟ සම්පූර්ණ කිරීමට නොහැකි විය.</string>
+    <string name="could_not_use_app">%1$s භාවිතා කල නොහැකි විය.</string>
+    <string name="pay_with">සමඟින් ගෙවන්න</string>
+    <string name="complete_with">සමඟ සම්පූර්ණය</string>
+    <string name="default_pay_app_removed">තට්ටු කර ගෙවීම සඳහා ඔබේ කැමති සේවාව ඉවත් කෙරිණි. වෙන එකක් තෝරන්න ද?</string>
+    <string name="ask_nfc_tap">සම්පූර්ණ කිරීමට වෙනත් උපාංගයක් ස්පර්ශ කරන්න</string>
+    <string name="wifi_connect">සම්බන්ධ වන්න</string>
+    <string name="status_unable_to_connect">ජාලය හා සම්බන්ධ වීමට නොහැකි විය</string>
+    <string name="status_wifi_connected">සම්බන්ධ විය</string>
+    <string name="title_connect_to_network">ජාලයකට සම්බන්ධ කරන්න</string>
+    <string name="prompt_connect_to_network">%1$s ජාලයට සම්බන්ධ කරන්නේද?</string>
+    <string name="beam_requires_nfc_enabled">Huawei කදම්භය සඳහා NFC සක්‍රිය කළ යුතුයි. එය දැන් සක්‍රීය කරන්නේද?</string>
+    <string name="android_beam">ඇන්ඩ්‍රොයිඩ් කදම්භය</string>
+    <string name="nfc_live_folder">NFC ලැබිණි</string>
+    <string name="unknown_file">නොදන්නා ගොනුව</string>
+    <string name="unknown_device">නොදන්නා උපාංගය</string>
+    <string name="status_unknown_error">නොදන්නා දෝෂය</string>
+    <string name="transfer_menu_open">විවෘත කරන්න</string>
+    <string name="no_transfers">ගොනු නොමැත</string>
+    <string name="transfer_menu_clear_all">ලයිස්තුව හිස් කරන්න</string>
+    <string name="transfer_clear_dlg_title">හිස් කරන්න</string>
+    <string name="transfer_clear_dlg_msg">සියළුම ලැබුණු ගොනු මකා දැමෙනු ඇත.</string>
+    <string name="transfer_failed_network">ජාල දෝෂය, හුවමාරුව අසාර්ථක විය</string>
+    <string name="transfer_failed_cancel">හුවමාරුව අවලංගු කෙරිණි</string>
+    <string name="storage_space_not_enough_Toast">ප්‍රමාණවත් නොවූ ගබඩා ඉඩ. ගොනුව සුරැකිය නොහැක.</string>
+    <string name="nfc_confirm_pairing">%1$s Bluetooth උපාංගය හා යුගල කරන්නේද?</string>
+    <string name="nfc_pairing_request">NFC යුගල කිරීමේ ඉල්ලීම</string>
+    <string name="nfc_pairing_accept">යුගල කරන්න</string>
+    <string name="nfc_pairing_decline">අවලංගු කරන්න</string>
+    <string name="from_target_device">වෙතින්: %1$s</string>
+    <string name="file_name">ගොනු නාමය: %1$s</string>
+    <string name="file_size">ගොනුවේ විශාලත්වය: %1$s</string>
+    <string name="transfer_dlg_title">ගොනු මාරුව</string>
+    <string name="transfer_dlg_stop">නවත්වන්න</string>
+    <string name="transfer_dlg_hide">කුඩා කරන්න</string>
+    <string name="download_success">" %1$s ලබාගැණින."</string>
+    <string name="not_exist_file_desc_Toast">ගොනුව නොපවතී.</string>
+    <string name="start_send_Toast">සම්ප්‍රේෂණය ඇරඹෙනු ඇත.</string>
+    <string name="touch_pair">යුගල කිරීමට ස්පර්ශ කරන්න</string>
+    <string name="touch_share_ap">සම්බන්ධ වීමට ස්පර්ෂ කරන්න</string>
+    <string name="touch_share_wlan">ඔබගේ ජාල සම්බන්ධතාවය හුවමාරු කිරීමට ස්පර්ෂ කරන්න</string>
+    <string name="touch_cannot_share_wlan">හුවමාරු කරගැනීමට ජාල නොමැත</string>
+    <string name="bluetooth_pair_success">සාර්ථකව යුගලය කෙරිණි.</string>
+    <string name="wifidirect_pair_success">සාර්ථකව යුගලය කෙරිණි.</string>
+    <string name="pair_failed">යුගල කිරීමට අසමත් විය.</string>
+    <string name="softap_share_success">හොට්ස්පොට් හුවමාරු කෙරිණි සහය උපාංගය දැන් ඔබගේ උපාංගයට සම්බන්ධ වී ඇත</string>
+    <string name="softap_share_failed">ඔබගේ ජාල සම්බන්ධතාවය හුවමාරු කිරීමට අසමත් විය.</string>
+    <string name="share_wlan_success">Wi-Fi ජාල තොරතුරු හුවමාරු කෙරිණි.</string>
+    <string name="otherside_not_support_pair_Toast">සහය උපාංගය නොසැසඳේ. යුගලය කළ නොහැකිය</string>
+    <string name="nfc_url_title">NFC ඉල්ලීම</string>
+    <string name="nfc_url_body">"මෙම URL ටැගයේ සබැඳිය විවෘත කරන්නද? "</string>
+    <string name="no_longer_nfc_url">නැවත සිහිපත් නොකරන්න</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Direct ක්‍රියාත්මක කිරීමෙන් Wi-Fi අක්‍රීය වනු ඇත.</string>
+    <string name="tether_to_p2p_message">Wi-Fi Direct ක්‍රියාත්මක කිරීමෙන් Wi-Fi හොට්ස්පොටය අක්‍රීය වනු ඇත.</string>
+    <string name="beam_failed_wifi_on_nocoex">Wi-Fi ක්‍රියාත්මකව ඇති හෙයින් බීම් අසාර්ථක විය</string>
+    <string name="beam_failed_tether_on_nocoex">Wi-Fi හොට්ස්පොටය ක්‍රියාත්මකව ඇති හෙයින් බීම් අසාර්ථක විය</string>
+    <string name="routing_table_full">රවුටින් මේසය පිරී ඇත. කරුණාකර ගෙවීම් යෙදුම් කිහිපයක් අස්ථාපනය කරන්න.</string>
+    <string name="nfc_enabled_dialog">NFC අනිවාර්යයයෙන් සක්‍රීයව තිබිය යුතුය එය සක්‍රීය කරන්නද?</string>
+    <string name="nfc_enabled_tittle">සටහන</string>
+    <string name="nfc_not_enabled_user_restriction">මෙම පරිශීලකයා හට NFC සක්‍රිය කිරීමට අවසර නැත.</string>
+</resources>

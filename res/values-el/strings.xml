@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Υπηρεσία NFC</string>
+    <string name="nfcUserLabel">ΕΚΠ</string>
+    <string name="touch">Αγγίξτε για μετάδοση</string>
+    <string name="beam_progress">Εισερχόμενη ζεύξη…</string>
+    <string name="beam_outgoing">Αποστολή…</string>
+    <string name="beam_complete">Ολοκλήρωση ζεύξης</string>
+    <string name="beam_failed">Η ζεύξη δεν ολοκληρώθηκε</string>
+    <string name="beam_canceled">Ακύρωση ζεύξης</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="beam_touch_to_view">Αγγίξτε για προβολή</string>
+    <string name="beam_handover_not_supported_Toast">Η συσκευή του παραλήπτη δεν υποστηρίζει τη μεταφορά μεγάλων αρχείων μέσω ζεύξης.</string>
+    <string name="beam_try_again">Φέρτε ξανά τις συσκευές σας σε επαφή</string>
+    <string name="beam_busy">Η λειτουργία ζεύξης είναι απασχολημένη αυτήν τη στιγμή. Δοκιμάστε ξανά μετά την ολοκλήρωση της προηγούμενης μεταφοράς.</string>
+    <string name="device">η/την συσκευή</string>
+    <string name="connecting_peripheral">Γίνεται η σύνδεση με <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Έγινε σύνδεση με <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Δεν ήταν δυνατή η σύνδεση <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Γίνεται αποσύνδεση από <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Έγινε αποσύνδεση από <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Γίνεται σύζευξη με <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Δεν ήταν δυνατή η σύζευξη με <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Αδύνατη η ενεργοποίηση Bluetooth</string>
+    <string name="confirm_pairing">Είστε βέβαιοι ότι θέλετε να γίνει σύζευξη της συσκευής Bluetooth %1$s;</string>
+    <string name="pair_yes">Ναι</string>
+    <string name="pair_no">Όχι</string>
+    <string name="tap_again_to_pay">Πατήστε ξανά για να πληρώσετε με %1$s</string>
+    <string name="tap_again_to_complete">Πατήστε ξανά για να ολοκληρώσετε τη συναλλαγή με %1$s</string>
+    <string name="transaction_failure">Δεν ήταν δυνατή η ολοκλήρωση αυτής της συναλλαγής με την εφαρμογή %1$s.</string>
+    <string name="could_not_use_app">Δεν ήταν δυνατή η χρήση της εφαρμογής %1$s.</string>
+    <string name="pay_with">Πληρωμή με</string>
+    <string name="complete_with">Ολοκλήρωση συναλλαγής με</string>
+    <string name="default_pay_app_removed">Η υπηρεσία της προτίμησής σας για πληρωμή \"Πατήστε και πληρώστε\" καταργήθηκε. Επιλογή άλλης;</string>
+    <string name="ask_nfc_tap">Αγγίξτε άλλη συσκευή για ολοκλήρωση</string>
+    <string name="wifi_connect">Σύνδεση</string>
+    <string name="status_unable_to_connect">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
+    <string name="status_wifi_connected">Συνδέθηκε</string>
+    <string name="title_connect_to_network">Σύνδεση στο δίκτυο</string>
+    <string name="prompt_connect_to_network">Σύνδεση στο δίκτυο %1$s;</string>
+    <string name="beam_requires_nfc_enabled">Το Huawei Beam απαιτεί NFC, για να ενεργοποιηθεί. Να γίνει ενεργοποίηση τώρα;</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Παραλήφθηκε ειδοπ.</string>
+    <string name="unknown_file">Άγνωστο αρχείο</string>
+    <string name="unknown_device">Άγνωστη συσκευή</string>
+    <string name="status_unknown_error">Άγνωστο σφάλμα</string>
+    <string name="transfer_menu_open">Άνοιγμα</string>
+    <string name="no_transfers">Δεν υπάρχουν αρχεία</string>
+    <string name="transfer_menu_clear_all">Εκκαθάριση λίστας</string>
+    <string name="transfer_clear_dlg_title">Εκκαθάριση</string>
+    <string name="transfer_clear_dlg_msg">Όλα τα ληφθέντα αρχεία θα διαγραφούν.</string>
+    <string name="transfer_failed_network">Σφάλμα δικτύου, η μεταφορά απέτυχε</string>
+    <string name="transfer_failed_cancel">Η μεταφορά ακυρώθηκε</string>
+    <string name="storage_space_not_enough_Toast">Ανεπαρκής χώρος αποθήκευσης. Η αποθήκευση του αρχείου δεν είναι δυνατή.</string>
+    <string name="nfc_confirm_pairing">Να γίνει ζεύξη με τη συσκευή Bluetooth %1$s;</string>
+    <string name="nfc_pairing_request">Αίτημα ζεύξης NFC</string>
+    <string name="nfc_pairing_accept">Σύζευξη</string>
+    <string name="nfc_pairing_decline">Άκυρο</string>
+    <string name="from_target_device">Από: %1$s</string>
+    <string name="file_name">Όνομα αρχείου: %1$s</string>
+    <string name="file_size">Μέγεθος αρχείου: %1$s</string>
+    <string name="transfer_dlg_title">Μεταφορά αρχείου</string>
+    <string name="transfer_dlg_stop">Διακοπή</string>
+    <string name="transfer_dlg_hide">Ελαχιστοποίηση</string>
+    <string name="download_success">Ελήφθησαν πλήρως %1$s.</string>
+    <string name="not_exist_file_desc_Toast">Το αρχείο δεν υπάρχει.</string>
+    <string name="start_send_Toast">Θα ξεκινήσει η μετάδοση.</string>
+    <string name="touch_pair">Αγγίξτε για σύζευξη</string>
+    <string name="touch_share_ap">Αγγίξτε για σύνδεση</string>
+    <string name="touch_share_wlan">Αγγίξτε για κοινή χρήση της σύνδεσης δικτύου</string>
+    <string name="touch_cannot_share_wlan">Δεν υπάρχουν δίκτυα για κοινή χρήση</string>
+    <string name="bluetooth_pair_success">Επιτυχημένη σύζευξη.</string>
+    <string name="wifidirect_pair_success">Επιτυχημένη σύζευξη.</string>
+    <string name="pair_failed">Αποτυχία σύζευξης.</string>
+    <string name="softap_share_success">Κοινή χρήση hotspot. Η ομότιμη συσκευή έχει πλέον συνδεθεί με τη συσκευή σας.</string>
+    <string name="softap_share_failed">Αποτυχία κοινής χρήση της σύνδεσης δικτύου.</string>
+    <string name="share_wlan_success">Έγινε κοινή χρήση των πληροφοριών του δικτύου Wi-Fi.</string>
+    <string name="otherside_not_support_pair_Toast">Η ομότιμη συσκευή δεν είναι συμβατή. Η ζεύξη δεν είναι δυνατή.</string>
+    <string name="nfc_url_title">Αίτημα NFC</string>
+    <string name="nfc_url_body">"Να ανοίξει η σύνδεση σε αυτήν την ετικέτα URL; "</string>
+    <string name="no_longer_nfc_url">Να μην εμφανίζεται υπενθύμιση</string>
+    <string name="wifi_to_p2p_message">Η ενεργοποίηση του Wi-Fi Direct θα απενεργοποιήσει το Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Η ενεργοποίηση του Wi-Fi Direct θα απενεργοποιήσει το σημείο πρόσβασης Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Η λειτ. Beam απέτυχε επειδή το Wi-Fi είναι ενεργοπ.</string>
+    <string name="beam_failed_tether_on_nocoex">Η λειτ. Beam απέτυχε επειδή το σημείο πρόσβ. Wi-Fi είναι ενεργοπ.</string>
+    <string name="routing_table_full">Ο πίνακας δρομολόγησης είναι πλήρης. Καταργήστε την εγκατάσταση ορισμένων εφαρμογών πληρωμής.</string>
+    <string name="nfc_enabled_dialog">Το NFC πρέπει να είναι ενεργοποιημένο. Να ενεργοποιηθεί;</string>
+    <string name="nfc_enabled_tittle">Σημείωση</string>
+    <string name="nfc_not_enabled_user_restriction">Αυτός ο χρήστης δεν επιτρέπεται να ενεργοποιήσει την υπηρεσία NFC.</string>
+</resources>

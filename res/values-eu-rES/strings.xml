@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC zerbitzua</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Ukitu Beam abiarazteko</string>
+    <string name="beam_progress">Beam jasotzen</string>
+    <string name="beam_outgoing">Transferitzen...</string>
+    <string name="beam_complete">Beam transferentzia osatu da</string>
+    <string name="beam_failed">Beam ez da amaitu</string>
+    <string name="beam_canceled">Beam transferentzia bertan behera utzi da</string>
+    <string name="cancel">Utzi</string>
+    <string name="beam_touch_to_view">Ukitu ikusteko</string>
+    <string name="beam_handover_not_supported_Toast">Hartzailearen gailuak ez du Beam bidez fitxategi handiak transferitzea onartzen.</string>
+    <string name="beam_try_again">Hurbildu gailuak berriz</string>
+    <string name="beam_busy">Beam lanpetuta dago. Saiatu berriro abian den transferentzia amaitutakoan.</string>
+    <string name="device">gailua</string>
+    <string name="connecting_peripheral">Hona konektatzen: <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Hona konektatuta: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Ezin izan da hona konektatu: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Hemendik deskonektatzen: <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Hemendik deskonektatu da: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Honekin parekatzen: <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Ezin izan da honekin parekatu: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Ezin da Bluetooth gaitu</string>
+    <string name="confirm_pairing">Ziur %1$s Bluetooth gailuarekin parekatu nahi duzula?</string>
+    <string name="pair_yes">Bai</string>
+    <string name="pair_no">Ez</string>
+    <string name="tap_again_to_pay">Ukitu berriro %1$s-(r)ekin ordaintzeko</string>
+    <string name="tap_again_to_complete">Ukitu berriro transakzioak %1$s-(r)ekin osatzeko</string>
+    <string name="transaction_failure">Transakzio hau ezin izan da %1$s-(r)ekin osatu.</string>
+    <string name="could_not_use_app">Ezin izan da %1$s erabili.</string>
+    <string name="pay_with">Ordaindu honekin</string>
+    <string name="complete_with">Osatu honekin</string>
+    <string name="default_pay_app_removed">Kolpatu eta ordaintzea zerbitzu lehenetsitik kendu da. Beste bat aukeratu?</string>
+    <string name="ask_nfc_tap">Ukitu bete gailu bat osatzeko</string>
+    <string name="wifi_connect">Konektatu</string>
+    <string name="status_unable_to_connect">Ezin da sarera konektatu</string>
+    <string name="status_wifi_connected">Konektatuta</string>
+    <string name="title_connect_to_network">Konektatu sarera</string>
+    <string name="prompt_connect_to_network">%1$s sarera konektatu nahi duzu?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam erabili ahal izateko, NFCk gaituta izan behar du. Orain gaitu?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Jasotako NFCak</string>
+    <string name="unknown_file">Fitxategi ezezaguna</string>
+    <string name="unknown_device">Gailu ezezaguna</string>
+    <string name="status_unknown_error">Errore ezezaguna</string>
+    <string name="transfer_menu_open">Ireki</string>
+    <string name="no_transfers">Ez dago fitxategirik</string>
+    <string name="transfer_menu_clear_all">Garbitu zerrenda</string>
+    <string name="transfer_clear_dlg_title">Garbitu</string>
+    <string name="transfer_clear_dlg_msg">Jasotako fitxategi guztiak ezabatuko dira.</string>
+    <string name="transfer_failed_network">Sare-errorea. Ezin izan da transferitu</string>
+    <string name="transfer_failed_cancel">Transferentzia bertan behera utzi da</string>
+    <string name="storage_space_not_enough_Toast">Leku gutxiegi dago. Ezin da fitxategia gorde.</string>
+    <string name="nfc_confirm_pairing">%1$s Bluetooth gailuarekin parekatu?</string>
+    <string name="nfc_pairing_request">NFC parekatze-eskaera</string>
+    <string name="nfc_pairing_accept">Parekatu</string>
+    <string name="nfc_pairing_decline">Utzi</string>
+    <string name="from_target_device">Nork: %1$s</string>
+    <string name="file_name">Fitxategiaren izena: %1$s</string>
+    <string name="file_size">Fitxategiaren tamaina: %1$s</string>
+    <string name="transfer_dlg_title">Fitxategiaren transferentzia</string>
+    <string name="transfer_dlg_stop">Gelditu</string>
+    <string name="transfer_dlg_hide">Minimizatu</string>
+    <string name="download_success">" %1$s jasota."</string>
+    <string name="not_exist_file_desc_Toast">Fitxategia ez da existitzen.</string>
+    <string name="start_send_Toast">Transmisioa hasiko da.</string>
+    <string name="touch_pair">Ukitu parekatzeko</string>
+    <string name="touch_share_ap">Ukitu konektatzeko</string>
+    <string name="touch_share_wlan">Ukitu sare-konexioa partekatzeko</string>
+    <string name="touch_cannot_share_wlan">Ez dago partekatzeko sarerik</string>
+    <string name="bluetooth_pair_success">Ongi parekatu da.</string>
+    <string name="wifidirect_pair_success">Ongi parekatu da.</string>
+    <string name="pair_failed">Ezin izan da parekatu.</string>
+    <string name="softap_share_success">Hotspot partekatu da. Pareko gailua gailura konektatuta dago.</string>
+    <string name="softap_share_failed">Ezin izan da sare-konexioa partekatu.</string>
+    <string name="share_wlan_success">Wi-Fi sarearen informazioa partekatu da.</string>
+    <string name="otherside_not_support_pair_Toast">Pareko gailua ez da bateragarria. Ezin da parekatu.</string>
+    <string name="nfc_url_title">NFC eskaera</string>
+    <string name="nfc_url_body">"Esteka URL etiketa honetan ireki? "</string>
+    <string name="no_longer_nfc_url">Ez gogorarazi berriro</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Direct piztuz gero, Wi-Fi desgaituko da.</string>
+    <string name="tether_to_p2p_message">Wi-Fi Direct piztuz gero, Wi-Fi hotspota desgaituko da.</string>
+    <string name="beam_failed_wifi_on_nocoex">Beam-ek huts egin du, Wi-Fi piztuta dagoelako</string>
+    <string name="beam_failed_tether_on_nocoex">Beam-ek huts egin du, Wi-Fi hotspota piztuta dagoelako</string>
+    <string name="routing_table_full">Bideratze-taula beteta dago. Desinstalatu ordainketa-aplikazio batzuk.</string>
+    <string name="nfc_enabled_dialog">NFCk gaituta egon behar du. Gaitu?</string>
+    <string name="nfc_enabled_tittle">Oharra</string>
+    <string name="nfc_not_enabled_user_restriction">Erabiltzaile horrek ezin du NFC zerbitzua gaitu.</string>
+</resources>

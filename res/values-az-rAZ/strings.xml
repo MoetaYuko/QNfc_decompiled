@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC Xidməti</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">İşıq üçün toxun</string>
+    <string name="beam_progress">Beam daxil olur...</string>
+    <string name="beam_outgoing">Beam icra olunur...</string>
+    <string name="beam_complete">Beam tamamlandı</string>
+    <string name="beam_failed">Beam tamamlanmadı</string>
+    <string name="beam_canceled">Beam ləğv edildi</string>
+    <string name="cancel">Lğv et</string>
+    <string name="beam_touch_to_view">Baxmaq üçün toxun</string>
+    <string name="beam_handover_not_supported_Toast">Qəbuledənin cihazı beam vasitəsilə böyük fayl köçürməsini dəstəkləmir.</string>
+    <string name="beam_try_again">Cihazları yenidən bir-birinə yaxınlaşdırın</string>
+    <string name="beam_busy">İşıq məşğuldur. Əvvəlki köçürmə tamamlandıqdan sonra yenidən cəhd edin.</string>
+    <string name="device">cihaz</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> ilə qoşulur...</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode> ilə qoşuldu.</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> ilə qoşula bilinmədi.</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> ilə əlaqə kəsilir...</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1">%1$s</subnode> bağlantı kəsildi.</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode> ilə cütləşir...</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> ilə cütləşə bilinmədi.</string>
+    <string name="failed_to_enable_bt">Bluetooth-u aktivləş. mümkün olmadı.</string>
+    <string name="confirm_pairing">Bluetooth cihazı %1$s ilə qoşulsun?</string>
+    <string name="pair_yes">Bəli</string>
+    <string name="pair_no">Xeyr</string>
+    <string name="tap_again_to_pay">%1$s ilə ödəmək üçün yenidən toxunun</string>
+    <string name="tap_again_to_complete">%1$s ilə əməliyyatı tamamlamaq üçün yenidən toxunun</string>
+    <string name="transaction_failure">%1$s ilə bu əməliyyatı tamamlamaq mümkün olmadı.</string>
+    <string name="could_not_use_app">%1$s istifadə etmək mümkün olmadı.</string>
+    <string name="pay_with">Ödə</string>
+    <string name="complete_with">Tamamla</string>
+    <string name="default_pay_app_removed">Sizin \"toxun və ödə\" üçün seçdiyiniz xidmət ləğv edilib. Başqası seçilsin?</string>
+    <string name="ask_nfc_tap">Tamamlamaq üçün başqa bir cihaza toxunun</string>
+    <string name="wifi_connect">Qoşul</string>
+    <string name="status_unable_to_connect">Şəbəkəyə qoşulmaq mümkün deyil</string>
+    <string name="status_wifi_connected">Qoşuldu</string>
+    <string name="title_connect_to_network">Şəbəkə ilə qoşul</string>
+    <string name="prompt_connect_to_network">%1$s şəbəkəsi ilə qoşulsun?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam NFC-nin aktiv edilməsini tələb edir. İndi aktiv edilsin?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC qəbul edildi</string>
+    <string name="unknown_file">Naməlum fayl</string>
+    <string name="unknown_device">Naməlum cihaz</string>
+    <string name="status_unknown_error">Naməlum xəta</string>
+    <string name="transfer_menu_open">Aç</string>
+    <string name="no_transfers">Fayl yoxdur</string>
+    <string name="transfer_menu_clear_all">Siyahını təmizlə</string>
+    <string name="transfer_clear_dlg_title">Sil</string>
+    <string name="transfer_clear_dlg_msg">Bütün qəbul edilmiş faylları silinəcək.</string>
+    <string name="transfer_failed_network">Şəbəkə xətası. Köçürmək alınmadı.</string>
+    <string name="transfer_failed_cancel">Köçürmə ləğv edildi</string>
+    <string name="storage_space_not_enough_Toast">Yaddaşda yer azdır. Faylı saxlamaq mümkün deyil.</string>
+    <string name="nfc_confirm_pairing">Bluetooth cihazı %1$s ilə qoşulsun?</string>
+    <string name="nfc_pairing_request">NFC qoşulma sorğusu</string>
+    <string name="nfc_pairing_accept">Qoş</string>
+    <string name="nfc_pairing_decline">Lğv et</string>
+    <string name="from_target_device">Kimdən: %1$s</string>
+    <string name="file_name">Faylın adı: %1$s</string>
+    <string name="file_size">Faylın ölçüsü: %1$s</string>
+    <string name="transfer_dlg_title">Fayl ötürülməsi</string>
+    <string name="transfer_dlg_stop">Dayandır</string>
+    <string name="transfer_dlg_hide">Kiçilt</string>
+    <string name="download_success">" %1$s qəbul edildi."</string>
+    <string name="not_exist_file_desc_Toast">Fayl mövcud deyil.</string>
+    <string name="start_send_Toast">Köçürmə başlayacaq</string>
+    <string name="touch_pair">Qoşulmaq üçün toxun</string>
+    <string name="touch_share_ap">Qoşulmaq üçün toxun</string>
+    <string name="touch_share_wlan">Şəbəkə bağlantısını paylaşmaq üçün toxun</string>
+    <string name="touch_cannot_share_wlan">Paylaşmaq üçün şəbəkə yoxdur</string>
+    <string name="bluetooth_pair_success">Uğurla qoşuldu.</string>
+    <string name="wifidirect_pair_success">Uğurla qoşuldu.</string>
+    <string name="pair_failed">Qoşulmaq alınmadı.</string>
+    <string name="softap_share_success">Giriş nöqtəsi paylaşıldı. Qonşu cihaz indi cihazınıza qoşuldu.</string>
+    <string name="softap_share_failed">Şəbəkə bağlantısını paylaşmaq alınmadı.</string>
+    <string name="share_wlan_success">Wi-Fi şəbəkəsi məlumatı paylaşıldı.</string>
+    <string name="otherside_not_support_pair_Toast">Qoşulacaq cihazı uyğun deyil. Qoşulmaq mümkün deyil.</string>
+    <string name="nfc_url_title">NFC sorğusu</string>
+    <string name="nfc_url_body">"Bu URL etiketinin keçidi açılsın? "</string>
+    <string name="no_longer_nfc_url">Yenidən xatirlatma</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Direct-i aktiv etmək Wi-Fi-ı qeyri-aktiv edəcək.</string>
+    <string name="tether_to_p2p_message">Wi-Fi Direct-i aktiv etmək Wi-Fi giriş nöqtəsini qeyri-aktiv edəcək.</string>
+    <string name="beam_failed_wifi_on_nocoex">Wi-Fi aktiv olduğundan beam alınmadı</string>
+    <string name="beam_failed_tether_on_nocoex">Wi-Fi giriş nöqtəsi aktiv olduğundan beam alınmadı</string>
+    <string name="routing_table_full">Marşrut cədvəli dolub. Bəzi ödəniş proqramlarını aradan qaldırın.</string>
+    <string name="nfc_enabled_dialog">NFC aktiv edilməlidir. Aktiv edilsin?</string>
+    <string name="nfc_enabled_tittle">Qeyd</string>
+    <string name="nfc_not_enabled_user_restriction">Bu istifadəçiyə NFC xidmətini aktivləşdirməyə icazə verilmir.</string>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFCཞབས་ཞུ།</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">ཐུག་རེག་བྱས་ན་བསྐུར་ཐུབ།</string>
+    <string name="beam_progress">Beam ཡི་ནང་དོན་བསྡུ་སྒང་ཡིན།</string>
+    <string name="beam_outgoing">Beam བཀོལ་ནས་ཡིག་ཆ་བསྐུར་སྐྱེལ་བྱེད་སྒང་ཡིན།</string>
+    <string name="beam_complete">Beamབསྐུར་ཟིན།</string>
+    <string name="beam_failed">Beamབསྐུར་མ་ཐུབ།</string>
+    <string name="beam_canceled">སྤྱོད་མཁན་གྱིས་བསྐུར་བ་རྩིས་མེད་བཏང་།</string>
+    <string name="cancel">རྩིས་མེད།</string>
+    <string name="beam_touch_to_view">ཐུག་རེག་བྱས་ན་བལྟ་ཐུབ།</string>
+    <string name="beam_handover_not_supported_Toast">བསྡུ་མཁན་གྱི་སྒྲིག་ཆས་ཀྱིས Beam བརྒྱུད་ནས་ཡིག་ཆ་ཅུང་ཆེ་བ་བསྐུར་མི་ཐུབ།</string>
+    <string name="beam_try_again">སྒྲིག་ཆས་གཉིས་ཡང་བསྐྱར་ཐུག་ཏུ་འཇུག་རོགས།</string>
+    <string name="beam_busy">"སྦིམ་བྲེལ་འཚུབ་ངང་འདུག སྔར་གྱི་འཕོ་འགྱུར་དེ་མཇུག་སྒྲིལ་བའི་རྗེས་བསྐྱར་དུ་འབད་བརྩོན་གནང་རོགས། "</string>
+    <string name="device">སྒྲིག་ཆས།</string>
+    <string name="connecting_peripheral">དེར་ <subnode ref="en" index="1">%1$s</subnode> མཐུད་བཞིན་ཡོད།</string>
+    <string name="connected_peripheral">དེར་ <subnode ref="en" index="1">%1$s</subnode> མཐུད་ཟིན།</string>
+    <string name="connect_peripheral_failed">དེར་ <subnode ref="en" index="1">%1$s</subnode> མཐུད་ཐུབ་ཀྱི་མིན་འདུག</string>
+    <string name="disconnecting_peripheral">དེལས་ <subnode ref="en" index="1">%1$s</subnode> མཐུད་མཚམས་གཅོད་བཞིན་འདུག</string>
+    <string name="disconnected_peripheral">དེ་ལས་ <subnode ref="en" index="1">%1$s</subnode> མཐུད་མཚམས་གཅོད་འདུག</string>
+    <string name="pairing_peripheral">འདི་ལྷན་ <subnode ref="en" index="1">%1$s</subnode> ཆ་སྒྲིག་བྱེད་བཞིན་འདུག</string>
+    <string name="pairing_peripheral_failed">འདི་ལྷན་ <subnode ref="en" index="1">%1$s</subnode> ཆ་སྒྲིག་བྱེད་ཐུབ་མིན་འདུག</string>
+    <string name="failed_to_enable_bt">སོ་སྔོན་ཁ་འབྱེད་མི་ཐུབ།</string>
+    <string name="confirm_pairing">ཁྱེད་ཀྱི་སྦུ་ལུ་ཊུད་ཡི་ཡོ་ཆས་ལྷན་མཐུད་མཚམས་འགྲིག་རྒྱུ་ངེས་སམ། %1$s?</string>
+    <string name="pair_yes">ཡིན།</string>
+    <string name="pair_no">མིན།</string>
+    <string name="tap_again_to_pay">བསྐྱར་དུ་རྡེབ་མནོན་བྱས་ན་བཀོལ་ཐུབ། %1$sརིན་པ་སྤྲོད་སྟངས།</string>
+    <string name="tap_again_to_complete">བསྐྱར་དུ་རྡེབ་མནོན་བྱས་ན་བཀོལ་ཐུབ། %1$sརིན་པ་སྤྲོད་སྟངས།</string>
+    <string name="transaction_failure">བཀོལ་ཐབས་མི་འདུག %1$sརིན་པ་སྤྲད་ཚར།</string>
+    <string name="could_not_use_app">%1$sབཀོལ་ཐབས་མེད།</string>
+    <string name="pay_with">རིན་སྤྱོད་སྟངས།</string>
+    <string name="complete_with">གཤམ་གྱི་ཉེར་སྤྱོད་དག་བཀོལ་ནས་བསྒྱུར་ཚར་རྒྱུ།</string>
+    <string name="default_pay_app_removed">ཁྱེད་ཀྱི་འདོད་མོས་ཀྱི་ ཀྲབ་ དང་པེ་ཡི་སྲི་ཞུ་མེད་་བཟོས། གཞན་ཞིག་འཚོལ།</string>
+    <string name="ask_nfc_tap">སྒྲིག་ཆས་གཞན་དག་བཀོལ་ནས་བཅོས་སྒྲིག་འདི་ལེགས་འགྲུབ་བྱ་དགོས།</string>
+    <string name="wifi_connect">མཐུད།</string>
+    <string name="status_unable_to_connect">དྲ་བར་མཐུད་མི་ཐུབ།</string>
+    <string name="status_wifi_connected">མཐུད་ཡོད།</string>
+    <string name="title_connect_to_network">དྲ་བར་མཐུད།</string>
+    <string name="prompt_connect_to_network">"དྲ་བ%1$sལ་མཐུད་དམ། "</string>
+    <string name="beam_requires_nfc_enabled">ཧུ་ཝཡེ་འོད་མདངས་ལ་ NFC ནུས་ལྡན་དགོས་པ་ལྡན་གྱི་འདུག ད་ལྟ་འགུལ་སྤྱོད་བྱེད་འདོད་དམ།</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC བརྒྱུད་ནས་ཡིག་ཆ་བསྡུ་ལེན་བྱ།</string>
+    <string name="unknown_file">མི་ཤེས་པའི་ཡིག་ཆ།</string>
+    <string name="unknown_device">མི་ཤེས་པའི་སྒྲིག་ཆས།</string>
+    <string name="status_unknown_error">མི་ཤེས་པའི་གནད་དོན།</string>
+    <string name="transfer_menu_open">ཁ་འབྱེད།</string>
+    <string name="no_transfers">བསྡུ་ལེན་བྱས་མེད་པའི་ཡིག་ཆ།</string>
+    <string name="transfer_menu_clear_all">གསལ་ཐོ་གསུབ་པ།</string>
+    <string name="transfer_clear_dlg_title">གསུབ་པ།</string>
+    <string name="transfer_clear_dlg_msg">བསྡུ་ལེན་བྱས་པའི་ཡིག་ཆ་ཚང་མ་གསུབ་བམ།</string>
+    <string name="transfer_failed_network">དྲ་བའི་གནད་དོན་གྱི་རྐྱེན་གྱིས་བསྐུར་མ་ཐུབ།</string>
+    <string name="transfer_failed_cancel">སྤྱོད་མཁན་གྱིས་བསྡུ་ལེན་རྩིས་མེད་བཏང་།</string>
+    <string name="storage_space_not_enough_Toast">གསོག་ཉར་སྟོང་ཆ་མི་འདང་བས། གསོག་ཉར་བྱ་མི་ཐུབ།</string>
+    <string name="nfc_confirm_pairing">སོ་སྔོན་སྒྲིགཆས%1$sདང་ཆ་སྡེབ་བྱའམ།</string>
+    <string name="nfc_pairing_request">NFCཆ་སྡེབ་རེ་ཞུ།</string>
+    <string name="nfc_pairing_accept">ཆ་སྡེབ།</string>
+    <string name="nfc_pairing_decline">རྩིས་མེད།</string>
+    <string name="from_target_device">བསྐུར་མཁན། %1$s</string>
+    <string name="file_name">ཡིག་ཆའི་མིང་། %1$s</string>
+    <string name="file_size">ཡིག་ཆའི་ཆེ་ཆུང་། %1$s</string>
+    <string name="transfer_dlg_title">ཡིག་ཆ་བསྐུར་བ།</string>
+    <string name="transfer_dlg_stop">མཛམས་འཇོག</string>
+    <string name="transfer_dlg_hide">ཆུང་བསྒྱུར།</string>
+    <string name="download_success">%1$s བསྡུ་ལེན་བྱས་ཚར།</string>
+    <string name="not_exist_file_desc_Toast">ཡིག་ཆ་འདི་མེད།</string>
+    <string name="start_send_Toast">ཆ་འཕྲིན་བསྐུར་མགོ་བརྩམས།</string>
+    <string name="touch_pair">ཐུག་རག་བྱས་ན་ཆ་སྡེབ་བྱེད།</string>
+    <string name="touch_share_ap">ཐུག་རེག་བྱས་ན་དྲ་སྦྲེལ་གསར་བ་བྱེད།</string>
+    <string name="touch_share_wlan">ཐུག་རག་བྱས་ན་དྲ་རྒྱ་མཉམ་སྤྱོད་བྱེད།</string>
+    <string name="touch_cannot_share_wlan">མཉམ་སྤྱོད་བྱ་ཆོག་པའི་དྲ་རྒྱ་མི་འདུག</string>
+    <string name="bluetooth_pair_success">སོ་སྔོན་ཆ་སྡེབ་བྱས་ཟིན།</string>
+    <string name="wifidirect_pair_success">WIFIསྦྲེལ་བ་ཆ་སྒྲིག་བྱས།</string>
+    <string name="pair_failed">ཆ་སྡེབ་བྱེད་མ་ཐུབ།</string>
+    <string name="softap_share_success">HotSpot མཉམ་སྤྱོད་བྱས་ཟིན། ཕར་ཕྱོགས་ནས་ཁྱེད་ལ་སྦྲེལ་མཐུབ་བྱ་ཐུབ།</string>
+    <string name="softap_share_failed">མཉམ་སྤྱོད་བྱེད་མ་ཐུབ།</string>
+    <string name="share_wlan_success">Wi-Fiཡི་བཀོད་སྒྲིག་གནས་ཚུལ་མཉམ་སྤྱོད་བྱས་ཟིན།</string>
+    <string name="otherside_not_support_pair_Toast">ཕ་རོལ་བས་རམ་འདེགས་མི་བྱེད་པས། ཆ་སྡེབ་བྱ་མ་ཐུབ།</string>
+    <string name="nfc_url_title">NFCརེ་ཞུ།</string>
+    <string name="nfc_url_body">URLསྦྲེལ་མཐུད་སྒོ་འབྱེད་དམ།</string>
+    <string name="no_longer_nfc_url">གསལ་འདེབས་བྱ་མི་དགོས།</string>
+    <string name="wifi_to_p2p_message">Wi-Fi ཐད་སྦྲེལ་སྒོ་ཕྱེ་པ་དེས་ Wi-Fi སྤྱད་མི་ཉན།</string>
+    <string name="tether_to_p2p_message">Wi-Fi ཐད་སྦྲེལ་སྒོ་ཕྱེ་བ་དེས་Wi-Fi གླེང་ཆ་ཆེ་བ་སྤྱད་མི་ཉན།</string>
+    <string name="beam_failed_wifi_on_nocoex">Wi-Fi སྒོ་ཕྱེ་ཙང་Beamལས་མ་ཐུབ།</string>
+    <string name="beam_failed_tether_on_nocoex">Wi-Fi གླེང་ཆ་ཆེ་བ་སྒོ་ཕྱེ་ཙང་Beamལས་མ་ཐུབ།</string>
+    <string name="routing_table_full">ལམ་སྟོན་རེའུ་མིག་ཁེངས་འདུག དངུས་སྤྲོད་ལེན་གྱི་ཉེར་སྤྱོད་ཁ་ཤས་ཕྱིར་འཐེན་གནང་རོགས།</string>
+    <string name="nfc_enabled_dialog">ཨེན་ཨེཕ་སི་ངེས་པར་དུ་འགུལ་སྤྱོད་བྱ་དགོས། འགུལ་སྤྱོད་བྱ་འདོད་དམ།</string>
+    <string name="nfc_enabled_tittle">མཆན།</string>
+    <string name="nfc_not_enabled_user_restriction">སྤྱོད་པ་པོ་འདིར་ NFC ཞབས་ཞུ་ནུས་ལྡན་བཟོས་ཆོག་མིན་འདུག</string>
+</resources>

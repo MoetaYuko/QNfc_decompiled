@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Storitev NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Dotaknite se, da pošljete</string>
+    <string name="beam_progress">Dohodni prenos ...</string>
+    <string name="beam_outgoing">Prenašanje ...</string>
+    <string name="beam_complete">Prenos končan</string>
+    <string name="beam_failed">Prenos se ni končal</string>
+    <string name="beam_canceled">Prenos je preklican</string>
+    <string name="cancel">Prekliči</string>
+    <string name="beam_touch_to_view">Dotaknite se za prikaz</string>
+    <string name="beam_handover_not_supported_Toast">Prejemnikova naprava ne podpira prenosa velikih datotek prek funkcije Android Beam.</string>
+    <string name="beam_try_again">Znova združi naprave</string>
+    <string name="beam_busy">Android Beam je trenutno zaseden. Poskusite znova, ko se konča prejšnji prenos.</string>
+    <string name="device">napravo</string>
+    <string name="connecting_peripheral">Vzpostavljanje povezave s/z <subnode ref="en" index="1">%1$s</subnode> ...</string>
+    <string name="connected_peripheral">Povezava s/z <subnode ref="en" index="1">%1$s</subnode> je vzpostavljena.</string>
+    <string name="connect_peripheral_failed">Povezave s/z <subnode ref="en" index="1">%1$s</subnode> ni bilo mogoče vzpostaviti.</string>
+    <string name="disconnecting_peripheral">Prekinjanje povezava s/z <subnode ref="en" index="1">%1$s</subnode> ...</string>
+    <string name="disconnected_peripheral">Povezava s/z <subnode ref="en" index="1">%1$s</subnode> je prekinjena.</string>
+    <string name="pairing_peripheral">Seznanjanje s/z <subnode ref="en" index="1">%1$s</subnode> …</string>
+    <string name="pairing_peripheral_failed">Seznanitev s/z <subnode ref="en" index="1">%1$s</subnode> ni bila mogoča.</string>
+    <string name="failed_to_enable_bt">Bluetootha ni mogoče vklopiti</string>
+    <string name="confirm_pairing">Ste prepričani, da želite seznaniti napravo Bluetooth %1$s?</string>
+    <string name="pair_yes">Da</string>
+    <string name="pair_no">Ne</string>
+    <string name="tap_again_to_pay">Dotaknite se ponovno za plačilo z %1$s</string>
+    <string name="tap_again_to_complete">Dotaknite se ponovno za dokončanje transakcije z %1$s</string>
+    <string name="transaction_failure">Transakcije ni bilo mogoče dokončati z aplikacijo %1$s.</string>
+    <string name="could_not_use_app">Aplikacije %1$s ni bilo mogoče uporabiti.</string>
+    <string name="pay_with">Plačaj z aplikacijo</string>
+    <string name="complete_with">Dokončaj z aplikacijo</string>
+    <string name="default_pay_app_removed">Vaša prednostna storitev za program Dotakni se in plačaj je bila odstranjena. Želite izbrati drugo?</string>
+    <string name="ask_nfc_tap">Za dokončanje se dotaknite druge naprave</string>
+    <string name="wifi_connect">Vzpostavi povezavo</string>
+    <string name="status_unable_to_connect">Povezave z omrežjem ni mogoče vzpostaviti</string>
+    <string name="status_wifi_connected">Povezava je vzpostavljena</string>
+    <string name="title_connect_to_network">Vzpostavitev povezave z omrežjem</string>
+    <string name="prompt_connect_to_network">Želite vzpostaviti povezavo z omrežjem %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Za program Huawei Beam je treba omogočiti funkcijo NFC. Jo želite omogočiti zdaj?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Prejeti NFC</string>
+    <string name="unknown_file">Neznana datoteka</string>
+    <string name="unknown_device">Neznana naprava</string>
+    <string name="status_unknown_error">Neznana napaka</string>
+    <string name="transfer_menu_open">Odpri</string>
+    <string name="no_transfers">Ni datotek</string>
+    <string name="transfer_menu_clear_all">Počisti seznam</string>
+    <string name="transfer_clear_dlg_title">Počisti</string>
+    <string name="transfer_clear_dlg_msg">Vse prejete datoteke bodo izbrisane.</string>
+    <string name="transfer_failed_network">Napaka v omrežju. Prenos ni uspel.</string>
+    <string name="transfer_failed_cancel">Prenos je bil preklican.</string>
+    <string name="storage_space_not_enough_Toast">Na voljo ni dovolj prostora za shranjevanje. Datoteke ni mogoče shraniti.</string>
+    <string name="nfc_confirm_pairing">Seznanitev z napravo Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Zahteva za seznanitev prek NFC</string>
+    <string name="nfc_pairing_accept">Seznani</string>
+    <string name="nfc_pairing_decline">Prekliči</string>
+    <string name="from_target_device">Od: %1$s</string>
+    <string name="file_name">Ime datoteke: %1$s</string>
+    <string name="file_size">Velikost datoteke: %1$s</string>
+    <string name="transfer_dlg_title">Prenos datoteke</string>
+    <string name="transfer_dlg_stop">Ustavi</string>
+    <string name="transfer_dlg_hide">Minimiraj</string>
+    <string name="download_success">%1$s Prejemanje je končano.</string>
+    <string name="not_exist_file_desc_Toast">Datoteka ne obstaja.</string>
+    <string name="start_send_Toast">Prenos se bo začel.</string>
+    <string name="touch_pair">Za seznanjanje se dotaknite</string>
+    <string name="touch_share_ap">Za vzpostavitev povezave se dotaknite</string>
+    <string name="touch_share_wlan">Za souporabo omrežne povezave se dotaknite</string>
+    <string name="touch_cannot_share_wlan">Ni omrežij za skupno rabo</string>
+    <string name="bluetooth_pair_success">Uspešno seznanjeno.</string>
+    <string name="wifidirect_pair_success">Uspešno seznanjeno.</string>
+    <string name="pair_failed">Seznanitev ni uspela.</string>
+    <string name="softap_share_success">Mobilna točka je v skupni rabi. Povezava enakovredne naprave z vašo napravo je zdaj vzpostavljena.</string>
+    <string name="softap_share_failed">Omrežne povezave ni bilo mogoče dati v skupno rabo.</string>
+    <string name="share_wlan_success">Informacije o omrežju Wi-Fi so bile dane v skupno rabo.</string>
+    <string name="otherside_not_support_pair_Toast">Enakovredna naprava ni združljiva. Seznanjanje ni mogoče.</string>
+    <string name="nfc_url_title">Zahteva NFC</string>
+    <string name="nfc_url_body">"Ali želite odpreti povezavo v tej oznaki URL? "</string>
+    <string name="no_longer_nfc_url">Ne opominjaj več</string>
+    <string name="wifi_to_p2p_message">Če vključite Wi-Fi Direct, bo onemogočen Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Če vključite Wi-Fi Direct, bo onemogočena dostopna točka Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Neuspešno pošiljanje vsebin, ker je vključen Wi-Fi</string>
+    <string name="beam_failed_tether_on_nocoex">Neuspešno pošilj. vsebin, ker je vklj. točka Wi-Fi</string>
+    <string name="routing_table_full">Usmerjevalna tabela je polna. Prosim, odstranite nekaj programov za plačevanje.</string>
+    <string name="nfc_enabled_dialog">Omogočena mora biti funkcija NFC. Jo želite omogočiti?</string>
+    <string name="nfc_enabled_tittle">Opomba</string>
+    <string name="nfc_not_enabled_user_restriction">Ta uporabnik nima dovoljenja za omogočenje storitve NFC.</string>
+</resources>

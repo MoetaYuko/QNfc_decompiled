@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC سروس</string>
+    <string name="nfcUserLabel">این ایف سی</string>
+    <string name="touch">بیم کے لیے چھوئیں</string>
+    <string name="beam_progress">بیم موصول ہو رہا ہے۔۔۔</string>
+    <string name="beam_outgoing">بیم کاری۔۔۔۔</string>
+    <string name="beam_complete">بیم مکمل</string>
+    <string name="beam_failed">بیم مکمل نہیں ہوا</string>
+    <string name="beam_canceled">بیم کو منسوخ کر دیا</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="beam_touch_to_view">دییکھنے کے لۓ ٹچ کریں</string>
+    <string name="beam_handover_not_supported_Toast">وصول کنندہ کی ڈیوائس بیم کے ذریعے بڑی فائلوں کی منتقلی کی معاونت نہیں کرتی۔</string>
+    <string name="beam_try_again">ڈیوائسز کو دوبارہ قریب لائیں</string>
+    <string name="beam_busy">بیم مصروف ہے۔ پچھلی منتقلی کے مکمل ہونے کے بعد براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="device">ڈیوائس</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> سے مربوط ہورہا ہے…</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode> سے مربوط ہوگیا۔</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> سے مربوط نہیں ہوسکتا۔</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode> سے منقطع ہو رہا ہے…</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1">%1$s</subnode> سے منقطع ہو گیا۔</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode> کے ساتھ جوڑی بنارہا ہے …</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode> کے ساتھ جوڑی نہیں بنا سکتا۔</string>
+    <string name="failed_to_enable_bt">بلوٹوتھ فعال نہیں کر سکا۔</string>
+    <string name="confirm_pairing">کیا آپ کو یقین ہے کہ آپ بلوٹوتھ ڈیوائس %1$s کے ساتھ جڑنا چاہتے ہیں؟</string>
+    <string name="pair_yes">ہاں</string>
+    <string name="pair_no">نہیں</string>
+    <string name="tap_again_to_pay">%1$s کے ساتھ ادائیگی کے لیے دوبارہ چھوئیں</string>
+    <string name="tap_again_to_complete">%1$s کے ساتھ لین دین مکمل کرنے کے لیے دوبارہ چھوئیں</string>
+    <string name="transaction_failure">یہ لین دین %1$s کے ساتھ مکمل نہیں ہو سکا۔</string>
+    <string name="could_not_use_app">%1$s استعمال نہیں کر سکا۔</string>
+    <string name="pay_with">کے ساتھ ادا کریں</string>
+    <string name="complete_with">کے ساتھ مکمل</string>
+    <string name="default_pay_app_removed">tap &amp; pay کیلئے آپ کی ترجیحی سروس کو ہٹا دیا گیا۔ کوئی دوسرا منتخب کریں؟</string>
+    <string name="ask_nfc_tap">مکمل کرنے کے لیے ایک دوسری ڈیوائس کو چھوئیں</string>
+    <string name="wifi_connect">مربوط ہوں</string>
+    <string name="status_unable_to_connect">نیٹ ورک سے مربوط ہونے سے قاصر</string>
+    <string name="status_wifi_connected">منسلک ہے</string>
+    <string name="title_connect_to_network">نیٹ ورک سے مربوط ہوں</string>
+    <string name="prompt_connect_to_network">نیٹ ورک سے مربوط ہوں %1$s؟</string>
+    <string name="beam_requires_nfc_enabled">ہواوے بیم کے لیے این ایف سی فعال کرنے کی ضرورت ہے۔ اسے ابھی فعال کریں؟</string>
+    <string name="android_beam">اینڈرائڈ بیم</string>
+    <string name="nfc_live_folder">NFC موصول</string>
+    <string name="unknown_file">نامعلوم فائل</string>
+    <string name="unknown_device">نامعلوم آلہ</string>
+    <string name="status_unknown_error">نامعلوم نقص</string>
+    <string name="transfer_menu_open">کھولیں</string>
+    <string name="no_transfers">کوئی فائلیں نہیں</string>
+    <string name="transfer_menu_clear_all">فہرست صاف کریں</string>
+    <string name="transfer_clear_dlg_title">صاف کریں</string>
+    <string name="transfer_clear_dlg_msg">تمام وصول کی گئی فائلیں حذف کر دی جائیں گی۔</string>
+    <string name="transfer_failed_network">نیٹ ورک کا نقص، منتقلی ناکام</string>
+    <string name="transfer_failed_cancel">منتقلی منسوخ کر دی گئی</string>
+    <string name="storage_space_not_enough_Toast">ناکافی اسٹوریج کی جگہ۔ فائل محفوظ نہیں کر سکتا۔</string>
+    <string name="nfc_confirm_pairing">بلوٹوتھ ڈیوائس %1$s کے ساتھ جوڑیں؟</string>
+    <string name="nfc_pairing_request">NFC جوڑنے کی درخواست</string>
+    <string name="nfc_pairing_accept">جوڑا</string>
+    <string name="nfc_pairing_decline">منسوخ کریں</string>
+    <string name="from_target_device">سے: %1$s</string>
+    <string name="file_name">فائل کا نام: %1$s</string>
+    <string name="file_size">فائل سائز: %1$s</string>
+    <string name="transfer_dlg_title">فائل منتقلی</string>
+    <string name="transfer_dlg_stop">روک دیں</string>
+    <string name="transfer_dlg_hide">کم سے کم کریں</string>
+    <string name="download_success">%1$s موصول شدہ۔</string>
+    <string name="not_exist_file_desc_Toast">فائل موجود نہیں۔</string>
+    <string name="start_send_Toast">منتقلی شروع ہو گی۔</string>
+    <string name="touch_pair">جوڑنے کے لیے چھوئیں</string>
+    <string name="touch_share_ap">مربوط ہونے کے لیے چھوئیں</string>
+    <string name="touch_share_wlan">اپنا نیٹ ورک کنیکشن شیئر کرنے کے لیے چھوئیں</string>
+    <string name="touch_cannot_share_wlan">شیئر کرنے کے لیے کوئی نیٹ ورک نہیں</string>
+    <string name="bluetooth_pair_success">کامیابی کے ساتھ جڑ گيا۔</string>
+    <string name="wifidirect_pair_success">کامیابی کے ساتھ جڑ گيا۔</string>
+    <string name="pair_failed">جوڑنے میں ناکام رہا۔</string>
+    <string name="softap_share_success">ہاٹ سپاٹ شیئر کردہ ہے۔ اب مساوی ڈیوائس آپ کی ڈیوائس کے ساتھ مربوط ہے۔</string>
+    <string name="softap_share_failed">آپ کے نیٹ ورک کا کنیکشن شیئر کرنے میں ناکام رہا۔</string>
+    <string name="share_wlan_success">Wi-Fi نیٹ ورک کی معلومات شیئر کی گئی ہیں۔</string>
+    <string name="otherside_not_support_pair_Toast">مساوی ڈیوائس غیر ہم آہنگ ہے۔ نہیں جوڑ سکتا۔</string>
+    <string name="nfc_url_title">NFC کی درخواست</string>
+    <string name="nfc_url_body">"لنک کو URL ٹیگ میں کھولیں؟ "</string>
+    <string name="no_longer_nfc_url">دوبارہ یاددہانی نہ کرائیں</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Direct چالو کرنے پر Wi-Fi غیر فعال ہو جاۓ گا-</string>
+    <string name="tether_to_p2p_message">Wi-Fi Direct چالو کرنے پر Wi-Fi ہاٹ سپاٹ غیر فعال ہو جاۓ گا-</string>
+    <string name="beam_failed_wifi_on_nocoex">بیم ناکام کیونکہ Wi-Fi چالو</string>
+    <string name="beam_failed_tether_on_nocoex">بیم ناکام کیونکہ Wi-Fi ہاٹ سپاٹ چالو ہے</string>
+    <string name="routing_table_full">روٹنگ ٹیبل بھرا ہوا ہے۔ براہ کرم کچھ ادائیگی والے ایپس کو ان انسٹال کریں۔</string>
+    <string name="nfc_enabled_dialog">این ایف سی کو ضرور فعال کریں۔ اسے فعال کریں؟</string>
+    <string name="nfc_enabled_tittle">نوٹ</string>
+    <string name="nfc_not_enabled_user_restriction">اس صارف کو این ایف سی خدمت کو اہل کرنے کی اجازت نہیں ہے۔</string>
+</resources>

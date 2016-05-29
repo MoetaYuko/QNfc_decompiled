@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Služba NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Dotykom spustíte prenos</string>
+    <string name="beam_progress">Prichádzajúci prenos...</string>
+    <string name="beam_outgoing">Prenáša sa...</string>
+    <string name="beam_complete">Prenos bol dokončený</string>
+    <string name="beam_failed">Prenos nebol dokončený</string>
+    <string name="beam_canceled">Prenos bol zrušený</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="beam_touch_to_view">Zobrazte dotykom</string>
+    <string name="beam_handover_not_supported_Toast">Zariadenie príjemcu nepodporuje prenos veľkých súborov prostredníctvom funkcie Beam.</string>
+    <string name="beam_try_again">Znova priblížte zariadenia</string>
+    <string name="beam_busy">Aplikácia Beam je momentálne zaneprázdnená. Skúste to znova, keď sa dokončí predchádzajúci prenos.</string>
+    <string name="device">zariadenie</string>
+    <string name="connecting_peripheral">Pripája sa k zariadeniu <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="connected_peripheral">Pripojené k zariadeniu <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Pripojenie k zariadeniu <subnode ref="en" index="1">%1$s</subnode> sa nepodarilo.</string>
+    <string name="disconnecting_peripheral">Odpája sa od zariadenia <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="disconnected_peripheral">Odpojené od zariadenia <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Párovanie so zariadením <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Párovanie so zariadením <subnode ref="en" index="1">%1$s</subnode> sa nepodarilo.</string>
+    <string name="failed_to_enable_bt">Nedá sa zapnúť Bluetooth</string>
+    <string name="confirm_pairing">Naozaj chcete spárovať zariadenie Bluetooth %1$s?</string>
+    <string name="pair_yes">Áno</string>
+    <string name="pair_no">Nie</string>
+    <string name="tap_again_to_pay">Opätovným dotykom vykonáte platbu s %1$s</string>
+    <string name="tap_again_to_complete">Opätovným dotykom dokončíte transakciu s %1$s</string>
+    <string name="transaction_failure">Túto transakciu nie je možné dokončiť pomocou aplikácie %1$s.</string>
+    <string name="could_not_use_app">Aplikáciu %1$s nie je možné použiť.</string>
+    <string name="pay_with">Zaplatiť pomocou</string>
+    <string name="complete_with">Dokončiť pomocou</string>
+    <string name="default_pay_app_removed">Vaša preferovaná služba na platbu dotykom zariadením bola odstránená. Vybrať inú?</string>
+    <string name="ask_nfc_tap">Dokončite klepnutím na druhé zariadenie</string>
+    <string name="wifi_connect">Pripojiť</string>
+    <string name="status_unable_to_connect">Nepodarilo sa pripojiť k sieti</string>
+    <string name="status_wifi_connected">Pripojené</string>
+    <string name="title_connect_to_network">Pripojiť k sieti</string>
+    <string name="prompt_connect_to_network">Pripojiť k sieti %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam vyžaduje zapnutie NFC. Zapnúť teraz?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC prijaté</string>
+    <string name="unknown_file">Neznámy súbor</string>
+    <string name="unknown_device">Neznáme zariadenie</string>
+    <string name="status_unknown_error">Neznáma chyba</string>
+    <string name="transfer_menu_open">Otvoriť</string>
+    <string name="no_transfers">Žiadne súbory</string>
+    <string name="transfer_menu_clear_all">Vymazať zoznam</string>
+    <string name="transfer_clear_dlg_title">Vymazať</string>
+    <string name="transfer_clear_dlg_msg">Všetky súbory budú odstránené.</string>
+    <string name="transfer_failed_network">Chyba siete, prevzatie neúspešné</string>
+    <string name="transfer_failed_cancel">Prenos zrušený</string>
+    <string name="storage_space_not_enough_Toast">Nedostatok miesta na uloženie. Súbor sa nedá uložiť.</string>
+    <string name="nfc_confirm_pairing">Spárovať so zariadením Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Žiadosť o NFC párovanie</string>
+    <string name="nfc_pairing_accept">Párovať</string>
+    <string name="nfc_pairing_decline">Zrušiť</string>
+    <string name="from_target_device">Od: %1$s</string>
+    <string name="file_name">Názov súboru: %1$s</string>
+    <string name="file_size">Veľkosť súboru: %1$s</string>
+    <string name="transfer_dlg_title">Prenos súborov</string>
+    <string name="transfer_dlg_stop">Zastaviť</string>
+    <string name="transfer_dlg_hide">Minimalizovať</string>
+    <string name="download_success">%1$s Prijatie dokončené.</string>
+    <string name="not_exist_file_desc_Toast">"Súbor neexistuje. "</string>
+    <string name="start_send_Toast">Prenos začne.</string>
+    <string name="touch_pair">Dotykom spárujete</string>
+    <string name="touch_share_ap">Dotykom sa pripojíte</string>
+    <string name="touch_share_wlan">Dotykom zdieľate sieťové pripojenie</string>
+    <string name="touch_cannot_share_wlan">Žiadne siete na zdieľanie</string>
+    <string name="bluetooth_pair_success">Úspešné spárovanie.</string>
+    <string name="wifidirect_pair_success">Úspešné spárovanie.</string>
+    <string name="pair_failed">Nepodarilo sa spárovať.</string>
+    <string name="softap_share_success">Hotspot zdieľaný. Zdieľané zariadenie pripojené k vášmu zariadeniu.</string>
+    <string name="softap_share_failed">Nepodarilo sa zdieľať vaše sieťové pripojenie.</string>
+    <string name="share_wlan_success">Zdieľané informácie o sieti Wi-Fi.</string>
+    <string name="otherside_not_support_pair_Toast">Zdieľané zariadenie je nekompatibilné. Nemožno spárovať.</string>
+    <string name="nfc_url_title">Požiadavka NFC</string>
+    <string name="nfc_url_body">"Otvoriť obsah tejto značky adresy webovej stránky? "</string>
+    <string name="no_longer_nfc_url">Znova nepripomínať</string>
+    <string name="wifi_to_p2p_message">Po zapnutí funkcie Wi-Fi Direct sa sieť Wi-Fi vypne.</string>
+    <string name="tether_to_p2p_message">Po zapnutí funkcie Wi-Fi Direct sa Wi-Fi hotspot vypne.</string>
+    <string name="beam_failed_wifi_on_nocoex">Prenos zlyhal kvôli zapnutiu siete Wi-Fi</string>
+    <string name="beam_failed_tether_on_nocoex">Prenos zlyhal kvôli zapnutiu Wi-Fi hotspot</string>
+    <string name="routing_table_full">Tabuľka smerovania je plná. Odinštalujte, prosím, niektoré aplikácie týkajúce sa platieb.</string>
+    <string name="nfc_enabled_dialog">Funkcia NFC musí byť zapnutá. Zapnúť?</string>
+    <string name="nfc_enabled_tittle">Poznámka</string>
+    <string name="nfc_not_enabled_user_restriction">Tento používateľ nemá povolenie na zapnutie služby NFC.</string>
+</resources>

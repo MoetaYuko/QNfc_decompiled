@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="appicon">false</item>
+    <item type="id" name="applabel">false</item>
+    <item type="id" name="banner">false</item>
+    <item type="id" name="resolver_list">false</item>
+    <item type="id" name="comfirm_info">false</item>
+    <item type="id" name="checkbox_to_dialog">false</item>
+    <item type="id" name="hint_percent_progressbar">false</item>
+    <item type="id" name="transferDevice">false</item>
+    <item type="id" name="file_name">false</item>
+    <item type="id" name="file_size">false</item>
+    <item type="id" name="percent">false</item>
+    <item type="id" name="progressbar">false</item>
+    <item type="id" name="right_layout">false</item>
+    <item type="id" name="complete_date">false</item>
+    <item type="id" name="targetdevice">false</item>
+    <item type="id" name="left_layout">false</item>
+    <item type="id" name="transfer_icon">false</item>
+    <item type="id" name="transfer_title">false</item>
+    <item type="id" name="complete_text">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="empty">false</item>
+    <item type="id" name="empty_icon">false</item>
+    <item type="id" name="fireflies">false</item>
+    <item type="id" name="calltoaction">false</item>
+    <item type="id" name="screenshot">false</item>
+    <item type="id" name="blacklayer">false</item>
+    <item type="id" name="retrytext">false</item>
+    <item type="id" name="textview">false</item>
+    <item type="id" name="transfer_menu_open">false</item>
+    <item type="id" name="transfer_menu_clear_all">false</item>
+</resources>

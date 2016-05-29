@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[ÑFÇ ŠéŕVîçé one two]</string>
+    <string name="nfcUserLabel">[ÑFÇ one]</string>
+    <string name="touch">[Ţöûçĥ ţö ɓéåḿ one two]</string>
+    <string name="beam_progress">[Îñçöḿîñĝ ɓéåḿ... one two three]</string>
+    <string name="beam_outgoing">[βéåḿîñĝ... one two]</string>
+    <string name="beam_complete">[βéåḿ çöḿþļéţé one two]</string>
+    <string name="beam_failed">[βéåḿ ðîð ñöţ çöḿþļéţé one two three]</string>
+    <string name="beam_canceled">[βéåḿ çåñçéļéð one two]</string>
+    <string name="cancel">[Çåñçéļ one two]</string>
+    <string name="beam_touch_to_view">[Ţöûçĥ ţö Vîéŵ one two]</string>
+    <string name="beam_handover_not_supported_Toast">"[Ţĥé ŕéçéîVéŕ'š ðéVîçé ðöéšñ'ţ šûþþöŕţ ļåŕĝé ƒîļé ţŕåñšƒéŕ Vîå ɓéåḿ. one two three four five six seven]"</string>
+    <string name="beam_try_again">[βŕîñĝ ðéVîçéš ţöĝéţĥéŕ åĝåîñ one two three four]</string>
+    <string name="beam_busy">[βéåḿ îš ɓûšý. Þļéåšé ţŕý åĝåîñ åƒţéŕ ţĥé þŕéVîöûš ţŕåñšƒéŕ îš çöḿþļéţé. one two three four five six seven eight]</string>
+    <string name="device">[ţĥé ðéVîçé one two]</string>
+    <string name="connecting_peripheral">[Çöññéçţîñĝ ţö <subnode ref="en" index="1">»%1$s«</subnode>… one two three]</string>
+    <string name="connected_peripheral">[Çöññéçţéð ţö <subnode ref="en" index="1">»%1$s«</subnode>. one two three]</string>
+    <string name="connect_peripheral_failed">[Çöûļð ñöţ çöññéçţ ţö <subnode ref="en" index="1">»%1$s«</subnode>. one two three]</string>
+    <string name="disconnecting_peripheral">[Ðîšçöññéçţîñĝ ƒŕöḿ <subnode ref="en" index="1">»%1$s«</subnode>… one two three]</string>
+    <string name="disconnected_peripheral">[Ðîšçöññéçţéð ƒŕöḿ <subnode ref="en" index="1">»%1$s«</subnode>. one two three]</string>
+    <string name="pairing_peripheral">[Þåîŕîñĝ ŵîţĥ <subnode ref="en" index="1">»%1$s«</subnode>… one two three]</string>
+    <string name="pairing_peripheral_failed">[Çöûļð ñöţ þåîŕ ŵîţĥ <subnode ref="en" index="1">»%1$s«</subnode>. one two three]</string>
+    <string name="failed_to_enable_bt">[Çåññöţ éñåɓļé βļûéţööţĥ one two three]</string>
+    <string name="confirm_pairing">[Åŕé ýöû šûŕé ýöû ŵåñţ ţö þåîŕ ŵîţĥ ţĥé βļûéţööţĥ ðéVîçé %1$s¿ one two three four five six seven]</string>
+    <string name="pair_yes">[Ýéš one]</string>
+    <string name="pair_no">[Ñö one]</string>
+    <string name="tap_again_to_pay">[Ţöûçĥ åĝåîñ ţö þåý ŵîţĥ %1$s one two three]</string>
+    <string name="tap_again_to_complete">[Ţöûçĥ åĝåîñ ţö çöḿþļéţé ţŕåñšåçţîöñ ŵîţĥ %1$s one two three four five]</string>
+    <string name="transaction_failure">"[Ţĥîš ţŕåñšåçţîöñ çöûļðñ'ţ ɓé çöḿþļéţéð ŵîţĥ %1$s. one two three four five]"</string>
+    <string name="could_not_use_app">"[Çöûļðñ'ţ ûšé %1$s. one two]"</string>
+    <string name="pay_with">[Þåý ŵîţĥ one two]</string>
+    <string name="complete_with">[Çöḿþļéţé ŵîţĥ one two]</string>
+    <string name="default_pay_app_removed">[Ýöûŕ þŕéƒéŕŕéð šéŕVîçé ƒöŕ ţåþ &amp; þåý ŵåš ŕéḿöVéð. Çĥööšé åñöţĥéŕ¿ one two three four five six seven]</string>
+    <string name="ask_nfc_tap">[Ţöûçĥ åñöţĥéŕ ðéVîçé ţö çöḿþļéţé one two three four]</string>
+    <string name="wifi_connect">[Çöññéçţ one two]</string>
+    <string name="status_unable_to_connect">[Ûñåɓļé ţö çöññéçţ ţö ñéţŵöŕķ one two three four]</string>
+    <string name="status_wifi_connected">[Çöññéçţéð one two]</string>
+    <string name="title_connect_to_network">[Çöññéçţ ţö ñéţŵöŕķ one two three]</string>
+    <string name="prompt_connect_to_network">[Çöññéçţ ţö ñéţŵöŕķ %1$s¿ one two three]</string>
+    <string name="beam_requires_nfc_enabled">[Ĥûåŵéî βéåḿ ŕéQûîŕéš ÑFÇ ţö ɓé éñåɓļéð. Éñåɓļé îţ ñöŵ¿ one two three four five six seven]</string>
+    <string name="android_beam">[Åñðŕöîð βéåḿ one two]</string>
+    <string name="nfc_live_folder">[ÑFÇ ŕéçéîVéð one two]</string>
+    <string name="unknown_file">[Ûñķñöŵñ ƒîļé one two]</string>
+    <string name="unknown_device">[Ûñķñöŵñ ðéVîçé one two three]</string>
+    <string name="status_unknown_error">[Ûñķñöŵñ éŕŕöŕ one two]</string>
+    <string name="transfer_menu_open">[Öþéñ one]</string>
+    <string name="no_transfers">[Ñö ƒîļéš one two]</string>
+    <string name="transfer_menu_clear_all">[Çļéåŕ ļîšţ one two]</string>
+    <string name="transfer_clear_dlg_title">[Çļéåŕ one]</string>
+    <string name="transfer_clear_dlg_msg">[Åļļ ŕéçéîVéð ƒîļéš ŵîļļ ɓé ðéļéţéð. one two three four]</string>
+    <string name="transfer_failed_network">[Ñéţŵöŕķ éŕŕöŕ, ţŕåñšƒéŕ ƒåîļéð one two three four]</string>
+    <string name="transfer_failed_cancel">[Ţŕåñšƒéŕ çåñçéļéð one two three]</string>
+    <string name="storage_space_not_enough_Toast">[Îñšûƒƒîçîéñţ šţöŕåĝé šþåçé. Çåññöţ šåVé ţĥé ƒîļé. one two three four five six]</string>
+    <string name="nfc_confirm_pairing">[Þåîŕ ŵîţĥ ţĥé βļûéţööţĥ ðéVîçé %1$s¿ one two three four]</string>
+    <string name="nfc_pairing_request">[ÑFÇ þåîŕîñĝ ŕéQûéšţ one two three]</string>
+    <string name="nfc_pairing_accept">[Þåîŕ one]</string>
+    <string name="nfc_pairing_decline">[Çåñçéļ one two]</string>
+    <string name="from_target_device">[Fŕöḿ: »%1$s« one two]</string>
+    <string name="file_name">[Fîļé ñåḿé: »%1$s« one two]</string>
+    <string name="file_size">[Fîļé šîžé: »%1$s« one two]</string>
+    <string name="transfer_dlg_title">[Fîļé ţŕåñšƒéŕ one two]</string>
+    <string name="transfer_dlg_stop">[Šţöþ one]</string>
+    <string name="transfer_dlg_hide">[Ḿîñîḿîžé one two]</string>
+    <string name="download_success">[ %1$s ŕéçéîVéð. one two]</string>
+    <string name="not_exist_file_desc_Toast">"[Ţĥé ƒîļé ðöéšñ'ţ éхîšţ. one two three]"</string>
+    <string name="start_send_Toast">[Ţŕåñšḿîššîöñ ŵîļļ ɓéĝîñ. one two three]</string>
+    <string name="touch_pair">[Ţöûçĥ ţö þåîŕ one two]</string>
+    <string name="touch_share_ap">[Ţöûçĥ ţö çöññéçţ one two three]</string>
+    <string name="touch_share_wlan">[Ţöûçĥ ţö šĥåŕé ýöûŕ ñéţŵöŕķ çöññéçţîöñ one two three four five]</string>
+    <string name="touch_cannot_share_wlan">[Ñö ñéţŵöŕķš ţö šĥåŕé one two three]</string>
+    <string name="bluetooth_pair_success">[Šûççéššƒûļļý þåîŕéð. one two three]</string>
+    <string name="wifidirect_pair_success">[Šûççéššƒûļļý þåîŕéð. one two three]</string>
+    <string name="pair_failed">[Fåîļéð ţö þåîŕ. one two three]</string>
+    <string name="softap_share_success">[Ĥöţšþöţ šĥåŕéð. Ţĥé þééŕ ðéVîçé îš ñöŵ çöññéçţéð ţö ýöûŕ ðéVîçé. one two three four five six seven]</string>
+    <string name="softap_share_failed">[Fåîļéð ţö šĥåŕé ýöûŕ ñéţŵöŕķ çöññéçţîöñ. one two three four five]</string>
+    <string name="share_wlan_success">[Ŵî-Fî ñéţŵöŕķ îñƒöŕḿåţîöñ šĥåŕéð. one two three four]</string>
+    <string name="otherside_not_support_pair_Toast">[Ţĥé þééŕ ðéVîçé îš îñçöḿþåţîɓļé. Çåññöţ þåîŕ. one two three four five]</string>
+    <string name="nfc_url_title">[ÑFÇ ŕéQûéšţ one two]</string>
+    <string name="nfc_url_body">[Öþéñ ţĥé ļîñķ îñ ţĥîš ÛŔĻ ţåĝ¿ one two three four]</string>
+    <string name="no_longer_nfc_url">[Ðö ñöţ ŕéḿîñð åĝåîñ one two three]</string>
+    <string name="wifi_to_p2p_message">[Ţûŕñîñĝ öñ Ŵî-Fî Ðîŕéçţ ŵîļļ ðîšåɓļé Ŵî-Fî. one two three four five]</string>
+    <string name="tether_to_p2p_message">[Ţûŕñîñĝ öñ Ŵî-Fî Ðîŕéçţ ŵîļļ ðîšåɓļé Ŵî-Fî ĥöţšþöţ. one two three four five six]</string>
+    <string name="beam_failed_wifi_on_nocoex">[βéåḿ ƒåîļéð ɓéçåûšé Ŵî-Fî îš öñ one two three four]</string>
+    <string name="beam_failed_tether_on_nocoex">[βéåḿ ƒåîļéð ɓéçåûšé Ŵî-Fî ĥöţšþöţ îš öñ one two three four five]</string>
+    <string name="routing_table_full">[Ŕöûţîñĝ ţåɓļé îš ƒûļļ. Þļéåšé ûñîñšţåļļ šöḿé þåýḿéñţ åþþš. one two three four five six seven]</string>
+    <string name="nfc_enabled_dialog">[ÑFÇ ḿûšţ ɓé éñåɓļéð. Éñåɓļé îţ¿ one two three four]</string>
+    <string name="nfc_enabled_tittle">[Ñöţé one]</string>
+    <string name="nfc_not_enabled_user_restriction">[Ţĥîš ûšéŕ îš ñöţ åļļöŵéð ţö éñåɓļé ţĥé ÑFÇ šéŕVîçé. one two three four five six]</string>
+    <string name="no_transfers_new">[Ñö ŕéçéîVéð ĥîšţöŕý. one two three]</string>
+    <string name="transfer_clear_dlg_msg_new">[Åļļ ŕéçéîVéð ĥîšţöŕý ŵîļļ ɓé ðéļéţéð. one two three four five]</string>
+</resources>

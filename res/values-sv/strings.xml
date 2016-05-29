@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC-tjänst</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Tryck här om du vill överföra</string>
+    <string name="beam_progress">Inkommande trådlös överföring ...</string>
+    <string name="beam_outgoing">Överför trådlöst ...</string>
+    <string name="beam_complete">Den trådlösa överföringen har slutförts</string>
+    <string name="beam_failed">Den trådlösa överföringen slutfördes inte</string>
+    <string name="beam_canceled">Den trådlösa överföringen avbröts</string>
+    <string name="cancel">Avbryt</string>
+    <string name="beam_touch_to_view">Tryck och visa</string>
+    <string name="beam_handover_not_supported_Toast">Mottagarens enheten stöder inte trådlös överföring av stora filer.</string>
+    <string name="beam_try_again">För samman enheterna igen</string>
+    <string name="beam_busy">Beam används för närvarande. Försök igen när den pågående överföringen är klar.</string>
+    <string name="device">enheten</string>
+    <string name="connecting_peripheral">Ansluter till <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Ansluten till <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Det gick inte att ansluta till <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Kopplar ned från <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Frånkopplad från <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Kopplar ihop med <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Det gick inte att koppla ihop med <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Det går inte att aktivera Bluetooth</string>
+    <string name="confirm_pairing">Är du säker på att du vill para ihop Bluetooth-enheten %1$s?</string>
+    <string name="pair_yes">Ja</string>
+    <string name="pair_no">Nej</string>
+    <string name="tap_again_to_pay">Peka igen för att betala med %1$s</string>
+    <string name="tap_again_to_complete">Peka igen för att slutföra transaktionen med %1$s</string>
+    <string name="transaction_failure">Transaktionen kunde inte slutföras med %1$s.</string>
+    <string name="could_not_use_app">Det gick inte att använda %1$s.</string>
+    <string name="pay_with">Betala med</string>
+    <string name="complete_with">Slutför med</string>
+    <string name="default_pay_app_removed">Din föredragna tjänst för knacka &amp; betala har tagits bort. Välj en annan?</string>
+    <string name="ask_nfc_tap">Peka på en annan enhet för att slutföra</string>
+    <string name="wifi_connect">Anslut</string>
+    <string name="status_unable_to_connect">Det gick inte att ansluta till nätverket</string>
+    <string name="status_wifi_connected">Ansluten</string>
+    <string name="title_connect_to_network">Anslut till nätverk</string>
+    <string name="prompt_connect_to_network">Vill du ansluta till nätverket %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam kräver NFC för att aktiveras. Aktivera det nu?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC mottagen</string>
+    <string name="unknown_file">Okänd fil</string>
+    <string name="unknown_device">Okänd enhet</string>
+    <string name="status_unknown_error">Okänt fel</string>
+    <string name="transfer_menu_open">Öppna</string>
+    <string name="no_transfers">Inga filer</string>
+    <string name="transfer_menu_clear_all">Rensa listan</string>
+    <string name="transfer_clear_dlg_title">Rensa</string>
+    <string name="transfer_clear_dlg_msg">Alla mottagna filer kommer att tas bort.</string>
+    <string name="transfer_failed_network">Nätverksfel, överföringen misslyckades</string>
+    <string name="transfer_failed_cancel">Överföringen avbröts</string>
+    <string name="storage_space_not_enough_Toast">För lite lagringsutrymme. Filen kan inte sparas.</string>
+    <string name="nfc_confirm_pairing">Vill du koppla ihop med Bluetooth-enheten %1$s?</string>
+    <string name="nfc_pairing_request">Begäran om NFC-koppling</string>
+    <string name="nfc_pairing_accept">Parkoppling</string>
+    <string name="nfc_pairing_decline">Avbryt</string>
+    <string name="from_target_device">Från: %1$s</string>
+    <string name="file_name">Namn: %1$s</string>
+    <string name="file_size">Storlek: %1$s</string>
+    <string name="transfer_dlg_title">Filöverföring</string>
+    <string name="transfer_dlg_stop">Stoppa</string>
+    <string name="transfer_dlg_hide">Minimera</string>
+    <string name="download_success">%1$s har tagits emot fullständigt.</string>
+    <string name="not_exist_file_desc_Toast">Filen finns inte.</string>
+    <string name="start_send_Toast">Överföringen kommer att börja.</string>
+    <string name="touch_pair">Peka för att koppla ihop</string>
+    <string name="touch_share_ap">Peka för att ansluta</string>
+    <string name="touch_share_wlan">Peka för att dela nätverksanslutningen</string>
+    <string name="touch_cannot_share_wlan">Inga nätverk att dela</string>
+    <string name="bluetooth_pair_success">Hopkopplingen lyckades.</string>
+    <string name="wifidirect_pair_success">Hopkopplingen lyckades.</string>
+    <string name="pair_failed">Hopkopplingen misslyckades.</string>
+    <string name="softap_share_success">Hotspot delad. Den andra enheten är nu ansluten till din enhet.</string>
+    <string name="softap_share_failed">Det gick inte att dela nätverksanslutningen.</string>
+    <string name="share_wlan_success">Wi-Fi-nätverksinformation delad.</string>
+    <string name="otherside_not_support_pair_Toast">Kopplad enhet är inkompatibel. Det går inte att koppla.</string>
+    <string name="nfc_url_title">NFC-begäran</string>
+    <string name="nfc_url_body">"Vill du öppna länken i denna URL-tagg? "</string>
+    <string name="no_longer_nfc_url">Påminn inte igen</string>
+    <string name="wifi_to_p2p_message">Om du slår på Wi-Fi Direct inaktiveras Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Om du slår på Wi-Fi Direct inaktiveras Wi-Fi-hotspot.</string>
+    <string name="beam_failed_wifi_on_nocoex">Kunde ej skicka via Android Beam då Wi-Fi är på</string>
+    <string name="beam_failed_tether_on_nocoex">Kunde ej skicka via Android Beam då Wi-Fi-hotspot är på</string>
+    <string name="routing_table_full">Routningstabellen är full. Avinstallera några betalningsappar.</string>
+    <string name="nfc_enabled_dialog">NFC måste vara aktiverat. Vill du aktivera?</string>
+    <string name="nfc_enabled_tittle">Obs!</string>
+    <string name="nfc_not_enabled_user_restriction">Denna användare har inte behörighet att aktivera NFC-tjänsten.</string>
+</resources>

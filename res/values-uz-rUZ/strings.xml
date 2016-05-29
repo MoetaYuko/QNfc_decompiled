@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC xizmati</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">"Jo'natish uchun teging"</string>
+    <string name="beam_progress">Kuruvchi uzatma...</string>
+    <string name="beam_outgoing">Uzatilmoqda...</string>
+    <string name="beam_complete">Uzatish tugallandi</string>
+    <string name="beam_failed">Uzatish yakunlanmadi</string>
+    <string name="beam_canceled">Uzatish bekor qilindi</string>
+    <string name="cancel">Bekor qil.</string>
+    <string name="beam_touch_to_view">"Ko'rish uchun tegish"</string>
+    <string name="beam_handover_not_supported_Toast">"Oluvchining qurilmasi nur tarami orqali katta faylni uzatishni qo'llab-quvvatlamaydi."</string>
+    <string name="beam_try_again">Yana qurilmalarni birlashtirish</string>
+    <string name="beam_busy">Beam hozirda band. Avvalgi o‘tkazma tugallangach, qaytadan urining.</string>
+    <string name="device">qurilma</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode>-ga ulanilmoqda…</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode> ga ulandi.</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>"ga ulanib bo'lmadi."</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode>-dan uzilmoqda…</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1"> %1$s </subnode> dan uzildi.</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode>" bilan bog'lanmoqda…"</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>" bilan juftlashtirib bo'lmadi."</string>
+    <string name="failed_to_enable_bt">"Bluetooth-ni yoqib bo'lmadi."</string>
+    <string name="confirm_pairing">%1$s Bluetooth qurilmasini bo‘glashga ishonchingiz komilmi?</string>
+    <string name="pair_yes">Ha</string>
+    <string name="pair_no">"Yo'q"</string>
+    <string name="tap_again_to_pay">"%1$s yordamida to'lash uchun qayta tegish"</string>
+    <string name="tap_again_to_complete">%1$s bilan tranzaksiya qilish uchun qayta tegish</string>
+    <string name="transaction_failure">"Ushbu tranzaksiyani %1$s yordamida bajarib bo'lmadi."</string>
+    <string name="could_not_use_app">"%1$s dan foydalanib bo'lmadi."</string>
+    <string name="pay_with">"... b-n to'lash"</string>
+    <string name="complete_with">... bilan bajarish</string>
+    <string name="default_pay_app_removed">Siz ma’qul ko‘rgan teginib to‘lash xizmati olib tashlangan. Boshqasi tanlansinmi?</string>
+    <string name="ask_nfc_tap">Bajarish uchun boshqa qurilmaga tegish</string>
+    <string name="wifi_connect">Ulanish</string>
+    <string name="status_unable_to_connect">"Tarmoqqa ulanib bo'lmayapti."</string>
+    <string name="status_wifi_connected">Ulandi</string>
+    <string name="title_connect_to_network">Tarmoqqa ulash</string>
+    <string name="prompt_connect_to_network">%1$s tarmoqqa ulansinmi?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam ishlashi uchun NFC zarur. Hozir yoqilsinmi?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC olindi</string>
+    <string name="unknown_file">"Noma'lum fayl"</string>
+    <string name="unknown_device">"Noma'lum qurilma"</string>
+    <string name="status_unknown_error">"Noma'lum xato"</string>
+    <string name="transfer_menu_open">Ochish</string>
+    <string name="no_transfers">"Fayllar yo'q"</string>
+    <string name="transfer_menu_clear_all">"Ro'yxatni o'chirish"</string>
+    <string name="transfer_clear_dlg_title">"O'chirish"</string>
+    <string name="transfer_clear_dlg_msg">"Barcha olingan fayllar o'chiriladi."</string>
+    <string name="transfer_failed_network">"Tarmoq kartasi uzatib bo'lmadi"</string>
+    <string name="transfer_failed_cancel">"O'tkazish bekor qilindi"</string>
+    <string name="storage_space_not_enough_Toast">"Xotira qurilmasida bo'sh joy yetarli emas. Faylni saqlab bo'lmayapti."</string>
+    <string name="nfc_confirm_pairing">%1$s Bluetooth qurilmasi bilan juftlashtirilsinmi?</string>
+    <string name="nfc_pairing_request">"NFC juftla. so'rovi"</string>
+    <string name="nfc_pairing_accept">Juftlash</string>
+    <string name="nfc_pairing_decline">Bekor qil.</string>
+    <string name="from_target_device">Kimdan: %1$s</string>
+    <string name="file_name">Fayl nomi: %1$s</string>
+    <string name="file_size">Fayl hajmi: %1$s</string>
+    <string name="transfer_dlg_title">"Fayl o'tkazish"</string>
+    <string name="transfer_dlg_stop">"To'xtatish"</string>
+    <string name="transfer_dlg_hide">"Yig'ish"</string>
+    <string name="download_success">" %1$s qabul qilindi."</string>
+    <string name="not_exist_file_desc_Toast">Fayl mavjud emas.</string>
+    <string name="start_send_Toast">Uzatish boshlanadi.</string>
+    <string name="touch_pair">Juftlashtirish uchun tegish</string>
+    <string name="touch_share_ap">Ulnanish uchun tegish</string>
+    <string name="touch_share_wlan">"Tarmoq ulanishingizni bo'lishish uchun tegish"</string>
+    <string name="touch_cannot_share_wlan">"Bo'lishish uchun tarmoq yo'q"</string>
+    <string name="bluetooth_pair_success">Muvaffaqiyatli juftlashtirildi.</string>
+    <string name="wifidirect_pair_success">Muvaffaqiyatli juftlashtirildi.</string>
+    <string name="pair_failed">"Juftlashtirib bo'lmadi."</string>
+    <string name="softap_share_success">"Kirish nuqtasi bo'lishildi. Turdosh qurilma endi qurilmangizga ulandi."</string>
+    <string name="softap_share_failed">"Tarmoq ulanishingizni bo'lisha olmadi."</string>
+    <string name="share_wlan_success">"Wi-Fi tarmog'i ma'lumotni bo'lishdi."</string>
+    <string name="otherside_not_support_pair_Toast">"Turdosh qurilma mos emas. Juftlashtirib bo'lmayapti."</string>
+    <string name="nfc_url_title">"NFC so'rovi"</string>
+    <string name="nfc_url_body">"Ushbu URL tegda havola ochilsinmi? "</string>
+    <string name="no_longer_nfc_url">Qayta eslatilmasin</string>
+    <string name="wifi_to_p2p_message">"Wi-Fi Direct-ni yoqish Wi-Fi-ni o'chiradi."</string>
+    <string name="tether_to_p2p_message">"Wi-Fi Direct-ni yoqish Wi-Fi kirish nuqtasini o'chiradi."</string>
+    <string name="beam_failed_wifi_on_nocoex">"Wi-Fi yoniq, transla. qil/bo'lm."</string>
+    <string name="beam_failed_tether_on_nocoex">"Wi-Fi k/n yon., trans. qi/bo'lm."</string>
+    <string name="routing_table_full">"Marshrutrlash jadvali to'la. Ayrim to'lov ilovalarini deinstallatsiya qiling."</string>
+    <string name="nfc_enabled_dialog">NFS yoqilishi kerak. Yoqilsinmi?</string>
+    <string name="nfc_enabled_tittle">Qayd</string>
+    <string name="nfc_not_enabled_user_restriction">Bu foydalanuvchiga NFC xizmatini yoqish uchun ruxsat berilmagan.</string>
+</resources>

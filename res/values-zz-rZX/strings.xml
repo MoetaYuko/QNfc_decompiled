@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[PL_75535]_NFC Service</string>
+    <string name="nfcUserLabel">[PL_1882]_NFC</string>
+    <string name="touch">[PL_1888]_Touch to beam</string>
+    <string name="beam_progress">[PL_18763]_Incoming beam...</string>
+    <string name="beam_outgoing">[PL_37202]_Beaming...</string>
+    <string name="beam_complete">[PL_18764]_Beam complete</string>
+    <string name="beam_failed">[PL_18765]_Beam did not complete</string>
+    <string name="beam_canceled">[PL_18766]_Beam canceled</string>
+    <string name="cancel">[PL_19070]_Cancel</string>
+    <string name="beam_touch_to_view">[PL_18767]_Touch to view</string>
+    <string name="beam_handover_not_supported_Toast">"[PL_105506]_The receiver's device doesn't support large file transfer via beam."</string>
+    <string name="beam_try_again">[PL_37201]_Bring devices together again</string>
+    <string name="beam_busy">[PD_216252]_Beam is busy. Please try again after the previous transfer is complete.</string>
+    <string name="device">[PD_216253]_the device</string>
+    <string name="connecting_peripheral">[PD_127564]_Connecting to <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">[PD_127566]_Connected to <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">[PD_127568]_Could not connect to <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">[PD_127571]_Disconnecting from <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">[PD_127572]_Disconnected from <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">[PD_127563]_Pairing with <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">[PD_127565]_Could not pair with <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">[PL_18773]_Cannot enable Bluetooth</string>
+    <string name="confirm_pairing">[PL_18774]_Are you sure you want to pair with the Bluetooth device %1$s?</string>
+    <string name="pair_yes">[PL_19074]_Yes</string>
+    <string name="pair_no">[PL_19075]_No</string>
+    <string name="tap_again_to_pay">[PL_37200]_Touch again to pay with %1$s</string>
+    <string name="tap_again_to_complete">[PL_37199]_Touch again to complete transaction with %1$s</string>
+    <string name="transaction_failure">"[PL_37205]_This transaction couldn't be completed with %1$s."</string>
+    <string name="could_not_use_app">"[PL_37206]_Couldn't use %1$s."</string>
+    <string name="pay_with">[PL_37203]_Pay with</string>
+    <string name="complete_with">[PL_37204]_Complete with</string>
+    <string name="default_pay_app_removed">[PL_37198]_Your preferred service for tap &amp; pay was removed. Choose another?</string>
+    <string name="ask_nfc_tap">[PD_127574]_Touch another device to complete</string>
+    <string name="wifi_connect">[PD_127575]_Connect</string>
+    <string name="status_unable_to_connect">[PD_127576]_Unable to connect to network</string>
+    <string name="status_wifi_connected">[PD_127569]_Connected</string>
+    <string name="title_connect_to_network">[PD_127562]_Connect to network</string>
+    <string name="prompt_connect_to_network">[PD_127567]_Connect to network %1$s?</string>
+    <string name="beam_requires_nfc_enabled">[PD_127573]_Huawei Beam requires NFC to be enabled. Enable it now?</string>
+    <string name="android_beam">[PD_127570]_Android Beam</string>
+    <string name="nfc_live_folder">[PL_32226]_NFC received</string>
+    <string name="unknown_file">[PL_32227]_Unknown file</string>
+    <string name="unknown_device">[PL_32228]_Unknown device</string>
+    <string name="status_unknown_error">[PL_32229]_Unknown error</string>
+    <string name="transfer_menu_open">[PL_32230]_Open</string>
+    <string name="no_transfers">[PL_32231]_No files</string>
+    <string name="transfer_menu_clear_all">[PL_32232]_Clear list</string>
+    <string name="transfer_clear_dlg_title">[PL_32233]_Clear</string>
+    <string name="transfer_clear_dlg_msg">[PL_32234]_All received files will be deleted.</string>
+    <string name="transfer_failed_network">[PL_32235]_Network error, transfer failed</string>
+    <string name="transfer_failed_cancel">[PL_32236]_Transfer canceled</string>
+    <string name="storage_space_not_enough_Toast">[PL_105507]_Insufficient storage space. Cannot save the file.</string>
+    <string name="nfc_confirm_pairing">[PL_33819]_Pair with the Bluetooth device %1$s?</string>
+    <string name="nfc_pairing_request">[PL_33820]_NFC pairing request</string>
+    <string name="nfc_pairing_accept">[PL_33821]_Pair</string>
+    <string name="nfc_pairing_decline">[PL_33822]_Cancel</string>
+    <string name="from_target_device">[PL_99258]_From: %1$s</string>
+    <string name="file_name">[PL_99259]_File name: %1$s</string>
+    <string name="file_size">[PL_99260]_File size: %1$s</string>
+    <string name="transfer_dlg_title">[PL_99255]_File transfer</string>
+    <string name="transfer_dlg_stop">[PL_99257]_Stop</string>
+    <string name="transfer_dlg_hide">[PL_99256]_Minimize</string>
+    <string name="download_success">[PL_102159]_ %1$s received.</string>
+    <string name="not_exist_file_desc_Toast">"[PL_105508]_The file doesn't exist."</string>
+    <string name="start_send_Toast">[PL_109583]_Transmission will begin.</string>
+    <string name="touch_pair">[PL_32081]_Touch to pair</string>
+    <string name="touch_share_ap">[PL_32082]_Touch to connect</string>
+    <string name="touch_share_wlan">[PL_32083]_Touch to share your network connection</string>
+    <string name="touch_cannot_share_wlan">[PL_32084]_No networks to share</string>
+    <string name="bluetooth_pair_success">[PL_32085]_Successfully paired.</string>
+    <string name="wifidirect_pair_success">[PL_32086]_Successfully paired.</string>
+    <string name="pair_failed">[PL_32087]_Failed to pair.</string>
+    <string name="softap_share_success">[PL_32088]_Hotspot shared. The peer device is now connected to your device.</string>
+    <string name="softap_share_failed">[PL_32089]_Failed to share your network connection.</string>
+    <string name="share_wlan_success">[PL_32090]_Wi-Fi network information shared.</string>
+    <string name="otherside_not_support_pair_Toast">[PL_105509]_The peer device is incompatible. Cannot pair.</string>
+    <string name="nfc_url_title">[PD_115170]_NFC request</string>
+    <string name="nfc_url_body">[PD_115169]_Open the link in this URL tag?</string>
+    <string name="no_longer_nfc_url">[PD_115171]_Do not remind again</string>
+    <string name="wifi_to_p2p_message">[PD_197410]_Turning on Wi-Fi Direct will disable Wi-Fi.</string>
+    <string name="tether_to_p2p_message">[PD_197412]_Turning on Wi-Fi Direct will disable Wi-Fi hotspot.</string>
+    <string name="beam_failed_wifi_on_nocoex">[PD_197411]_Beam failed because Wi-Fi is on</string>
+    <string name="beam_failed_tether_on_nocoex">[PD_197409]_Beam failed because Wi-Fi hotspot is on</string>
+    <string name="routing_table_full">[PD_197604]_Routing table is full. Please uninstall some payment apps.</string>
+    <string name="nfc_enabled_dialog">[PD_216907]_NFC must be enabled. Enable it?</string>
+    <string name="nfc_enabled_tittle">[PL_236090]_Note</string>
+    <string name="nfc_not_enabled_user_restriction">[PL_271403]_This user is not allowed to enable NFC service.</string>
+</resources>

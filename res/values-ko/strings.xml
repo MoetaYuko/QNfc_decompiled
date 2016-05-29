@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC 서비스</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">공유하기</string>
+    <string name="beam_progress">수신 빔...</string>
+    <string name="beam_outgoing">공유 중...</string>
+    <string name="beam_complete">Beam 완료</string>
+    <string name="beam_failed">Beam이 완료되지 않음</string>
+    <string name="beam_canceled">Beam 취소됨</string>
+    <string name="cancel">취소</string>
+    <string name="beam_touch_to_view">터치하여 보기</string>
+    <string name="beam_handover_not_supported_Toast">수신자의 기기는 빔을 통한 대용량 파일 전송을 지원하지 않습니다.</string>
+    <string name="beam_try_again">기기 다시 공유</string>
+    <string name="beam_busy">현재 공유 작업을 진행 중입니다. 기존 전송 작업이 완료되면 다시 시도하세요.</string>
+    <string name="device">장치</string>
+    <string name="connecting_peripheral"><subnode ref="en" index="1">%1$s</subnode>에 연결 중…</string>
+    <string name="connected_peripheral"><subnode ref="en" index="1">%1$s</subnode>에 연결되었습니다.</string>
+    <string name="connect_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>에 연결하지 못했습니다.</string>
+    <string name="disconnecting_peripheral"><subnode ref="en" index="1">%1$s</subnode>에서 연결을 끊는 중…</string>
+    <string name="disconnected_peripheral"><subnode ref="en" index="1">%1$s</subnode>에서 연결이 끊어졌습니다.</string>
+    <string name="pairing_peripheral"><subnode ref="en" index="1">%1$s</subnode>과(와) 페어링 중…</string>
+    <string name="pairing_peripheral_failed"><subnode ref="en" index="1">%1$s</subnode>과(와) 페어링하지 못했습니다.</string>
+    <string name="failed_to_enable_bt">블루투스를 사용하도록 설정하지 못함</string>
+    <string name="confirm_pairing">블루투스 기기 %1$s을(를) 페어링하시겠습니까?</string>
+    <string name="pair_yes">예</string>
+    <string name="pair_no">아니요</string>
+    <string name="tap_again_to_pay">%1$s(으)로 지불하려면 다시 누르세요.</string>
+    <string name="tap_again_to_complete">%1$s(으)로 거래를 마치려면 다시 누르십시오.</string>
+    <string name="transaction_failure">%1$s(으)로 거래를 완료할 수 없습니다.</string>
+    <string name="could_not_use_app">%1$s을(를) 사용할 수 없습니다.</string>
+    <string name="pay_with">결제 가능한 애플리케이션</string>
+    <string name="complete_with">사용 가능한 애플리케이션</string>
+    <string name="default_pay_app_removed">터치 및 지불 앱에 우선 적용 서비스가 제거되었습니다. 다른 서비스를 선택하시겠습니까?</string>
+    <string name="ask_nfc_tap">완료하려면 다른 장치를 터치하세요.</string>
+    <string name="wifi_connect">연결</string>
+    <string name="status_unable_to_connect">네트워크에 연결할 수 없음</string>
+    <string name="status_wifi_connected">연결됨</string>
+    <string name="title_connect_to_network">네트워크 연결</string>
+    <string name="prompt_connect_to_network">네트워크 %1$s에 연결하시겠습니까?</string>
+    <string name="beam_requires_nfc_enabled">Huawei 빔을 사용하려면 NFC를 활성화해야 합니다. 지금 활성화하시겠습니까?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC 수신됨</string>
+    <string name="unknown_file">알 수 없는 파일</string>
+    <string name="unknown_device">알 수 없는 장치</string>
+    <string name="status_unknown_error">알 수 없는 오류</string>
+    <string name="transfer_menu_open">열기</string>
+    <string name="no_transfers">파일 없음</string>
+    <string name="transfer_menu_clear_all">목록 지우기</string>
+    <string name="transfer_clear_dlg_title">지우기</string>
+    <string name="transfer_clear_dlg_msg">수신된 모든 파일이 삭제됩니다.</string>
+    <string name="transfer_failed_network">네트워크 오류, 전송 실패</string>
+    <string name="transfer_failed_cancel">전송이 취소되었습니다.</string>
+    <string name="storage_space_not_enough_Toast">저장 공간이 부족합니다. 파일을 저장할 수 없습니다.</string>
+    <string name="nfc_confirm_pairing">Bluetooth 장치 %1$s과(와) 페어링하시겠습니까?</string>
+    <string name="nfc_pairing_request">NFC 페어링 요청</string>
+    <string name="nfc_pairing_accept">페어링</string>
+    <string name="nfc_pairing_decline">취소</string>
+    <string name="from_target_device">발신인: %1$s</string>
+    <string name="file_name">파일 이름: %1$s</string>
+    <string name="file_size">파일 크기: %1$s</string>
+    <string name="transfer_dlg_title">파일 전송</string>
+    <string name="transfer_dlg_stop">중지</string>
+    <string name="transfer_dlg_hide">최소화</string>
+    <string name="download_success">%1$s 수신을 완료했습니다.</string>
+    <string name="not_exist_file_desc_Toast">파일이 없습니다.</string>
+    <string name="start_send_Toast">전송이 시작됩니다.</string>
+    <string name="touch_pair">페어링하려면 터치하십시오.</string>
+    <string name="touch_share_ap">연결하려면 터치하십시오.</string>
+    <string name="touch_share_wlan">네트워크 연결을 시작하려면 터치하십시오.</string>
+    <string name="touch_cannot_share_wlan">공유할 네트워크 없음</string>
+    <string name="bluetooth_pair_success">성공적으로 페어링되었습니다.</string>
+    <string name="wifidirect_pair_success">성공적으로 페어링되었습니다.</string>
+    <string name="pair_failed">페어링이 실패했습니다.</string>
+    <string name="softap_share_success">핫스팟이 공유되었습니다. 피어 디바이스가 사용 중인 디바이스에 연결됩니다.</string>
+    <string name="softap_share_failed">네트워크 연결 공유가 실패했습니다.</string>
+    <string name="share_wlan_success">Wi-Fi 네트워크 정보가 공유되었습니다.</string>
+    <string name="otherside_not_support_pair_Toast">피어 장치가 호환되지 않습니다. 페어링할 수 없습니다.</string>
+    <string name="nfc_url_title">NFC 요청</string>
+    <string name="nfc_url_body">"이 URL 태그의 링크를 열까요? "</string>
+    <string name="no_longer_nfc_url">다시 표시 안 함</string>
+    <string name="wifi_to_p2p_message">Wi-Fi Direct를 켜면 Wi-Fi가 비활성화됩니다.</string>
+    <string name="tether_to_p2p_message">Wi-Fi를 켜면 Wi-Fi Direct가 비활성화됩니다.</string>
+    <string name="beam_failed_wifi_on_nocoex">Wi-Fi가 켜져 있어 빔을 실행할 수 없습니다.</string>
+    <string name="beam_failed_tether_on_nocoex">Wi-Fi 핫스팟이 켜져 있어 빔을 실행할 수 없습니다.</string>
+    <string name="routing_table_full">라우팅 테이블이 가득 찼습니다. 일부 결재 앱을 제거해야 합니다.</string>
+    <string name="nfc_enabled_dialog">NFC를 활성화해야 합니다. 활성화할까요?</string>
+    <string name="nfc_enabled_tittle">주의</string>
+    <string name="nfc_not_enabled_user_restriction">이 사용자는 NFC 서비스를 활성화할 수 없습니다.</string>
+</resources>

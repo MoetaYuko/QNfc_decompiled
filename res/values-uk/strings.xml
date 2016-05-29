@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Торкніться, щоб передати дані</string>
+    <string name="beam_progress">Вхідне передавання даних...</string>
+    <string name="beam_outgoing">Передавання даних…</string>
+    <string name="beam_complete">Передавання даних виконано</string>
+    <string name="beam_failed">Передавання даних не завершено</string>
+    <string name="beam_canceled">Передавання даних скасовано</string>
+    <string name="cancel">Скасувати</string>
+    <string name="beam_touch_to_view">Торкніться, щоб переглянути</string>
+    <string name="beam_handover_not_supported_Toast">Пристрій отримувача не підтримує пересилання великих файлів за допомогою функції Передавання даних Android.</string>
+    <string name="beam_try_again">Знову притуліть пристрої один до одного</string>
+    <string name="beam_busy">Неможливо передати. Повторіть спробу, коли завершиться попереднє передавання.</string>
+    <string name="device">пристрою</string>
+    <string name="connecting_peripheral">Підключення до <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Підключено до <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Не вдалося підключитися до <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Роз’єднання з <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Розірвано з’єднання з <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Створення пари з <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Не вдалося створити пару з <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Не вдалось увімкнути Bluetooth</string>
+    <string name="confirm_pairing">Дійсно створити пару з пристроєм Bluetooth %1$s?</string>
+    <string name="pair_yes">Так</string>
+    <string name="pair_no">Ні</string>
+    <string name="tap_again_to_pay">Торкніться ще раз, щоб оплатити через %1$s</string>
+    <string name="tap_again_to_complete">Торкніться ще раз, щоб виконати транзакцію через %1$s</string>
+    <string name="transaction_failure">Не вдалося виконати трансакцію через %1$s.</string>
+    <string name="could_not_use_app">Не вдалося виконати через %1$s.</string>
+    <string name="pay_with">Оплатити через</string>
+    <string name="complete_with">Виконати через</string>
+    <string name="default_pay_app_removed">Вашу пріоритетну службу безконтактних платежів видалено. Бажаєте вибрати іншу?</string>
+    <string name="ask_nfc_tap">Торкніться іншого пристрою, щоб завершити</string>
+    <string name="wifi_connect">Під’єднатися</string>
+    <string name="status_unable_to_connect">Не вдається під’єднатися до мережі</string>
+    <string name="status_wifi_connected">Під’єднано</string>
+    <string name="title_connect_to_network">Під’єднатися до мережі</string>
+    <string name="prompt_connect_to_network">Під’єднатися до мережі \"%1$s\"?</string>
+    <string name="beam_requires_nfc_enabled">Для Huawei Beam потрібно ввімкнути функцію NFC. Увімкнути зараз?</string>
+    <string name="android_beam">Передавання даних Android</string>
+    <string name="nfc_live_folder">Отримано за допомогою NFC</string>
+    <string name="unknown_file">Невідомий файл</string>
+    <string name="unknown_device">Невідомий пристрій</string>
+    <string name="status_unknown_error">Невідома помилка</string>
+    <string name="transfer_menu_open">Відкрити</string>
+    <string name="no_transfers">Немає файлів</string>
+    <string name="transfer_menu_clear_all">Очист. список</string>
+    <string name="transfer_clear_dlg_title">Очистити</string>
+    <string name="transfer_clear_dlg_msg">Усі отримані файли буде видалено.</string>
+    <string name="transfer_failed_network">Передачу не виконано через помилку мережі</string>
+    <string name="transfer_failed_cancel">Передачу скасовано</string>
+    <string name="storage_space_not_enough_Toast">Недостатньо вільного місця. Не вдається зберегти файл.</string>
+    <string name="nfc_confirm_pairing">Об’єднати в пару пристрій Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Запит на об’єд. через NFC</string>
+    <string name="nfc_pairing_accept">Ств.пару</string>
+    <string name="nfc_pairing_decline">Скасувати</string>
+    <string name="from_target_device">Від: %1$s</string>
+    <string name="file_name">Назва файлу: %1$s</string>
+    <string name="file_size">Розмір файлу: %1$s</string>
+    <string name="transfer_dlg_title">Передавання файлу</string>
+    <string name="transfer_dlg_stop">Стоп</string>
+    <string name="transfer_dlg_hide">Згорнути</string>
+    <string name="download_success">Завершено отримання %1$s.</string>
+    <string name="not_exist_file_desc_Toast">Файл не існує.</string>
+    <string name="start_send_Toast">Розпочнеться передавання.</string>
+    <string name="touch_pair">Торкніться, щоб створити пару</string>
+    <string name="touch_share_ap">Торкніться, щоб підключитися</string>
+    <string name="touch_share_wlan">Торкніться, щоб надати доступ до своєї мережі</string>
+    <string name="touch_cannot_share_wlan">Немає мереж, до яких можна надати доступ</string>
+    <string name="bluetooth_pair_success">Пару створено успішно.</string>
+    <string name="wifidirect_pair_success">Пару створено успішно.</string>
+    <string name="pair_failed">Не вдалося створити пару.</string>
+    <string name="softap_share_success">Точка доступу стала спільною. Одноранговий пристрій підключено до вашого пристрою.</string>
+    <string name="softap_share_failed">Не вдалося надати доступ до мережі.</string>
+    <string name="share_wlan_success">Надано доступ до даних мережі Wi-Fi.</string>
+    <string name="otherside_not_support_pair_Toast">Несумісний одноранговий пристрій. Неможливо створити пару.</string>
+    <string name="nfc_url_title">Запит через NFC</string>
+    <string name="nfc_url_body">"Відкрити посилання у цій мітці з URL-адресою? "</string>
+    <string name="no_longer_nfc_url">Більше не нагадувати</string>
+    <string name="wifi_to_p2p_message">Після ввімкнення функції Wi-Fi Direct Wi-Fi вимкнеться.</string>
+    <string name="tether_to_p2p_message">Після ввімкнення функції Wi-Fi Direct точка дос. Wi-Fi вимкнеться.</string>
+    <string name="beam_failed_wifi_on_nocoex">Збій функції Beam через увімкнення Wi-Fi</string>
+    <string name="beam_failed_tether_on_nocoex">Збій Beam через увімкнення точки дос. Wi-Fi</string>
+    <string name="routing_table_full">Таблиця маршрутизації заповнена. Видаліть деякі платіжні програми.</string>
+    <string name="nfc_enabled_dialog">NFC має бути ввімкнено. Увімкнути?</string>
+    <string name="nfc_enabled_tittle">Примітка</string>
+    <string name="nfc_not_enabled_user_restriction">Цьому користувачу не дозволяється вмикати функцію NFC.</string>
+</resources>

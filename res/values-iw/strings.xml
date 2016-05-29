@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">שירות NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">גע כדי להקרין</string>
+    <string name="beam_progress">קרן נכנסת...</string>
+    <string name="beam_outgoing">מעביר תוכן...</string>
+    <string name="beam_complete">הקרנה הושלמה</string>
+    <string name="beam_failed">הקרן לא הושלמה</string>
+    <string name="beam_canceled">הקרן בוטלה</string>
+    <string name="cancel">ביטול</string>
+    <string name="beam_touch_to_view">גע כדי להציג</string>
+    <string name="beam_handover_not_supported_Toast">המכשיר המקבל אינו תומך בהעברת קובץ גדול באמצעות קרן.</string>
+    <string name="beam_try_again">קרב שוב את המכשירים</string>
+    <string name="beam_busy">‏Beam אינו פנוי כעת. נסה שוב לאחר השלמת ההעברה הקודמת.</string>
+    <string name="device">המכשיר</string>
+    <string name="connecting_peripheral">מתחבר אל <subnode ref="en" index="1">‪‎%1$s‬</subnode>…</string>
+    <string name="connected_peripheral">מחובר אל <subnode ref="en" index="1">‪‎%1$s‬</subnode>.</string>
+    <string name="connect_peripheral_failed">לא ניתן להתחבר אל <subnode ref="en" index="1">‪‎%1$s‬</subnode>.</string>
+    <string name="disconnecting_peripheral">מתנתק מ-<subnode ref="en" index="1">‪‎%1$s‬</subnode>…</string>
+    <string name="disconnected_peripheral">מנותק מ-<subnode ref="en" index="1">‪‎%1$s‬ </subnode>.</string>
+    <string name="pairing_peripheral">התאמה עם <subnode ref="en" index="1">‪‎%1$s‬</subnode>…</string>
+    <string name="pairing_peripheral_failed">אין אפשרות לבצע התאמה עם <subnode ref="en" index="1">‪‎%1$s‬</subnode>.</string>
+    <string name="failed_to_enable_bt">לא ניתן להפעיל Bluetooth</string>
+    <string name="confirm_pairing">האם אתה בטוח שאתה רוצה להתאים את מכשיר ה-Bluetooth %1$s?</string>
+    <string name="pair_yes">כן</string>
+    <string name="pair_no">לא</string>
+    <string name="tap_again_to_pay">הקש שוב כדי לשלם באמצעות %1$s</string>
+    <string name="tap_again_to_complete">הקש שוב כדי להשלים באמצעות %1$s</string>
+    <string name="transaction_failure">לא ניתן היה להשלים את העסקה הזו באמצעות %1$s.</string>
+    <string name="could_not_use_app">לא ניתן היה להשתמש ב-%1$s.</string>
+    <string name="pay_with">שלם באמצעות</string>
+    <string name="complete_with">השלם באמצעות</string>
+    <string name="default_pay_app_removed">השירות המועדף שלך להקש ושלם, הוסר. לבחור אחר?</string>
+    <string name="ask_nfc_tap">גע במכשיר אחר כדי להשלים</string>
+    <string name="wifi_connect">התחבר</string>
+    <string name="status_unable_to_connect">לא ניתן להתחבר לרשת</string>
+    <string name="status_wifi_connected">מחובר</string>
+    <string name="title_connect_to_network">התחבר לרשת</string>
+    <string name="prompt_connect_to_network">להתחבר לרשת %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam צריך ש-NFC יופעל. להפעיל עכשיו?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC התקבל</string>
+    <string name="unknown_file">קובץ לא ידוע</string>
+    <string name="unknown_device">מכשיר לא ידוע</string>
+    <string name="status_unknown_error">שגיאה לא מוכרת</string>
+    <string name="transfer_menu_open">פתח</string>
+    <string name="no_transfers">אין קבצים</string>
+    <string name="transfer_menu_clear_all">נקה רשימה</string>
+    <string name="transfer_clear_dlg_title">נקה</string>
+    <string name="transfer_clear_dlg_msg">כל הקבצים שהתקבלו יימחקו.</string>
+    <string name="transfer_failed_network">שגיאת רשת, ההעברה נכשלה</string>
+    <string name="transfer_failed_cancel">ההעברה בוטלה</string>
+    <string name="storage_space_not_enough_Toast">אין מספיק מקום בזיכרון. לא ניתן לשמור את הקובץ.</string>
+    <string name="nfc_confirm_pairing">לצמד עם מכשיר Bluetooth ‫‏‬%1$s?</string>
+    <string name="nfc_pairing_request">בקשת צימוד NFC</string>
+    <string name="nfc_pairing_accept">התאם</string>
+    <string name="nfc_pairing_decline">ביטול</string>
+    <string name="from_target_device">מ: ‪‎%1$s‬</string>
+    <string name="file_name">שם קובץ : ‪‎%1$s‬</string>
+    <string name="file_size">גודל קובץ : ‪‎%1$s‬</string>
+    <string name="transfer_dlg_title">העברת קובץ</string>
+    <string name="transfer_dlg_stop">עצור</string>
+    <string name="transfer_dlg_hide">מזער</string>
+    <string name="download_success">%1$s שהתקבלו הושלמו.</string>
+    <string name="not_exist_file_desc_Toast">"הקובץ לא קיים. "</string>
+    <string name="start_send_Toast">השידור יתחיל.</string>
+    <string name="touch_pair">גע כדי לצמד</string>
+    <string name="touch_share_ap">גע כדי להתחבר</string>
+    <string name="touch_share_wlan">גע כדי לשתף את חיבור הרשת שלך</string>
+    <string name="touch_cannot_share_wlan">אין רשתות לשיתוף</string>
+    <string name="bluetooth_pair_success">הצימוד הושלם בהצלחה.</string>
+    <string name="wifidirect_pair_success">הצימוד הושלם בהצלחה.</string>
+    <string name="pair_failed">הצימוד נכשל.</string>
+    <string name="softap_share_success">הנקודה החמה משותפת. המכשיר האחר מחובר כעת למכשיר שלך.</string>
+    <string name="softap_share_failed">שיתוף חיבור הרשת נכשל.</string>
+    <string name="share_wlan_success">פרטי רשת Wi-Fi שותפו.</string>
+    <string name="otherside_not_support_pair_Toast">המכשיר האחר אינו תואם. לא ניתן לצמד.</string>
+    <string name="nfc_url_title">בקשת NFC</string>
+    <string name="nfc_url_body">"לפתוח את הקישור בתגית URL זו? "</string>
+    <string name="no_longer_nfc_url">אל תזכיר שוב</string>
+    <string name="wifi_to_p2p_message">הפעלת Wi-Fi Direct תשבית את ה-Wi-Fi.</string>
+    <string name="tether_to_p2p_message">הפעלת Wi-Fi Direct תשבית את הנקודה החמה של Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Beam נכשל כי Wi-Fi מופעל</string>
+    <string name="beam_failed_tether_on_nocoex">Beam נכשל כי נקודה חמה של Wi-Fi מופעלת</string>
+    <string name="routing_table_full">טבלת הניתוב מלאה. הסר התקנה של חלק מיישומי התשלום.</string>
+    <string name="nfc_enabled_dialog">יש להפעיל NFC. להפעיל?</string>
+    <string name="nfc_enabled_tittle">הערה</string>
+    <string name="nfc_not_enabled_user_restriction">משתמש זה אינו מורשה להפעיל את שירות NFC.</string>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Служба NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Нажмите, чтобы передать данные</string>
+    <string name="beam_progress">Получение данных…</string>
+    <string name="beam_outgoing">Передача данных...</string>
+    <string name="beam_complete">Передача данных завершена</string>
+    <string name="beam_failed">Передача данных не завершена</string>
+    <string name="beam_canceled">Передача данных отменена</string>
+    <string name="cancel">Отмена</string>
+    <string name="beam_touch_to_view">Нажмите для просмотра</string>
+    <string name="beam_handover_not_supported_Toast">Устройство получателя не поддерживает передачу больших объемов данных через Android Beam.</string>
+    <string name="beam_try_again">Повторить попытку</string>
+    <string name="beam_busy">Передавать данные пока нельзя. Повторите попытку после окончания предыдущего сеанса.</string>
+    <string name="device">устройство</string>
+    <string name="connecting_peripheral">Подключение к: <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Подключено к: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Сбой подключения к: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Отключение от: <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Отключено от: <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Сопряжение с <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Ошибка сопряжения с <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
+    <string name="confirm_pairing">Подключить Bluetooth-устройство %1$s?</string>
+    <string name="pair_yes">Да</string>
+    <string name="pair_no">Нет</string>
+    <string name="tap_again_to_pay">Нажмите еще раз, чтобы оплатить с помощью %1$s</string>
+    <string name="tap_again_to_complete">Нажмите еще раз, чтобы завершить транзакцию с помощью %1$s</string>
+    <string name="transaction_failure">Для этой операции нельзя использовать приложение \"%1$s\"</string>
+    <string name="could_not_use_app">Невозможно использовать приложение \"%1$s\"</string>
+    <string name="pay_with">Способ оплаты</string>
+    <string name="complete_with">Использовать</string>
+    <string name="default_pay_app_removed">Предпочтительный сервис оплаты касанием удален. Выбрать другой?</string>
+    <string name="ask_nfc_tap">Нажмите на экран другого устройства</string>
+    <string name="wifi_connect">Подключиться</string>
+    <string name="status_unable_to_connect">Не удалось подключиться к сети</string>
+    <string name="status_wifi_connected">Соединение установлено</string>
+    <string name="title_connect_to_network">Подключение к сети</string>
+    <string name="prompt_connect_to_network">Подключиться к сети %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Для работы Huawei Beam требуется включить NFC. Включить?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Принятые по NFC</string>
+    <string name="unknown_file">Неизвестный файл</string>
+    <string name="unknown_device">Неизвестное устройство</string>
+    <string name="status_unknown_error">Неизвестная ошибка</string>
+    <string name="transfer_menu_open">Открыть</string>
+    <string name="no_transfers">Нет файлов</string>
+    <string name="transfer_menu_clear_all">Очистить список</string>
+    <string name="transfer_clear_dlg_title">Очистить</string>
+    <string name="transfer_clear_dlg_msg">Все принятые файлы удалены.</string>
+    <string name="transfer_failed_network">Ошибка сети. Сбой передачи.</string>
+    <string name="transfer_failed_cancel">Передача отменена.</string>
+    <string name="storage_space_not_enough_Toast">Недостаточно памяти. Невозможно сохранить файл.</string>
+    <string name="nfc_confirm_pairing">Выполнить сопряжение с Bluetooth-устройством %1$s?</string>
+    <string name="nfc_pairing_request">Запрос на сопряжение по NFC</string>
+    <string name="nfc_pairing_accept">Сопряжение</string>
+    <string name="nfc_pairing_decline">Отмена</string>
+    <string name="from_target_device">От: %1$s</string>
+    <string name="file_name">Имя файла: %1$s</string>
+    <string name="file_size">Размер файла: %1$s</string>
+    <string name="transfer_dlg_title">Передача файла</string>
+    <string name="transfer_dlg_stop">Остановить</string>
+    <string name="transfer_dlg_hide">Скрыть</string>
+    <string name="download_success">Получено: %1$s.</string>
+    <string name="not_exist_file_desc_Toast">Такой файл не существует.</string>
+    <string name="start_send_Toast">Передача скоро начнется.</string>
+    <string name="touch_pair">Нажмите для сопряжения</string>
+    <string name="touch_share_ap">Нажмите для подключения</string>
+    <string name="touch_share_wlan">Нажмите для включения режима точки доступа</string>
+    <string name="touch_cannot_share_wlan">Нет доступных сетей</string>
+    <string name="bluetooth_pair_success">Сопряжение установлено.</string>
+    <string name="wifidirect_pair_success">Сопряжение установлено.</string>
+    <string name="pair_failed">Сбой сопряжения.</string>
+    <string name="softap_share_success">Режим точки доступа включен. К Вашему устройству подключено другое устройство.</string>
+    <string name="softap_share_failed">Сбой включения режима точки доступа.</string>
+    <string name="share_wlan_success">Данные сети Wi-Fi отправлены.</string>
+    <string name="otherside_not_support_pair_Toast">Подключаемое устройство несовместимо. Сопряжение невозможно.</string>
+    <string name="nfc_url_title">NFC-запрос</string>
+    <string name="nfc_url_body">"Открыть тег (URL-адрес)? "</string>
+    <string name="no_longer_nfc_url">Больше не напоминать</string>
+    <string name="wifi_to_p2p_message">Включение Wi-Fi Direct выключит сеть Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Включение Wi-Fi Direct выключит точку доступа Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Сбой Beam. Сеть Wi-Fi включена</string>
+    <string name="beam_failed_tether_on_nocoex">Сбой Beam. Точка доступа Wi-Fi включена</string>
+    <string name="routing_table_full">Таблица маршрутизации заполнена. Удалите некоторые платежные приложения.</string>
+    <string name="nfc_enabled_dialog">Требуется включить NFC. Включить?</string>
+    <string name="nfc_enabled_tittle">Внимание</string>
+    <string name="nfc_not_enabled_user_restriction">Этот пользователь не может включить NFC.</string>
+</resources>

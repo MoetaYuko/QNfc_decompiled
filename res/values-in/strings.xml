@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layanan NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Sentuh untuk menyorot</string>
+    <string name="beam_progress">Pancaran yang masuk...</string>
+    <string name="beam_outgoing">Memancarkan...</string>
+    <string name="beam_complete">Beam selesai</string>
+    <string name="beam_failed">Beam tidak lengkap</string>
+    <string name="beam_canceled">Beam dibatalkan</string>
+    <string name="cancel">Batal</string>
+    <string name="beam_touch_to_view">Sentuh untuk melihat</string>
+    <string name="beam_handover_not_supported_Toast">Perangkat penerima tidak mendukung transfer file besar melalui beam.</string>
+    <string name="beam_try_again">Kumpulkan lagi perangkatnya</string>
+    <string name="beam_busy">Beam sedang sibuk. Coba lagi jika transfer sebelumnya telah selesai.</string>
+    <string name="device">perangkat</string>
+    <string name="connecting_peripheral">Terhubung ke <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Terhubung ke <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Tidak dapat menghubung ke <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Terputus dari <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="disconnected_peripheral">Terputus dari <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="pairing_peripheral">Berpasangan dengan <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Tidak dapat berpasangan dengan <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Tak dapat mengaktifkan Bluetooth</string>
+    <string name="confirm_pairing">Yakin ingin menyandingkan perangkat Bluetooth %1$s?</string>
+    <string name="pair_yes">Ya</string>
+    <string name="pair_no">Tidak</string>
+    <string name="tap_again_to_pay">Sentuh lagi untuk membayar dengan %1$s</string>
+    <string name="tap_again_to_complete">Sentuh lagi untuk menyelesaikan transaksi dengan %1$s</string>
+    <string name="transaction_failure">Transaksi ini tidak dapat diselesaikan dengan %1$s.</string>
+    <string name="could_not_use_app">Tidak dapat menggunakan %1$s.</string>
+    <string name="pay_with">Bayar dengan</string>
+    <string name="complete_with">Selesaikan dengan</string>
+    <string name="default_pay_app_removed">Layanan yang Anda sukai untuk melakukan sentuh &amp; bayar telah dihapus. Pilih yang lain?</string>
+    <string name="ask_nfc_tap">Sentuh perangkat lain untuk menyelesaikan</string>
+    <string name="wifi_connect">Sambungkan</string>
+    <string name="status_unable_to_connect">Tidak dapat menyambung ke jaringan</string>
+    <string name="status_wifi_connected">Tersambung</string>
+    <string name="title_connect_to_network">Sambungkan ke jaringan</string>
+    <string name="prompt_connect_to_network">Sambungkan ke jaringan %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam memerlukan pengaktifan NFC. Aktifkan sekarang?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC diterima</string>
+    <string name="unknown_file">File tidak diketahui</string>
+    <string name="unknown_device">Perangkat tidak diketahui</string>
+    <string name="status_unknown_error">Galat tidak dikenal</string>
+    <string name="transfer_menu_open">Buka</string>
+    <string name="no_transfers">Tidak ada file</string>
+    <string name="transfer_menu_clear_all">Hapus daftar</string>
+    <string name="transfer_clear_dlg_title">Bersihkan</string>
+    <string name="transfer_clear_dlg_msg">Semua file yang masuk akan dihapus.</string>
+    <string name="transfer_failed_network">Kesalahan jaringan, transfer gagal</string>
+    <string name="transfer_failed_cancel">Transfer dibatalkan</string>
+    <string name="storage_space_not_enough_Toast">Tempat penyimpanan tidak cukup. Tidak bisa menyimpan berkas.</string>
+    <string name="nfc_confirm_pairing">Pasangkan dengan perangkat Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Permintaan memasangkan NFC</string>
+    <string name="nfc_pairing_accept">Pasangan</string>
+    <string name="nfc_pairing_decline">Batal</string>
+    <string name="from_target_device">Dari: %1$s</string>
+    <string name="file_name">Nama file: %1$s</string>
+    <string name="file_size">Ukuran file: %1$s</string>
+    <string name="transfer_dlg_title">Transfer file</string>
+    <string name="transfer_dlg_stop">Hentikan</string>
+    <string name="transfer_dlg_hide">Minimalkan</string>
+    <string name="download_success">%1$s Telah selesai diterima.</string>
+    <string name="not_exist_file_desc_Toast">File tersebut tidak ada.</string>
+    <string name="start_send_Toast">Transmisi akan dimulai.</string>
+    <string name="touch_pair">Sentuh untuk memasangkan</string>
+    <string name="touch_share_ap">Sentuh untuk menyambungkan</string>
+    <string name="touch_share_wlan">Sentuh untuk berbagi sambungan data Anda</string>
+    <string name="touch_cannot_share_wlan">Tidak ada jaringan untuk dibagi</string>
+    <string name="bluetooth_pair_success">Berhasil dipasangkan.</string>
+    <string name="wifidirect_pair_success">Berhasil dipasangkan.</string>
+    <string name="pair_failed">Gagal dipasangkan.</string>
+    <string name="softap_share_success">Hotspot berbagi. Perangkat pasangan sekarang tersambung ke perangkat Anda.</string>
+    <string name="softap_share_failed">Gagal untuk berbagi sambungan data Anda.</string>
+    <string name="share_wlan_success">Informasi jaringan Wi-Fi dibagi.</string>
+    <string name="otherside_not_support_pair_Toast">Perangkat pasangan tidak kompatibel. Tak dapat memasangkan.</string>
+    <string name="nfc_url_title">Permintaan NFC</string>
+    <string name="nfc_url_body">"Buka tautan di dalam tag URL ini? "</string>
+    <string name="no_longer_nfc_url">Jangan ingatkan lagi</string>
+    <string name="wifi_to_p2p_message">Menghidupkan Wi-Fi Direct akan menonaktifkan Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Menghidupkan Wi-Fi Direct akan menonaktifkan hotspot Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Beam gagal karena Wi-Fi aktif</string>
+    <string name="beam_failed_tether_on_nocoex">Beam gagal karena hotspot Wi-Fi aktif</string>
+    <string name="routing_table_full">Tabel rute penuh. Harap hapus instalasi beberapa aplikasi pembayaran.</string>
+    <string name="nfc_enabled_dialog">NFC harus diaktifkan. Aktifkan?</string>
+    <string name="nfc_enabled_tittle">Catatan</string>
+    <string name="nfc_not_enabled_user_restriction">Pengguna ini tidak diizinkan untuk mengaktifkan layanan NFC.</string>
+</resources>

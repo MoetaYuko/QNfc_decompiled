@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خدمة NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">المس لرسم شعاع</string>
+    <string name="beam_progress">شعاع وارد...</string>
+    <string name="beam_outgoing">إرسال لاسلكي...</string>
+    <string name="beam_complete">اكتمل الشعاع</string>
+    <string name="beam_failed">لم يكتمل الشعاع</string>
+    <string name="beam_canceled">تم إلغاء الشعاع</string>
+    <string name="cancel">إلغاء</string>
+    <string name="beam_touch_to_view">المس ليتم العرض</string>
+    <string name="beam_handover_not_supported_Toast">جهاز المستلم لا يوفر نقل ملفات كبيرة عبر الشعاع.</string>
+    <string name="beam_try_again">تجميع الأجهزة معًا من جديد</string>
+    <string name="beam_busy">الشعاع مشغول حاليًا. يمكنك إعادة المحاولة عند اكتمال عملية النقل السابقة.</string>
+    <string name="device">الجهاز</string>
+    <string name="connecting_peripheral">جارِ الاتصال بالجهاز \"<subnode ref="en" index="1">%1$s</subnode>\"…</string>
+    <string name="connected_peripheral">تم الاتصال بالجهاز \"<subnode ref="en" index="1">%1$s</subnode>\".</string>
+    <string name="connect_peripheral_failed">تعذر الاتصال بالجهاز \"<subnode ref="en" index="1">%1$s</subnode>\".</string>
+    <string name="disconnecting_peripheral">جاري قطع الاتصال عن الجهاز \"<subnode ref="en" index="1">%1$s</subnode>\"…</string>
+    <string name="disconnected_peripheral">تم قطع الاتصال عن الجهاز \"<subnode ref="en" index="1">%1$s</subnode>\".</string>
+    <string name="pairing_peripheral">جارِ الاقتران مع الجهاز \"<subnode ref="en" index="1">%1$s</subnode>\"…</string>
+    <string name="pairing_peripheral_failed">تعذر الاقتران مع الجهاز \"<subnode ref="en" index="1">%1$s</subnode>\".</string>
+    <string name="failed_to_enable_bt">لا يمكن تمكين البلوتوث</string>
+    <string name="confirm_pairing">هل تريد بالتأكيد إقران جهاز بلوتوث %1$s؟</string>
+    <string name="pair_yes">نعم</string>
+    <string name="pair_no">لا</string>
+    <string name="tap_again_to_pay">اللمس مرة أخرى للدفع مع %1$s</string>
+    <string name="tap_again_to_complete">اللمس مرة أخرى لاستكمال العملية مع %1$s</string>
+    <string name="transaction_failure">تعذر إكمال هذه المعاملة باستخدام %1$s.</string>
+    <string name="could_not_use_app">تعذر استخدام %1$s.</string>
+    <string name="pay_with">الدفع بواسطة</string>
+    <string name="complete_with">إكمال باستخدام</string>
+    <string name="default_pay_app_removed">تم إزالة خدمتك المفضلة المتعلقة بخدمة المس وادفع. هل تريد اختيار خدمة بديلة؟</string>
+    <string name="ask_nfc_tap">انقر على الجهاز الآخر لإتمام العملية</string>
+    <string name="wifi_connect">اتصال</string>
+    <string name="status_unable_to_connect">تعذر الاتصال بالشبكة</string>
+    <string name="status_wifi_connected">تم الاتصال</string>
+    <string name="title_connect_to_network">الاتصال بالشبكة</string>
+    <string name="prompt_connect_to_network">هل تريد الاتصال بالشبكة %1$s؟</string>
+    <string name="beam_requires_nfc_enabled">يحتاج تطبيق \"Huawei Beam\" إلى تمكين NFC. هل تريد تمكينه الآن؟</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">الملفات المستلمة عبر NFC</string>
+    <string name="unknown_file">ملف غير معروف</string>
+    <string name="unknown_device">جهاز غير معروف</string>
+    <string name="status_unknown_error">خطأ غير معروف</string>
+    <string name="transfer_menu_open">فتح</string>
+    <string name="no_transfers">لا توجد ملفات</string>
+    <string name="transfer_menu_clear_all">محو القائمة</string>
+    <string name="transfer_clear_dlg_title">محو</string>
+    <string name="transfer_clear_dlg_msg">سيتم حذف جميع الملفات المستلمة.</string>
+    <string name="transfer_failed_network">خطأ في الشبكة. فشل النقل</string>
+    <string name="transfer_failed_cancel">تم إلغاء النقل</string>
+    <string name="storage_space_not_enough_Toast">مساحة التخزين غير كافية. تعذر حفظ الملف.</string>
+    <string name="nfc_confirm_pairing">الإقتران بجهاز البلوتوث %1$s؟</string>
+    <string name="nfc_pairing_request">طلب اقتران NFC</string>
+    <string name="nfc_pairing_accept">اقتران</string>
+    <string name="nfc_pairing_decline">إلغاء</string>
+    <string name="from_target_device">من: %1$s</string>
+    <string name="file_name">اسم الملف: %1$s</string>
+    <string name="file_size">حجم الملف: %1$s</string>
+    <string name="transfer_dlg_title">نقل الملف</string>
+    <string name="transfer_dlg_stop">إيقاف</string>
+    <string name="transfer_dlg_hide">تصغير</string>
+    <string name="download_success">تم استلام %1$s.</string>
+    <string name="not_exist_file_desc_Toast">الملف غير موجود.</string>
+    <string name="start_send_Toast">بدء عملية النقل.</string>
+    <string name="touch_pair">المس للإقران</string>
+    <string name="touch_share_ap">المس للتوصيل</string>
+    <string name="touch_share_wlan">المس لمشاركة اتصال الشبكة</string>
+    <string name="touch_cannot_share_wlan">لا توجد شبكات لمشاركتها</string>
+    <string name="bluetooth_pair_success">تم الإقران بنجاح.</string>
+    <string name="wifidirect_pair_success">تم الإقران بنجاح.</string>
+    <string name="pair_failed">فشل الإقران.</string>
+    <string name="softap_share_success">تم مشاركة نقطة الاتصال. الجهاز النظير متصل الآن بجهازك.</string>
+    <string name="softap_share_failed">فشل مشاركة اتصال الشبكة.</string>
+    <string name="share_wlan_success">تمت مشاركة معلومات شبكة Wi-Fi.</string>
+    <string name="otherside_not_support_pair_Toast">الجهاز النظير غير متوافق. لا يمكن إجراء اقتران.</string>
+    <string name="nfc_url_title">طلب عبر NFC</string>
+    <string name="nfc_url_body">"هل تريد فتح الموقع الموجود في علامة الرابط هذه؟ "</string>
+    <string name="no_longer_nfc_url">عدم التذكير مرة أخرى</string>
+    <string name="wifi_to_p2p_message">تشغيل Wi-Fi Direct سوف يعطِّل Wi-Fi.</string>
+    <string name="tether_to_p2p_message">تشغيل Wi-Fi Direct سوف يعطِّل نقطة اتصال Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">تعذر تشغيل Beam لأن Wi-Fi قيد التشغيل</string>
+    <string name="beam_failed_tether_on_nocoex">تعذر تشغيل Beam لأن نقطة اتصال Wi-Fi قيد التشغيل</string>
+    <string name="routing_table_full">جدول المسارات ممتلئ. يُرجى إزالة تثبيت بعض تطبيقات الدفع.</string>
+    <string name="nfc_enabled_dialog">يجب تمكين خاصية NFC. هل تريد تمكينها؟</string>
+    <string name="nfc_enabled_tittle">ملاحظة</string>
+    <string name="nfc_not_enabled_user_restriction">هذا المستخدم غير مسموح له القيام بتمكين خدمة NFC.</string>
+</resources>

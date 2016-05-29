@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC-услуга</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Допри за зрак</string>
+    <string name="beam_progress">Дојдовен зрак...</string>
+    <string name="beam_outgoing">Зрачење...</string>
+    <string name="beam_complete">Зракот заврши</string>
+    <string name="beam_failed">Зракот не заврши</string>
+    <string name="beam_canceled">Зракот е откажан</string>
+    <string name="cancel">Откажи</string>
+    <string name="beam_touch_to_view">Допри за прегледување</string>
+    <string name="beam_handover_not_supported_Toast">Уредот на примачот не поддржува пренос на големи датотеки преку зрак.</string>
+    <string name="beam_try_again">Повторно доближете ги уредите</string>
+    <string name="beam_busy">Beam е моментално зафатен. Обидете се повторно кога ќе заврши претходниот пренос.</string>
+    <string name="device">уредот</string>
+    <string name="connecting_peripheral">Поврзување со <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="connected_peripheral">Поврзан на <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Не можеше да се поврзе со <subnode ref="en" index="1">%1$s</subnode></string>
+    <string name="disconnecting_peripheral">Прекинување на врската со <subnode ref="en" index="1">%1$s</subnode>...</string>
+    <string name="disconnected_peripheral">Прекината е врската со <subnode ref="en" index="1">%1$s </subnode>.</string>
+    <string name="pairing_peripheral">Спарување со <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Не можеше да се спари со <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Не може да се овозможи Bluetooth</string>
+    <string name="confirm_pairing">Дали сте сигурни дека сакате да го спарите уредот со Bluetooth %1$s?</string>
+    <string name="pair_yes">Да</string>
+    <string name="pair_no">Не</string>
+    <string name="tap_again_to_pay">Допрете повторно за да платите со %1$s</string>
+    <string name="tap_again_to_complete">Допрете повторно за да ја извршите трансакцијата со %1$s</string>
+    <string name="transaction_failure">Оваа трансакција не може да се изврши со %1$s.</string>
+    <string name="could_not_use_app">Не можеше да користи %1$s.</string>
+    <string name="pay_with">Плати со</string>
+    <string name="complete_with">Изврши со</string>
+    <string name="default_pay_app_removed">Претпочитаната услуга за потчукни и плати е отстранета. Ќе изберете друга?</string>
+    <string name="ask_nfc_tap">Допрете друг уред за завршување на операцијата</string>
+    <string name="wifi_connect">Поврзи</string>
+    <string name="status_unable_to_connect">Не може да се поврзе на мрежата</string>
+    <string name="status_wifi_connected">Поврзано</string>
+    <string name="title_connect_to_network">Поврзи се на мрежа</string>
+    <string name="prompt_connect_to_network">Да се поврзе на мрежата %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam бара да се овозможи NFC. Да се овозможи сега?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">Добиени преку NFC</string>
+    <string name="unknown_file">Непозната датотека</string>
+    <string name="unknown_device">Непознат уред</string>
+    <string name="status_unknown_error">Непозната грешка</string>
+    <string name="transfer_menu_open">Отвори</string>
+    <string name="no_transfers">Нема датотеки</string>
+    <string name="transfer_menu_clear_all">Исчисти список</string>
+    <string name="transfer_clear_dlg_title">Исчисти</string>
+    <string name="transfer_clear_dlg_msg">"Сите примени датотеки ќе се избришат. "</string>
+    <string name="transfer_failed_network">Грешка на мрежата, префрлувањето не успеа</string>
+    <string name="transfer_failed_cancel">Префрлувањето е откажано</string>
+    <string name="storage_space_not_enough_Toast">Нема доволно мемориски простор. Не може да се зачува датотеката.</string>
+    <string name="nfc_confirm_pairing">Дали сакаш да се поврзеш со уредот на Bluetooth %1$s?</string>
+    <string name="nfc_pairing_request">Барање за поврзување во NFC</string>
+    <string name="nfc_pairing_accept">Спарување</string>
+    <string name="nfc_pairing_decline">Откажи</string>
+    <string name="from_target_device">Од: %1$s</string>
+    <string name="file_name">Име на датотека: %1$s</string>
+    <string name="file_size">Големина на датотека: %1$s</string>
+    <string name="transfer_dlg_title">Пренос на датотеки</string>
+    <string name="transfer_dlg_stop">Прекини</string>
+    <string name="transfer_dlg_hide">Минимизирај</string>
+    <string name="download_success">%1$sПримањето е комплетирано.</string>
+    <string name="not_exist_file_desc_Toast">Датотеката не постои.</string>
+    <string name="start_send_Toast">Преносот ќе започне.</string>
+    <string name="touch_pair">Допри за поврзување</string>
+    <string name="touch_share_ap">Допри за поврзување</string>
+    <string name="touch_share_wlan">Допри за споделување на интернет врската</string>
+    <string name="touch_cannot_share_wlan">Нема мрежи за споделување</string>
+    <string name="bluetooth_pair_success">Поврзувањето е успешно.</string>
+    <string name="wifidirect_pair_success">Поврзувањето е успешно.</string>
+    <string name="pair_failed">Поврзувањето не успеа.</string>
+    <string name="softap_share_success">Точката со Wi-Fi е споделена. Истородниот уред сега е поврзан со твојот уред.</string>
+    <string name="softap_share_failed">Споделувањето на интернет врската не успеа.</string>
+    <string name="share_wlan_success">Информациите за Wi-Fi-мрежата се споделени.</string>
+    <string name="otherside_not_support_pair_Toast">Истородниот уред не е компатибилен. Не може да се поврзе.</string>
+    <string name="nfc_url_title">Барање за NFC</string>
+    <string name="nfc_url_body">"Да се отвори врската во оваа ознака за URL? "</string>
+    <string name="no_longer_nfc_url">Не потсетувај пак</string>
+    <string name="wifi_to_p2p_message">Со вклучувањето Wi-Fi Директ ќе се оневозможи Wi-Fi.</string>
+    <string name="tether_to_p2p_message">Со вклучувањето Wi-Fi Директ ќе се оневозможи точка со Wi-Fi.</string>
+    <string name="beam_failed_wifi_on_nocoex">Праќ. преку Beam не успеа поради вклуч. Wi-Fi</string>
+    <string name="beam_failed_tether_on_nocoex">Праќ. преку Beam не успеа поради вклуч. точка со Wi-Fi</string>
+    <string name="routing_table_full">Насочувачката табела е полна. Одинсталирајте неколку апликации за плаќање.</string>
+    <string name="nfc_enabled_dialog">Мора да е овозможено NFC. Да се овозможи?</string>
+    <string name="nfc_enabled_tittle">Белешка</string>
+    <string name="nfc_not_enabled_user_restriction">На овој корисник не му е дозволено да ја овозможи услугата за NFC.</string>
+</resources>

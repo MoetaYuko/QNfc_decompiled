@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC-service</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="touch">Tikken om uit te zenden</string>
+    <string name="beam_progress">Inkomende beam...</string>
+    <string name="beam_outgoing">Beamen...</string>
+    <string name="beam_complete">Beam voltooid</string>
+    <string name="beam_failed">Beam niet voltooid</string>
+    <string name="beam_canceled">Beam geannuleerd</string>
+    <string name="cancel">Annuleren</string>
+    <string name="beam_touch_to_view">Raak aan om te bekijken</string>
+    <string name="beam_handover_not_supported_Toast">Het apparaat van de ontvanger ondersteunt de overdracht van grote bestanden via beam niet.</string>
+    <string name="beam_try_again">Houd de apparaten nogmaals tegen elkaar</string>
+    <string name="beam_busy">Beam is momenteel bezet. Probeer het opnieuw zodra de huidige overdracht is voltooid.</string>
+    <string name="device">het apparaat</string>
+    <string name="connecting_peripheral">Verbinding maken met <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="connected_peripheral">Verbonden met <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="connect_peripheral_failed">Kan niet verbinden met <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="disconnecting_peripheral">Verbinding met <subnode ref="en" index="1">%1$s</subnode> verbreken…</string>
+    <string name="disconnected_peripheral">Verbinding met <subnode ref="en" index="1">%1$s</subnode> verbroken.</string>
+    <string name="pairing_peripheral">Koppelen met <subnode ref="en" index="1">%1$s</subnode>…</string>
+    <string name="pairing_peripheral_failed">Kan niet koppelen met <subnode ref="en" index="1">%1$s</subnode>.</string>
+    <string name="failed_to_enable_bt">Kan Bluetooth niet inschakelen</string>
+    <string name="confirm_pairing">Weet u zeker dat u het Bluetooth-apparaat %1$s wilt koppelen?</string>
+    <string name="pair_yes">Ja</string>
+    <string name="pair_no">Nee</string>
+    <string name="tap_again_to_pay">Raak opnieuw aan om te betalen met %1$s</string>
+    <string name="tap_again_to_complete">Raak opnieuw aan om de transactie te voltooien met %1$s</string>
+    <string name="transaction_failure">Deze transactie kan niet worden voltooid met %1$s.</string>
+    <string name="could_not_use_app">Kan %1$s niet gebruiken.</string>
+    <string name="pay_with">Betalen met</string>
+    <string name="complete_with">Voltooien met</string>
+    <string name="default_pay_app_removed">"Uw favoriete service voor 'Tikken &amp; betalen' werd verwijderd. Andere kiezen?"</string>
+    <string name="ask_nfc_tap">Tik op een ander toestel om te voltooien</string>
+    <string name="wifi_connect">Verbinding maken</string>
+    <string name="status_unable_to_connect">Kan geen verbinding maken met het netwerk</string>
+    <string name="status_wifi_connected">Verbonden</string>
+    <string name="title_connect_to_network">Verbinding maken met netwerk</string>
+    <string name="prompt_connect_to_network">Verbinding maken met netwerk %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Huawei Beam vereist dat NFC ingeschakeld is. Nu inschakelen?</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="nfc_live_folder">NFC ontvangen</string>
+    <string name="unknown_file">Onbekend bestand</string>
+    <string name="unknown_device">Onbekend apparaat</string>
+    <string name="status_unknown_error">Onbekende fout</string>
+    <string name="transfer_menu_open">Openen</string>
+    <string name="no_transfers">Geen bestanden</string>
+    <string name="transfer_menu_clear_all">Lijst wissen</string>
+    <string name="transfer_clear_dlg_title">Wissen</string>
+    <string name="transfer_clear_dlg_msg">Alle ontvangen bestanden worden verwijderd.</string>
+    <string name="transfer_failed_network">Netwerkfout, overdracht mislukt.</string>
+    <string name="transfer_failed_cancel">Overdracht geannuleerd</string>
+    <string name="storage_space_not_enough_Toast">Onvoldoende opslagruimte. Kan het bestand niet opslaan.</string>
+    <string name="nfc_confirm_pairing">Paren met het Bluetooth-apparaat %1$s?</string>
+    <string name="nfc_pairing_request">NFC-koppelingsverzoek</string>
+    <string name="nfc_pairing_accept">Koppelen</string>
+    <string name="nfc_pairing_decline">Annuleren</string>
+    <string name="from_target_device">Van: %1$s</string>
+    <string name="file_name">Bestandsnaam: %1$s</string>
+    <string name="file_size">Bestandsgrootte: %1$s</string>
+    <string name="transfer_dlg_title">Bestandsoverdracht</string>
+    <string name="transfer_dlg_stop">Stoppen</string>
+    <string name="transfer_dlg_hide">Minimaliseren</string>
+    <string name="download_success">%1$s ontvangen voltooid.</string>
+    <string name="not_exist_file_desc_Toast">Het bestand bestaat niet.</string>
+    <string name="start_send_Toast">Overdracht start.</string>
+    <string name="touch_pair">Raak aan om te koppelen</string>
+    <string name="touch_share_ap">Raak aan om te verbinden</string>
+    <string name="touch_share_wlan">Raak aan om uw netwerkverbinding te delen</string>
+    <string name="touch_cannot_share_wlan">Geen netwerken om te delen.</string>
+    <string name="bluetooth_pair_success">Succesvol gekoppeld.</string>
+    <string name="wifidirect_pair_success">Succesvol gekoppeld.</string>
+    <string name="pair_failed">Koppelen mislukt.</string>
+    <string name="softap_share_success">Hotspot gedeeld. Het gelijke toestel is nu verbonden met uw toestel.</string>
+    <string name="softap_share_failed">Delen van uw netwerkverbinding mislukt.</string>
+    <string name="share_wlan_success">WiFi-netwerkinformatie gedeeld.</string>
+    <string name="otherside_not_support_pair_Toast">Het gelijke toestel is niet compatibel. Kan niet koppelen.</string>
+    <string name="nfc_url_title">NFC-verzoek</string>
+    <string name="nfc_url_body">"De link in deze URL-tag openen? "</string>
+    <string name="no_longer_nfc_url">Niet opnieuw herinneren</string>
+    <string name="wifi_to_p2p_message">Als u Wi-Fi Direct inschakelt, wordt Wi-Fi uitgeschakeld.</string>
+    <string name="tether_to_p2p_message">Als u Wi-Fi Direct inschakelt, wordt Wi-Fi-hotspot uitgeschakeld.</string>
+    <string name="beam_failed_wifi_on_nocoex">Beam mislukt omdat Wi-Fi is ingeschakeld</string>
+    <string name="beam_failed_tether_on_nocoex">Beam mislukt omdat Wi-Fi-hotspot is ingeschakeld</string>
+    <string name="routing_table_full">Routeringstabel is vol. Verwijder sommige betalingsapps.</string>
+    <string name="nfc_enabled_dialog">NFC moet ingeschakeld zijn. Inschakelen?</string>
+    <string name="nfc_enabled_tittle">Opmerking</string>
+    <string name="nfc_not_enabled_user_restriction">Deze gebruiker mag de NFC-service niet inschakelen.</string>
+</resources>
